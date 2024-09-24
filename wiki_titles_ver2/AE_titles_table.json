@@ -1,0 +1,3300 @@
+[
+    {
+        "title": "1928 Winter Olympics",
+        "tables": [
+            [
+                {
+                    "Participating National Olympic Committees": "ARG 1928 Winter 10 AUT 1928 Winter 39 BEL 1928 Winter 25 CAN 1928 Winter 23 TCH 1928 Winter 29 EST 1928 Winter 2 FIN 1928 Winter 18 FRA 1928 Winter 38 GER 1928 Winter 44 GBR 1928 Winter 32 HUN 1928 Winter 13 ITA 1928 Winter 13 JPN 1928 Winter 6 LAT 1928 Winter 1 LTU 1928 Winter 1 LUX 1928 Winter 5 MEX 1928 Winter 5 NED 1928 Winter 7 NOR 1928 Winter 25 POL 1928 Winter 26 ROU 1928 Winter 10 SWE 1928 Winter 24 SUI 1928 Winter 41 (host) USA 1928 Winter 24 YUG 1928 Winter 6"
+                }
+            ],
+            [
+                {
+                    "IOC Letter Code": "GER",
+                    "Country": "GER 1928 Winter",
+                    "Athletes": "44"
+                },
+                {
+                    "IOC Letter Code": "SUI",
+                    "Country": "SUI 1928 Winter",
+                    "Athletes": "41"
+                },
+                {
+                    "IOC Letter Code": "AUT",
+                    "Country": "AUT 1928 Winter",
+                    "Athletes": "39"
+                },
+                {
+                    "IOC Letter Code": "FRA",
+                    "Country": "FRA 1928 Winter",
+                    "Athletes": "38"
+                },
+                {
+                    "IOC Letter Code": "GBR",
+                    "Country": "GBR 1928 Winter",
+                    "Athletes": "32"
+                },
+                {
+                    "IOC Letter Code": "TCH",
+                    "Country": "TCH 1928 Winter",
+                    "Athletes": "29"
+                },
+                {
+                    "IOC Letter Code": "POL",
+                    "Country": "POL 1928 Winter",
+                    "Athletes": "26"
+                },
+                {
+                    "IOC Letter Code": "BEL",
+                    "Country": "BEL 1928 Winter",
+                    "Athletes": "25"
+                },
+                {
+                    "IOC Letter Code": "NOR",
+                    "Country": "NOR 1928 Winter",
+                    "Athletes": "25"
+                },
+                {
+                    "IOC Letter Code": "SWE",
+                    "Country": "SWE 1928 Winter",
+                    "Athletes": "24"
+                },
+                {
+                    "IOC Letter Code": "USA",
+                    "Country": "USA 1928 Winter",
+                    "Athletes": "24"
+                },
+                {
+                    "IOC Letter Code": "CAN",
+                    "Country": "CAN 1928 Winter",
+                    "Athletes": "23"
+                },
+                {
+                    "IOC Letter Code": "FIN",
+                    "Country": "FIN 1928 Winter",
+                    "Athletes": "18"
+                },
+                {
+                    "IOC Letter Code": "HUN",
+                    "Country": "HUN 1928 Winter",
+                    "Athletes": "13"
+                },
+                {
+                    "IOC Letter Code": "ITA",
+                    "Country": "ITA 1928 Winter",
+                    "Athletes": "13"
+                },
+                {
+                    "IOC Letter Code": "ARG",
+                    "Country": "ARG 1928 Winter",
+                    "Athletes": "10"
+                },
+                {
+                    "IOC Letter Code": "ROM",
+                    "Country": "ROM 1928 Winter",
+                    "Athletes": "10"
+                },
+                {
+                    "IOC Letter Code": "NED",
+                    "Country": "NED 1928 Winter",
+                    "Athletes": "7"
+                },
+                {
+                    "IOC Letter Code": "JPN",
+                    "Country": "JPN 1928 Winter",
+                    "Athletes": "6"
+                },
+                {
+                    "IOC Letter Code": "YUG",
+                    "Country": "YUG 1928 Winter",
+                    "Athletes": "6"
+                },
+                {
+                    "IOC Letter Code": "LUX",
+                    "Country": "LUX 1928 Winter",
+                    "Athletes": "5"
+                },
+                {
+                    "IOC Letter Code": "MEX",
+                    "Country": "MEX 1928 Winter",
+                    "Athletes": "5"
+                },
+                {
+                    "IOC Letter Code": "EST",
+                    "Country": "EST 1928 Winter",
+                    "Athletes": "2"
+                },
+                {
+                    "IOC Letter Code": "LAT",
+                    "Country": "LAT 1928 Winter",
+                    "Athletes": "1"
+                },
+                {
+                    "IOC Letter Code": "LTU",
+                    "Country": "LTU 1928 Winter",
+                    "Athletes": "1"
+                },
+                {
+                    "IOC Letter Code": "Total",
+                    "Country": "464"
+                }
+            ],
+            [
+                {
+                    "Date": "14 February",
+                    "Sport": "Cross-country skiing",
+                    "Event": "Men's 50 kilometre",
+                    "NOC": "SWE 1928 Winter",
+                    "Gold": "Per-Erik Hedlund",
+                    "Silver": "Gustaf Jonsson",
+                    "Bronze": "Volger Andersson"
+                },
+                {
+                    "Date": "17 February",
+                    "Sport": "Cross-country skiing",
+                    "Event": "Men's 18 kilometre",
+                    "NOC": "NOR 1928 Winter",
+                    "Gold": "Johan Gr\u00f8ttumsbr\u00e5ten",
+                    "Silver": "Ole Hegge",
+                    "Bronze": "Reidar \u00d8degaard"
+                },
+                {
+                    "Date": "18 February",
+                    "Sport": "Nordic combined",
+                    "Event": "Individual",
+                    "NOC": "NOR 1928 Winter",
+                    "Gold": "Johan Gr\u00f8ttumsbr\u00e5ten",
+                    "Silver": "Hans Vinjarengen",
+                    "Bronze": "Jon Snersrud"
+                }
+            ]
+        ]
+    },
+    {
+        "title": "Rugby School",
+        "tables": [
+            [
+                {
+                    "House": "Cotton",
+                    "Founded": "1836",
+                    "Girls/Boys": "Boys"
+                },
+                {
+                    "House": "Kilbracken",
+                    "Founded": "1841",
+                    "Girls/Boys": "Boys"
+                },
+                {
+                    "House": "Michell",
+                    "Founded": "1882",
+                    "Girls/Boys": "Boys"
+                },
+                {
+                    "House": "School Field",
+                    "Founded": "1852",
+                    "Girls/Boys": "Boys"
+                },
+                {
+                    "House": "School House",
+                    "Founded": "1750",
+                    "Girls/Boys": "Boys"
+                },
+                {
+                    "House": "Sheriff",
+                    "Founded": "1930",
+                    "Girls/Boys": "Boys"
+                },
+                {
+                    "House": "Town House",
+                    "Founded": "1567",
+                    "Girls/Boys": "Boys (Day)"
+                },
+                {
+                    "House": "Whitelaw",
+                    "Founded": "c.1790 The Rugby School Register records on pp. xxii\u2013xxiii that Whitelaw House, then run by Christopher Moor was in existence about 1790. The first boy to board out with Christopher Moor was Edward Watkin in 1796. The Moors opened the present House on its Hillmorton Road site in 1811.",
+                    "Girls/Boys": "Boys"
+                },
+                {
+                    "House": "Bradley",
+                    "Founded": "1830 (1992)",
+                    "Girls/Boys": "Girls"
+                },
+                {
+                    "House": "Dean",
+                    "Founded": "1832 (1978)",
+                    "Girls/Boys": "Girls"
+                },
+                {
+                    "House": "Griffin",
+                    "Founded": "2003",
+                    "Girls/Boys": "Girls"
+                },
+                {
+                    "House": "Rupert Brooke",
+                    "Founded": "1860 (1988)",
+                    "Girls/Boys": "Girls"
+                },
+                {
+                    "House": "Southfield",
+                    "Founded": "1993",
+                    "Girls/Boys": "Girls (Day)"
+                },
+                {
+                    "House": "Stanley",
+                    "Founded": "1828 (1992)",
+                    "Girls/Boys": "Girls"
+                },
+                {
+                    "House": "Tudor",
+                    "Founded": "1893 (2002)",
+                    "Girls/Boys": "Girls"
+                }
+            ]
+        ]
+    },
+    {
+        "title": "1954 FIFA World Cup",
+        "tables": [
+            [
+                {
+                    "Bern, Canton of Bern": "Wankdorf Stadium",
+                    "Basel, Basel-Stadt": "St. Jakob Stadium",
+                    "Lausanne, Vaud": "Stade Olympique de la Pontaise"
+                },
+                {
+                    "Bern, Canton of Bern": "46 57 46 N 7 27 54 E region:BR_type:landmark",
+                    "Basel, Basel-Stadt": "47 32 29 N 7 37 12 E region:BR_type:landmark",
+                    "Lausanne, Vaud": "46 32 00 N 006 37 27 E region:BR_type:landmark"
+                },
+                {
+                    "Bern, Canton of Bern": "Capacity: 64,600",
+                    "Basel, Basel-Stadt": "Capacity: 54,800",
+                    "Lausanne, Vaud": "Capacity: 50,300"
+                },
+                {
+                    "Bern, Canton of Bern": "200px",
+                    "Basel, Basel-Stadt": "200px",
+                    "Lausanne, Vaud": "200px"
+                },
+                {
+                    "Bern, Canton of Bern": "Switzerland"
+                },
+                {
+                    "Bern, Canton of Bern": "Geneva , Canton of Geneva",
+                    "Basel, Basel-Stadt": "Lugano , Ticino",
+                    "Lausanne, Vaud": "Z\u00fcrich , Canton of Z\u00fcrich"
+                },
+                {
+                    "Bern, Canton of Bern": "Charmilles Stadium",
+                    "Basel, Basel-Stadt": "Cornaredo Stadium",
+                    "Lausanne, Vaud": "Hardturm Stadium"
+                },
+                {
+                    "Bern, Canton of Bern": "46.2091 N 6.1182 E region:BR_type:landmark",
+                    "Basel, Basel-Stadt": "46 01 25 N 8 57 42 E region:BR_type:landmark",
+                    "Lausanne, Vaud": "47 23 35 N 8 30 17 E region:BR_type:landmark"
+                },
+                {
+                    "Bern, Canton of Bern": "Capacity: 35,997",
+                    "Basel, Basel-Stadt": "Capacity: 35,800",
+                    "Lausanne, Vaud": "Capacity: 34,800"
+                },
+                {
+                    "Bern, Canton of Bern": "200px",
+                    "Basel, Basel-Stadt": "200px",
+                    "Lausanne, Vaud": "200px"
+                }
+            ],
+            [
+                {
+                    "": "10",
+                    "Team": "FRG"
+                },
+                {
+                    "": "8",
+                    "Team": "HUN 1949"
+                },
+                {
+                    "": "8",
+                    "Team": "AUT"
+                },
+                {
+                    "": "6",
+                    "Team": "URU"
+                },
+                {
+                    "": "Eliminated in the quarter-finals"
+                },
+                {
+                    "": "4",
+                    "Team": "SUI"
+                },
+                {
+                    "": "3",
+                    "Team": "BRA 1889"
+                },
+                {
+                    "": "3",
+                    "Team": "ENG"
+                },
+                {
+                    "": "3",
+                    "Team": "YUG"
+                },
+                {
+                    "": "Eliminated in the group stage"
+                },
+                {
+                    "": "2",
+                    "Team": "TUR"
+                },
+                {
+                    "": "2",
+                    "Team": "ITA"
+                },
+                {
+                    "": "2",
+                    "Team": "FRA 1830"
+                },
+                {
+                    "": "1",
+                    "Team": "BEL"
+                },
+                {
+                    "": "0",
+                    "Team": "MEX 1934"
+                },
+                {
+                    "": "0",
+                    "Team": "TCH"
+                },
+                {
+                    "": "0",
+                    "Team": "SCO"
+                },
+                {
+                    "": "0",
+                    "Team": "KOR 1949"
+                }
+            ]
+        ]
+    },
+    {
+        "title": "1930 FIFA World Cup",
+        "tables": [
+            [
+                {
+                    "Montevideo": "Estadio Centenario"
+                },
+                {
+                    "Montevideo": "34 53 40 S 56 9 10 W region:IT_type:landmark"
+                },
+                {
+                    "Montevideo": "Capacity: 90,000"
+                },
+                {
+                    "Montevideo": "250px"
+                },
+                {
+                    "Montevideo": "Uruguay"
+                }
+            ],
+            [
+                {
+                    "": "8",
+                    "Team": "URU"
+                },
+                {
+                    "": "8",
+                    "Team": "ARG"
+                },
+                {
+                    "": "4",
+                    "Team": "USA 1912"
+                },
+                {
+                    "": "4",
+                    "Team": "Kingdom of Yugoslavia"
+                },
+                {
+                    "": "Eliminated in the group stage"
+                },
+                {
+                    "": "4",
+                    "Team": "CHI"
+                },
+                {
+                    "": "2",
+                    "Team": "BRA 1889"
+                },
+                {
+                    "": "2",
+                    "Team": "FRA 1830"
+                },
+                {
+                    "": "2",
+                    "Team": "ROU"
+                },
+                {
+                    "": "2",
+                    "Team": "PAR 1842"
+                },
+                {
+                    "": "0",
+                    "Team": "PER 1825"
+                },
+                {
+                    "": "0",
+                    "Team": "BEL"
+                },
+                {
+                    "": "0",
+                    "Team": "BOL"
+                },
+                {
+                    "": "0",
+                    "Team": "MEX 1916"
+                }
+            ]
+        ]
+    },
+    {
+        "title": "Women's National Basketball Association",
+        "tables": [
+            [
+                {
+                    "Symbol": "*",
+                    "Meaning": "Franchise has relocated at some point in its existence"
+                }
+            ],
+            [
+                {
+                    "Conference": "<span style=\"color:#000000;\">Eastern</span>"
+                },
+                {
+                    "Conference": "<span style=\"color:#000000;\">Eastern</span>",
+                    "Team": "Atlanta Dream",
+                    "City": "College Park, Georgia",
+                    "Arena": "Gateway Center Arena",
+                    "Capacity": "3500",
+                    "Joined": "2008",
+                    "Head coach": "Tanisha Wright"
+                },
+                {
+                    "Conference": "<span style=\"color:#000000;\">Eastern</span>",
+                    "Team": "Chicago Sky",
+                    "City": "Chicago, Illinois",
+                    "Arena": "Wintrust Arena",
+                    "Capacity": "10387",
+                    "Joined": "2006",
+                    "Head coach": "Teresa Weatherspoon"
+                },
+                {
+                    "Conference": "<span style=\"color:#000000;\">Eastern</span>",
+                    "Team": "Connecticut Sun",
+                    "City": "Uncasville, Connecticut",
+                    "Arena": "Mohegan Sun Arena",
+                    "Capacity": "9323",
+                    "Joined": "1999*",
+                    "Head coach": "Stephanie White"
+                },
+                {
+                    "Conference": "<span style=\"color:#000000;\">Eastern</span>",
+                    "Team": "Indiana Fever",
+                    "City": "Indianapolis, Indiana",
+                    "Arena": "Gainbridge Fieldhouse",
+                    "Capacity": "17923",
+                    "Joined": "2000",
+                    "Head coach": "Christie Sides"
+                },
+                {
+                    "Conference": "<span style=\"color:#000000;\">Eastern</span>",
+                    "Team": "New York Liberty",
+                    "City": "Brooklyn, New York",
+                    "Arena": "Barclays Center",
+                    "Capacity": "17,732 Full capacity; the Liberty initially planned to limit ticket sales to 8,000.",
+                    "Joined": "1997",
+                    "Head coach": "Sandy Brondello"
+                },
+                {
+                    "Conference": "<span style=\"color:#000000;\">Eastern</span>",
+                    "Team": "Washington Mystics",
+                    "City": "Washington, D.C.",
+                    "Arena": "Entertainment and Sports Arena",
+                    "Capacity": "4200",
+                    "Joined": "1998",
+                    "Head coach": "Eric Thibault"
+                },
+                {
+                    "Conference": "<span style=\"color:#FFFFFF;\">Western</span>"
+                },
+                {
+                    "Conference": "<span style=\"color:#FFFFFF;\">Western</span>",
+                    "Team": "Dallas Wings",
+                    "City": "Arlington, Texas",
+                    "Arena": "College Park Center",
+                    "Capacity": "7000",
+                    "Joined": "1998*",
+                    "Head coach": "Latricia Trammell"
+                },
+                {
+                    "Conference": "<span style=\"color:#FFFFFF;\">Western</span>",
+                    "Team": "Las Vegas Aces",
+                    "City": "Paradise, Nevada",
+                    "Arena": "Michelob Ultra Arena",
+                    "Capacity": "12000",
+                    "Joined": "1997*",
+                    "Head coach": "Becky Hammon"
+                },
+                {
+                    "Conference": "<span style=\"color:#FFFFFF;\">Western</span>",
+                    "Team": "Los Angeles Sparks",
+                    "City": "Los Angeles, California",
+                    "Arena": "Crypto.com Arena",
+                    "Capacity": "18997",
+                    "Joined": "1997",
+                    "Head coach": "Curt Miller"
+                },
+                {
+                    "Conference": "<span style=\"color:#FFFFFF;\">Western</span>",
+                    "Team": "Minnesota Lynx",
+                    "City": "Minneapolis, Minnesota",
+                    "Arena": "Target Center",
+                    "Capacity": "19356",
+                    "Joined": "1999",
+                    "Head coach": "Cheryl Reeve"
+                },
+                {
+                    "Conference": "<span style=\"color:#FFFFFF;\">Western</span>",
+                    "Team": "Phoenix Mercury",
+                    "City": "Phoenix, Arizona",
+                    "Arena": "Footprint Center",
+                    "Capacity": "18422",
+                    "Joined": "1997",
+                    "Head coach": "Nate Tibbetts"
+                },
+                {
+                    "Conference": "<span style=\"color:#FFFFFF;\">Western</span>",
+                    "Team": "Seattle Storm",
+                    "City": "Seattle, Washington",
+                    "Arena": "Climate Pledge Arena",
+                    "Capacity": "18100",
+                    "Joined": "2000",
+                    "Head coach": "Noelle Quinn"
+                }
+            ],
+            [
+                {
+                    "Team": "Golden State Valkyries",
+                    "City": "San Francisco, California",
+                    "Arena": "Chase Center",
+                    "Capacity": "18064",
+                    "Joining": "2025",
+                    "Head coach": "TBA"
+                },
+                {
+                    "Team": "Toronto WNBA team",
+                    "City": "Toronto, Ontario",
+                    "Arena": "Coca-Cola Coliseum",
+                    "Capacity": "8700",
+                    "Joining": "2026",
+                    "Head coach": "TBA"
+                }
+            ],
+            [
+                {
+                    "Season(s)": "+ WNBA expansion and contraction"
+                },
+                {
+                    "Season(s)": "1997",
+                    "No. of teams": "8"
+                },
+                {
+                    "Season(s)": "1998",
+                    "No. of teams": "10"
+                },
+                {
+                    "Season(s)": "1999",
+                    "No. of teams": "12"
+                },
+                {
+                    "Season(s)": "2000\u20132002",
+                    "No. of teams": "16"
+                },
+                {
+                    "Season(s)": "2003",
+                    "No. of teams": "14"
+                },
+                {
+                    "Season(s)": "2004\u20132005",
+                    "No. of teams": "13"
+                },
+                {
+                    "Season(s)": "2006",
+                    "No. of teams": "14"
+                },
+                {
+                    "Season(s)": "2007",
+                    "No. of teams": "13"
+                },
+                {
+                    "Season(s)": "2008",
+                    "No. of teams": "14"
+                },
+                {
+                    "Season(s)": "2009",
+                    "No. of teams": "13"
+                },
+                {
+                    "Season(s)": "2010\u20132024",
+                    "No. of teams": "12"
+                },
+                {
+                    "Season(s)": "2025",
+                    "No. of teams": "13"
+                },
+                {
+                    "Season(s)": "2026\u2013future",
+                    "No. of teams": "14"
+                }
+            ],
+            [
+                {
+                    "Season": "Team",
+                    "Champions": "Coach",
+                    "Runners-up": "Team",
+                    "Format": "Coach"
+                },
+                {
+                    "Season": "1997",
+                    "Champions": "Houston Comets",
+                    "Runners-up": "Van Chancellor",
+                    "Format": "New York Liberty",
+                    "Results": "Nancy Darsch",
+                    "Finals MVP": "Single game"
+                },
+                {
+                    "Season": "1998",
+                    "Champions": "Houston Comets",
+                    "Runners-up": "Van Chancellor",
+                    "Format": "Phoenix Mercury",
+                    "Results": "Cheryl Miller",
+                    "Finals MVP": "Best-of-three"
+                },
+                {
+                    "Season": "1999",
+                    "Champions": "Houston Comets",
+                    "Runners-up": "Van Chancellor",
+                    "Format": "New York Liberty",
+                    "Results": "Richie Adubato",
+                    "Finals MVP": "Best-of-three"
+                }
+            ],
+            [
+                {
+                    "Season": "Team",
+                    "Champions": "Coach",
+                    "Runners-up": "Team",
+                    "Format": "Coach"
+                },
+                {
+                    "Season": "2000",
+                    "Champions": "Houston Comets",
+                    "Runners-up": "Van Chancellor",
+                    "Format": "New York Liberty",
+                    "Results": "Richie Adubato",
+                    "Finals MVP": "Best-of-three"
+                },
+                {
+                    "Season": "2001",
+                    "Champions": "Los Angeles Sparks",
+                    "Runners-up": "Michael Cooper",
+                    "Format": "Charlotte Sting",
+                    "Results": "Anne Donovan",
+                    "Finals MVP": "Best-of-three"
+                },
+                {
+                    "Season": "2002",
+                    "Champions": "Los Angeles Sparks",
+                    "Runners-up": "Michael Cooper",
+                    "Format": "New York Liberty",
+                    "Results": "Richie Adubato",
+                    "Finals MVP": "Best-of-three"
+                },
+                {
+                    "Season": "2003",
+                    "Champions": "Detroit Shock",
+                    "Runners-up": "Bill Laimbeer",
+                    "Format": "Los Angeles Sparks",
+                    "Results": "Michael Cooper",
+                    "Finals MVP": "Best-of-three"
+                },
+                {
+                    "Season": "2004",
+                    "Champions": "Seattle Storm",
+                    "Runners-up": "Anne Donovan",
+                    "Format": "Connecticut Sun",
+                    "Results": "Mike Thibault",
+                    "Finals MVP": "Best-of-three"
+                },
+                {
+                    "Season": "2005",
+                    "Champions": "[[2005 Sacramento Monarchs season|Sacramento Monarchs]]",
+                    "Runners-up": "John Whisenant",
+                    "Format": "Connecticut Sun",
+                    "Results": "Mike Thibault",
+                    "Finals MVP": "Best-of-five"
+                },
+                {
+                    "Season": "2006",
+                    "Champions": "Detroit Shock",
+                    "Runners-up": "Bill Laimbeer",
+                    "Format": "Sacramento Monarchs",
+                    "Results": "John Whisenant",
+                    "Finals MVP": "Best-of-five"
+                },
+                {
+                    "Season": "2007",
+                    "Champions": "Phoenix Mercury",
+                    "Runners-up": "Paul Westhead",
+                    "Format": "Detroit Shock",
+                    "Results": "Bill Laimbeer",
+                    "Finals MVP": "Best-of-five"
+                },
+                {
+                    "Season": "2008",
+                    "Champions": "Detroit Shock",
+                    "Runners-up": "Bill Laimbeer",
+                    "Format": "[[San Antonio Silver Stars]]",
+                    "Results": "Dan Hughes",
+                    "Finals MVP": "Best-of-five"
+                },
+                {
+                    "Season": "2009",
+                    "Champions": "Phoenix Mercury",
+                    "Runners-up": "Corey Gaines",
+                    "Format": "Indiana Fever",
+                    "Results": "Lin Dunn",
+                    "Finals MVP": "Best-of-five"
+                }
+            ],
+            [
+                {
+                    "Season": "Team",
+                    "Champions": "Coach",
+                    "Runners-up": "Team",
+                    "Format": "Coach"
+                },
+                {
+                    "Season": "2010",
+                    "Champions": "Seattle Storm",
+                    "Runners-up": "Brian Agler",
+                    "Format": "Atlanta Dream",
+                    "Results": "Marynell Meadors",
+                    "Finals MVP": "Best-of-five"
+                },
+                {
+                    "Season": "2011",
+                    "Champions": "Minnesota Lynx",
+                    "Runners-up": "Cheryl Reeve",
+                    "Format": "Atlanta Dream",
+                    "Results": "Marynell Meadors",
+                    "Finals MVP": "Best-of-five"
+                },
+                {
+                    "Season": "2012",
+                    "Champions": "Indiana Fever",
+                    "Runners-up": "Lin Dunn",
+                    "Format": "Minnesota Lynx",
+                    "Results": "Cheryl Reeve",
+                    "Finals MVP": "Best-of-five"
+                },
+                {
+                    "Season": "2013",
+                    "Champions": "Minnesota Lynx",
+                    "Runners-up": "Cheryl Reeve",
+                    "Format": "Atlanta Dream",
+                    "Results": "Fred Williams",
+                    "Finals MVP": "Best-of-five"
+                },
+                {
+                    "Season": "2014",
+                    "Champions": "Phoenix Mercury",
+                    "Runners-up": "Sandy Brondello",
+                    "Format": "Chicago Sky",
+                    "Results": "Pokey Chatman",
+                    "Finals MVP": "Best-of-five"
+                },
+                {
+                    "Season": "2015",
+                    "Champions": "Minnesota Lynx",
+                    "Runners-up": "Cheryl Reeve",
+                    "Format": "Indiana Fever",
+                    "Results": "Stephanie White",
+                    "Finals MVP": "Best-of-five"
+                },
+                {
+                    "Season": "2016",
+                    "Champions": "Los Angeles Sparks",
+                    "Runners-up": "Brian Agler",
+                    "Format": "Minnesota Lynx",
+                    "Results": "Cheryl Reeve",
+                    "Finals MVP": "Best-of-five"
+                },
+                {
+                    "Season": "2017",
+                    "Champions": "Minnesota Lynx",
+                    "Runners-up": "Cheryl Reeve",
+                    "Format": "Los Angeles Sparks",
+                    "Results": "Brian Agler",
+                    "Finals MVP": "Best-of-five"
+                },
+                {
+                    "Season": "2018",
+                    "Champions": "Seattle Storm",
+                    "Runners-up": "Dan Hughes",
+                    "Format": "Washington Mystics",
+                    "Results": "Mike Thibault",
+                    "Finals MVP": "Best-of-five"
+                },
+                {
+                    "Season": "2019",
+                    "Champions": "Washington Mystics",
+                    "Runners-up": "Mike Thibault",
+                    "Format": "Connecticut Sun",
+                    "Results": "Curt Miller",
+                    "Finals MVP": "Best-of-five"
+                }
+            ],
+            [
+                {
+                    "Season": "Team",
+                    "Champions": "Coach",
+                    "Runners-up": "Team",
+                    "Format": "Coach"
+                },
+                {
+                    "Season": "2020",
+                    "Champions": "Seattle Storm",
+                    "Runners-up": "Gary Kloppenburg",
+                    "Format": "Las Vegas Aces",
+                    "Results": "Bill Laimbeer",
+                    "Finals MVP": "Best-of-five"
+                },
+                {
+                    "Season": "2021",
+                    "Champions": "Chicago Sky",
+                    "Runners-up": "James Wade",
+                    "Format": "Phoenix Mercury",
+                    "Results": "Sandy Brondello",
+                    "Finals MVP": "Best-of-five"
+                },
+                {
+                    "Season": "2022",
+                    "Champions": "Las Vegas Aces",
+                    "Runners-up": "Becky Hammon",
+                    "Format": "Connecticut Sun",
+                    "Results": "Curt Miller",
+                    "Finals MVP": "Best-of-five"
+                },
+                {
+                    "Season": "2023",
+                    "Champions": "Las Vegas Aces",
+                    "Runners-up": "Becky Hammon",
+                    "Format": "New York Liberty",
+                    "Results": "Sandy Brondello",
+                    "Finals MVP": "Best-of-five"
+                }
+            ],
+            [
+                {
+                    "Teams": "Minnesota Lynx",
+                    "Win": "4",
+                    "Loss": "2",
+                    "Total": "6",
+                    "Year(s) won": "2011 , 2013 , 2015 , 2017",
+                    "Year(s) lost": "2012 , 2016"
+                },
+                {
+                    "Teams": "Houston Comets (folded in 2008)",
+                    "Win": "4",
+                    "Loss": "0",
+                    "Total": "4",
+                    "Year(s) won": "1997 , 1998 , 1999 , 2000",
+                    "Year(s) lost": "-"
+                },
+                {
+                    "Teams": "Seattle Storm",
+                    "Win": "4",
+                    "Loss": "0",
+                    "Total": "4",
+                    "Year(s) won": "2004 , 2010 , 2018 , 2020",
+                    "Year(s) lost": "-"
+                },
+                {
+                    "Teams": "Los Angeles Sparks",
+                    "Win": "3",
+                    "Loss": "2",
+                    "Total": "5",
+                    "Year(s) won": "2001 , 2002 , 2016",
+                    "Year(s) lost": "2003 , 2017"
+                },
+                {
+                    "Teams": "Phoenix Mercury",
+                    "Win": "3",
+                    "Loss": "2",
+                    "Total": "5",
+                    "Year(s) won": "2007 , 2009 , 2014",
+                    "Year(s) lost": "1998 , 2021"
+                },
+                {
+                    "Teams": "Detroit Shock (now Dallas Wings )",
+                    "Win": "3",
+                    "Loss": "1",
+                    "Total": "4",
+                    "Year(s) won": "2003 , 2006 , 2008",
+                    "Year(s) lost": "2007"
+                },
+                {
+                    "Teams": "Las Vegas Aces (previously San Antonio Stars)",
+                    "Win": "2",
+                    "Loss": "2",
+                    "Total": "4",
+                    "Year(s) won": "2022 , 2023",
+                    "Year(s) lost": "2008 , 2020"
+                },
+                {
+                    "Teams": "Indiana Fever",
+                    "Win": "1",
+                    "Loss": "2",
+                    "Total": "3",
+                    "Year(s) won": "2012",
+                    "Year(s) lost": "2009 , 2015"
+                },
+                {
+                    "Teams": "Sacramento Monarchs (folded in 2009)",
+                    "Win": "1",
+                    "Loss": "1",
+                    "Total": "2",
+                    "Year(s) won": "2005",
+                    "Year(s) lost": "2006"
+                },
+                {
+                    "Teams": "Washington Mystics",
+                    "Win": "1",
+                    "Loss": "1",
+                    "Total": "2",
+                    "Year(s) won": "2019",
+                    "Year(s) lost": "2018"
+                },
+                {
+                    "Teams": "Chicago Sky",
+                    "Win": "1",
+                    "Loss": "1",
+                    "Total": "2",
+                    "Year(s) won": "2021",
+                    "Year(s) lost": "2014"
+                },
+                {
+                    "Teams": "New York Liberty",
+                    "Win": "0",
+                    "Loss": "5",
+                    "Total": "5",
+                    "Year(s) won": "-",
+                    "Year(s) lost": "1997 , 1999 , 2000 , 2002 , 2023"
+                },
+                {
+                    "Teams": "Connecticut Sun",
+                    "Win": "0",
+                    "Loss": "4",
+                    "Total": "4",
+                    "Year(s) won": "-",
+                    "Year(s) lost": "2004 , 2005 , 2019 , 2022"
+                },
+                {
+                    "Teams": "Atlanta Dream",
+                    "Win": "0",
+                    "Loss": "3",
+                    "Total": "3",
+                    "Year(s) won": "-",
+                    "Year(s) lost": "2010 , 2011 , 2013"
+                },
+                {
+                    "Teams": "Charlotte Sting (folded in 2006)",
+                    "Win": "0",
+                    "Loss": "1",
+                    "Total": "1",
+                    "Year(s) won": "-",
+                    "Year(s) lost": "2001"
+                }
+            ],
+            [
+                {
+                    "Milestone": "+ WNBA Milestones"
+                },
+                {
+                    "Milestone": "First player signed",
+                    "Player": "Sheryl Swoopes",
+                    "Team": "Houston Comets",
+                    "Date": "October 23, 1996",
+                    "Information": "Signed by the WNBA and assigned to Houston ."
+                },
+                {
+                    "Milestone": "First points scored",
+                    "Player": "Penny Toler",
+                    "Team": "Los Angeles Sparks",
+                    "Date": "June 21, 1997",
+                    "Information": "Scored the first points on a baseline jump-shot."
+                },
+                {
+                    "Milestone": "First triple-double",
+                    "Player": "Sheryl Swoopes",
+                    "Team": "Houston Comets",
+                    "Date": "July 27, 1998",
+                    "Information": "14 points, 15 rebounds, 10 assists"
+                },
+                {
+                    "Milestone": "First slam dunk",
+                    "Player": "Lisa Leslie",
+                    "Team": "Los Angeles Sparks",
+                    "Date": "July 30, 2002",
+                    "Information": "Dunked on a fast break against Miami"
+                },
+                {
+                    "Milestone": "First 50\u201340\u201390 season",
+                    "Player": "Elena Delle Donne",
+                    "Team": "Washington Mystics",
+                    "Date": "2019",
+                    "Information": "51.5% FG, 43.0% 3FG, 97.4% FT"
+                },
+                {
+                    "Milestone": "Most games played",
+                    "Player": "Sue Bird",
+                    "Team": "Seattle Storm",
+                    "Date": "2002\u20132012, 2014\u20132018, 2020\u20132022",
+                    "Information": "580 games"
+                },
+                {
+                    "Milestone": "Most career points",
+                    "Player": "Diana Taurasi",
+                    "Team": "Phoenix Mercury",
+                    "Date": "2004\u20132014, 2016\u2013present",
+                    "Information": "10,108 points"
+                },
+                {
+                    "Milestone": "Most career rebounds",
+                    "Player": "Sylvia Fowles",
+                    "Team": "Chicago Sky / Minnesota Lynx",
+                    "Date": "2008\u20132022",
+                    "Information": "4,006 rebounds"
+                },
+                {
+                    "Milestone": "Most career assists",
+                    "Player": "Sue Bird",
+                    "Team": "Seattle Storm",
+                    "Date": "2002\u20132012, 2014\u20132018, 2020\u20132022",
+                    "Information": "3,234 assists"
+                },
+                {
+                    "Milestone": "Most career blocks",
+                    "Player": "Margo Dydek",
+                    "Team": "Utah Starzz / San Antonio Silver Stars / Connecticut Sun / Los Angeles Sparks",
+                    "Date": "1998\u20132004, 2005\u20132007, 2008",
+                    "Information": "877 blocks"
+                },
+                {
+                    "Milestone": "Most career steals",
+                    "Player": "Tamika Catchings",
+                    "Team": "Indiana Fever",
+                    "Date": "2002\u20132016",
+                    "Information": "1,074 steals"
+                },
+                {
+                    "Milestone": "Most 3-pointers",
+                    "Player": "Diana Taurasi",
+                    "Team": "Phoenix Mercury",
+                    "Date": "2004\u20132014, 2016\u2013present",
+                    "Information": "1,361 3-pointers"
+                },
+                {
+                    "Milestone": "Most points in a game",
+                    "Player": "Liz Cambage",
+                    "Team": "Dallas Wings",
+                    "Date": "July 17, 2018",
+                    "Information": "53 points"
+                },
+                {
+                    "Milestone": "Most points in a game",
+                    "Player": "A'ja Wilson",
+                    "Team": "Las Vegas Aces",
+                    "Date": "August 22, 2023",
+                    "Information": "53 points"
+                },
+                {
+                    "Milestone": "Most rebounds in a game",
+                    "Player": "Chamique Holdsclaw",
+                    "Team": "Washington Mystics",
+                    "Date": "May 23, 2003",
+                    "Information": "24 rebounds"
+                },
+                {
+                    "Milestone": "Most assists in a game",
+                    "Player": "Courtney Vandersloot",
+                    "Team": "Chicago Sky",
+                    "Date": "August 31, 2020",
+                    "Information": "18 assists"
+                },
+                {
+                    "Milestone": "Most career wins for a coach",
+                    "Player": "Mike Thibault",
+                    "Team": "Connecticut Sun / Washington Mystics",
+                    "Date": "2003\u20132022",
+                    "Information": "379 wins"
+                },
+                {
+                    "Milestone": "Most team points in one game",
+                    "Player": "\u2013",
+                    "Team": "Phoenix Mercury",
+                    "Date": "July 24, 2010",
+                    "Information": "127 points in double overtime against Minnesota"
+                },
+                {
+                    "Milestone": "Most team points in a regulation game",
+                    "Player": "\u2013",
+                    "Team": "Phoenix Mercury",
+                    "Date": "July 22, 2010",
+                    "Information": "123 points against Tulsa"
+                },
+                {
+                    "Milestone": "Largest margin of victory",
+                    "Player": "\u2013",
+                    "Team": "Minnesota Lynx",
+                    "Date": "August 18, 2017",
+                    "Information": "59-point win (111\u201352) over Indiana"
+                },
+                {
+                    "Milestone": "Largest attendance for one game",
+                    "Player": "\u2013",
+                    "Team": "Detroit Shock",
+                    "Date": "September 16, 2007",
+                    "Information": "22,076 in game 5 of 2007 Finals"
+                }
+            ],
+            [
+                {
+                    "Award": "Most Valuable Player Award",
+                    "Winner": "Breanna Stewart",
+                    "Position": "Forward",
+                    "Team": "New York Liberty",
+                    "Votes/Statistic": "20 out of 60"
+                },
+                {
+                    "Award": "Finals MVP Award",
+                    "Winner": "A'ja Wilson",
+                    "Position": "Forward",
+                    "Team": "Las Vegas Aces",
+                    "Votes/Statistic": "N/A The WNBA did not announce detailed voting results."
+                },
+                {
+                    "Award": "Rookie of the Year Award",
+                    "Winner": "Aliyah Boston",
+                    "Position": "Forward-center",
+                    "Team": "Indiana Fever",
+                    "Votes/Statistic": "60 out of 60"
+                },
+                {
+                    "Award": "Most Improved Player Award",
+                    "Winner": "Satou Sabally",
+                    "Position": "Forward",
+                    "Team": "Dallas Wings",
+                    "Votes/Statistic": "37 out of 60"
+                },
+                {
+                    "Award": "Defensive Player of the Year Award",
+                    "Winner": "A'ja Wilson",
+                    "Position": "Forward",
+                    "Team": "Las Vegas Aces",
+                    "Votes/Statistic": "32 out of 60"
+                },
+                {
+                    "Award": "Sixth Player of the Year Award",
+                    "Winner": "Alysha Clark",
+                    "Position": "Forward",
+                    "Team": "Las Vegas Aces",
+                    "Votes/Statistic": "35 out of 60"
+                },
+                {
+                    "Award": "Kim Perrot Sportsmanship Award",
+                    "Winner": "Elizabeth Williams",
+                    "Position": "Center",
+                    "Team": "Chicago Sky",
+                    "Votes/Statistic": "15 out of 60"
+                },
+                {
+                    "Award": "Peak Performer: Points",
+                    "Winner": "Jewell Loyd",
+                    "Position": "Guard",
+                    "Team": "Seattle Storm",
+                    "Votes/Statistic": "24.7 PPG"
+                },
+                {
+                    "Award": "Peak Performer: Rebounds",
+                    "Winner": "Alyssa Thomas",
+                    "Position": "Forward",
+                    "Team": "Connecticut Sun",
+                    "Votes/Statistic": "9.9 RPG"
+                },
+                {
+                    "Award": "Peak Performer: Assists",
+                    "Winner": "Courtney Vandersloot",
+                    "Position": "Guard",
+                    "Team": "New York Liberty",
+                    "Votes/Statistic": "8.1 APG"
+                },
+                {
+                    "Award": "Coach of the Year Award",
+                    "Winner": "Stephanie White",
+                    "Position": "Coach",
+                    "Team": "Connecticut Sun",
+                    "Votes/Statistic": "36 out of 60"
+                },
+                {
+                    "Award": "Basketball Executive of the Year Award",
+                    "Winner": "Jonathan Kolb",
+                    "Position": "General manager",
+                    "Team": "New York Liberty",
+                    "Votes/Statistic": "6 out of 11"
+                },
+                {
+                    "Award": "Community Assist Award",
+                    "Winner": "Brittney Griner",
+                    "Position": "Center",
+                    "Team": "Phoenix Mercury",
+                    "Votes/Statistic": "N/A"
+                }
+            ],
+            [
+                {
+                    "No.": "9",
+                    "Team": "Los Angeles Sparks",
+                    "Player": "Lisa Leslie",
+                    "Pos.": "C",
+                    "Tenure": "1997\u20132009",
+                    "Ref.": "[http://www.espn.com/news/story?id=5450577 Sparks to retire Lisa Leslie's jersey] on ESPN, 9 Aug 2010 [http://www.sandiegouniontribune.com/sdut-la-sparks-to-retire-lisa-leslies-jersey-2010aug09-story.html LA Sparks to retire Lisa Leslie's jersey] , The San Diego Union Tribune , 9 Aug 2010"
+                },
+                {
+                    "No.": "11",
+                    "Team": "Los Angeles Sparks",
+                    "Player": "Penny Toler",
+                    "Pos.": "G",
+                    "Tenure": "1997\u201399",
+                    "Ref.": "[http://www.wnba.com/archive/wnba/sparks/news/jersey_toler_060717.html Sparks Retire Toler\u2019s Jersey] on WNBA.com"
+                },
+                {
+                    "No.": "24",
+                    "Team": "Indiana Fever",
+                    "Player": "Tamika Catchings",
+                    "Pos.": "SF",
+                    "Tenure": "2002\u201316",
+                    "Ref.": "[https://utsports.com/news/2017/6/26/Indiana_Fever_to_Retire_Catchings_No_24_Jersey.aspx?path=wbball INDIANA FEVER TO RETIRE CATCHINGS' NO. 24 JERSEY] on Tennessee Athletics website, 26 Jun 2017"
+                },
+                {
+                    "No.": "25",
+                    "Team": "Las Vegas Aces",
+                    "Player": "Becky Hammon",
+                    "Pos.": "G",
+                    "Tenure": "2007\u201314",
+                    "Ref.": ""
+                },
+                {
+                    "No.": "13",
+                    "Team": "Minnesota Lynx",
+                    "Player": "Lindsay Whalen",
+                    "Pos.": "G",
+                    "Tenure": "2010\u201318",
+                    "Ref.": ""
+                },
+                {
+                    "No.": "32",
+                    "Team": "Minnesota Lynx",
+                    "Player": "Rebekkah Brunson",
+                    "Pos.": "F",
+                    "Tenure": "2010-2018",
+                    "Ref.": ""
+                },
+                {
+                    "No.": "33",
+                    "Team": "Minnesota Lynx",
+                    "Player": "Seimone Augustus",
+                    "Pos.": "G",
+                    "Tenure": "2006-2019",
+                    "Ref.": ""
+                },
+                {
+                    "No.": "34",
+                    "Team": "Minnesota Lynx",
+                    "Player": "Sylvia Fowles",
+                    "Pos.": "C",
+                    "Tenure": "2015-2022",
+                    "Ref.": ""
+                },
+                {
+                    "No.": "7",
+                    "Team": "Phoenix Mercury",
+                    "Player": "Michele Timms",
+                    "Pos.": "G",
+                    "Tenure": "1997\u20132001",
+                    "Ref.": "[http://www.wnba.com/archive/wnba/mercury/news/reitre7_020730.html Mercury to retired #7] on WNBA.com [https://sahof.org.au/hall-of-fame-member/michele-timms/ Michelle Timms] on Sports Australia HoF"
+                },
+                {
+                    "No.": "13",
+                    "Team": "Phoenix Mercury",
+                    "Player": "Penny Taylor",
+                    "Pos.": "G/F",
+                    "Tenure": "2004\u201316",
+                    "Ref.": "[Phoenix Mercury retires Penny Taylor's jersey as Australian greats pay tribute] by Roy Ward on The Sydney Morning Herald , 10 July 2017"
+                },
+                {
+                    "No.": "22",
+                    "Team": "Phoenix Mercury",
+                    "Player": "Jennifer Gillom",
+                    "Pos.": "F",
+                    "Tenure": "1997\u20132002",
+                    "Ref.": ""
+                },
+                {
+                    "No.": "32",
+                    "Team": "Phoenix Mercury",
+                    "Player": "Bridget Pettis",
+                    "Pos.": "G",
+                    "Tenure": "1997\u20132006",
+                    "Ref.": ""
+                },
+                {
+                    "No.": "15",
+                    "Team": "Seattle Storm",
+                    "Player": "Lauren Jackson",
+                    "Pos.": "F/C",
+                    "Tenure": "2001\u201312",
+                    "Ref.": "[http://www.espn.com/wnba/story/_/id/17088555/seattle-storm-retire-lauren-jackson-jersey-give-send-deserved Storm retire jersey, finally able to give Lauren Jackson send-off she deserved] by Kevin Pelton on ESPN, 18 Jul 2016 [https://www.usatoday.com/story/sports/wnba/2016/07/16/seattle-storm-retire-lauren-jacksons-no-15-jersey/87170538/ Seattle Storm retire Aussie Lauren Jackson's No. 15 jersey] , USA Today, 16 Jul 2016"
+                },
+                {
+                    "No.": "10",
+                    "Team": "Seattle Storm",
+                    "Player": "Sue Bird",
+                    "Pos.": "G",
+                    "Tenure": "2001\u201322",
+                    "Ref.": ""
+                }
+            ],
+            [
+                {
+                    "No.": "23",
+                    "Team": "Minnesota Lynx",
+                    "Player": "Maya Moore",
+                    "Pos.": "F",
+                    "Tenure": "2011\u20132018",
+                    "Date": "August 24, 2024",
+                    "Ref.": ""
+                }
+            ],
+            [
+                {
+                    "Area": "WNBA Court Dimensions"
+                },
+                {
+                    "Area": "Length of court (baseline to baseline)",
+                    "Imperial": "94 &nbsp; ft",
+                    "Metric": "28.65 m"
+                },
+                {
+                    "Area": "Width of court (sideline to sideline)",
+                    "Imperial": "50 &nbsp; ft",
+                    "Metric": "15.24 m"
+                },
+                {
+                    "Area": "Rim height (floor to rim)",
+                    "Imperial": "10 &nbsp; ft",
+                    "Metric": "3.05 m"
+                },
+                {
+                    "Area": "Center circle diameter",
+                    "Imperial": "12 &nbsp; ft",
+                    "Metric": "3.66 m"
+                },
+                {
+                    "Area": "Three-point line distance from center of basket",
+                    "Imperial": "22 &nbsp; ft 1.75 &nbsp; in",
+                    "Metric": "6.75 m"
+                },
+                {
+                    "Area": "3-point line distance from center of basket (corners)",
+                    "Imperial": "22 &nbsp; ft",
+                    "Metric": "6.71 m"
+                },
+                {
+                    "Area": "Shaded area/Lane/Key length",
+                    "Imperial": "19 &nbsp; ft",
+                    "Metric": "5.8 m"
+                },
+                {
+                    "Area": "Shaded area/Lane/Key width",
+                    "Imperial": "16 &nbsp; ft",
+                    "Metric": "4.88 m"
+                },
+                {
+                    "Area": "Restricted area (aka \"block/charge arc\") (distance from center of basket)",
+                    "Imperial": "4 &nbsp; ft",
+                    "Metric": "1.22 m"
+                },
+                {
+                    "Area": "Free-throw line (distance from backboard)",
+                    "Imperial": "15 &nbsp; ft",
+                    "Metric": "4.57 m"
+                },
+                {
+                    "Area": "Free-throw half-circle radius",
+                    "Imperial": "6 &nbsp; ft",
+                    "Metric": "1.83 m"
+                },
+                {
+                    "Area": "Backboard width (side to side)",
+                    "Imperial": "6 &nbsp; ft",
+                    "Metric": "1.83 m"
+                },
+                {
+                    "Area": "Coaching box width (from baseline)",
+                    "Imperial": "28 &nbsp; ft",
+                    "Metric": "8.54 m"
+                },
+                {
+                    "Area": "*All dimensions are in line with NBA regulations except the main three-point arc. The three-point distance at the corners is identical in the NBA and WNBA."
+                }
+            ],
+            [
+                {
+                    "Jersey Sales": "Rank"
+                },
+                {
+                    "Jersey Sales": "Player"
+                },
+                {
+                    "Jersey Sales": "Team"
+                }
+            ],
+            [
+                {
+                    "Team Sales": "Rank"
+                },
+                {
+                    "Team Sales": "Team"
+                }
+            ],
+            [
+                {
+                    "CHA": "Year",
+                    "CLE": "Team",
+                    "DET": "League"
+                },
+                {
+                    "CHA": "Year",
+                    "CLE": "1997",
+                    "DET": "8307",
+                    "HOU": "7971",
+                    "LA": "",
+                    "MIN": "9814",
+                    "NY": "8937",
+                    "ORL": "",
+                    "PHX": "13270",
+                    "SAC": "",
+                    "UTA": "13703",
+                    "WAS": "7858",
+                    "Regular season": "7611",
+                    "Postseason": ""
+                },
+                {
+                    "CHA": "1998",
+                    "CLE": "8561",
+                    "DET": "10350",
+                    "HOU": "10229",
+                    "LA": "12602",
+                    "MIN": "7653",
+                    "NY": "",
+                    "ORL": "14935",
+                    "PHX": "",
+                    "SAC": "13764",
+                    "UTA": "6578",
+                    "WAS": "8104",
+                    "Regular season": "15910",
+                    "Postseason": "10869"
+                },
+                {
+                    "CHA": "1999",
+                    "CLE": "7080",
+                    "DET": "9350",
+                    "HOU": "8485",
+                    "LA": "11906",
+                    "MIN": "7625",
+                    "NY": "10494",
+                    "ORL": "14047",
+                    "PHX": "9801",
+                    "SAC": "12219",
+                    "UTA": "8626",
+                    "WAS": "7544",
+                    "Regular season": "15306",
+                    "Postseason": "10207"
+                }
+            ],
+            [
+                {
+                    "ATL": "Year",
+                    "CHA": "Team",
+                    "CHI": "League"
+                },
+                {
+                    "ATL": "Year",
+                    "CHA": "2000",
+                    "CHI": "",
+                    "CLE": "5685",
+                    "CON": "",
+                    "DET": "8596",
+                    "HOU": "",
+                    "IND": "6716",
+                    "LA": "12255",
+                    "MIA": "12267",
+                    "MIN": "6563",
+                    "NY": "7983",
+                    "ORL": "7290",
+                    "PHX": "14498",
+                    "POR": "7363",
+                    "SAC": "10130",
+                    "SA": "8317",
+                    "SEA": "7928",
+                    "UTA": "",
+                    "WAS": "8912",
+                    "Regular season": "6420",
+                    "Postseason": "15258"
+                },
+                {
+                    "ATL": "2001",
+                    "CHA": "",
+                    "CHI": "6595",
+                    "CLE": "",
+                    "CON": "9211",
+                    "DET": "",
+                    "HOU": "6834",
+                    "IND": "11320",
+                    "LA": "8683",
+                    "MIA": "9,278 [[Los Angeles Sparks|LA]] moved from [[The Forum (Inglewood, California)|The Forum]] to [[Staples Center]] prior to the 2001 season.",
+                    "MIN": "8840",
+                    "NY": "7538",
+                    "ORL": "15671",
+                    "PHX": "7430",
+                    "POR": "8558",
+                    "SAC": "8604",
+                    "SA": "8350",
+                    "SEA": "",
+                    "UTA": "5954",
+                    "WAS": "6907",
+                    "Regular season": "15417",
+                    "Postseason": "9074"
+                },
+                {
+                    "ATL": "2002",
+                    "CHA": "",
+                    "CHI": "6667",
+                    "CLE": "",
+                    "CON": "9318",
+                    "DET": "",
+                    "HOU": "5686",
+                    "IND": "10866",
+                    "LA": "8434",
+                    "MIA": "11651",
+                    "MIN": "8828",
+                    "NY": "7819",
+                    "ORL": "14670",
+                    "PHX": "7115",
+                    "POR": "8737",
+                    "SAC": "8041",
+                    "SA": "9011",
+                    "SEA": "",
+                    "UTA": "6989",
+                    "WAS": "7420",
+                    "Regular season": "16202",
+                    "Postseason": "9228"
+                },
+                {
+                    "ATL": "2003",
+                    "CHA": "",
+                    "CHI": "7062",
+                    "CLE": "",
+                    "CON": "7400",
+                    "DET": "6023",
+                    "HOU": "7862",
+                    "IND": "8,835 [[Houston Comets|HOU]] moved from [[Lakewood Church Central Campus|Compaq Center]] to [[Toyota Center]] prior to the 2003 season.",
+                    "LA": "8340",
+                    "MIA": "9290",
+                    "MIN": "",
+                    "NY": "7074",
+                    "ORL": "12123",
+                    "PHX": "",
+                    "POR": "8501",
+                    "SAC": "",
+                    "SA": "9125",
+                    "SEA": "10384",
+                    "UTA": "7109",
+                    "WAS": "",
+                    "Regular season": "14042",
+                    "Postseason": "8800"
+                },
+                {
+                    "ATL": "2004",
+                    "CHA": "",
+                    "CHI": "6846",
+                    "CLE": "",
+                    "CON": "",
+                    "DET": "6707",
+                    "HOU": "9462",
+                    "IND": "8086",
+                    "LA": "7588",
+                    "MIA": "10428",
+                    "MIN": "",
+                    "NY": "7359",
+                    "ORL": "9,886 [[New York Liberty|NY]] played six games at [[Radio City Music Hall]] in 2004.",
+                    "PHX": "",
+                    "POR": "8017",
+                    "SAC": "",
+                    "SA": "8679",
+                    "SEA": "8395",
+                    "UTA": "7899",
+                    "WAS": "",
+                    "Regular season": "12615",
+                    "Postseason": "8613"
+                },
+                {
+                    "ATL": "2005",
+                    "CHA": "",
+                    "CHI": "5768",
+                    "CLE": "",
+                    "CON": "",
+                    "DET": "7173",
+                    "HOU": "9374",
+                    "IND": "7099",
+                    "LA": "8382",
+                    "MIA": "8854",
+                    "MIN": "",
+                    "NY": "6673",
+                    "ORL": "10140",
+                    "PHX": "",
+                    "POR": "7303",
+                    "SAC": "",
+                    "SA": "8542",
+                    "SEA": "7944",
+                    "UTA": "8891",
+                    "WAS": "",
+                    "Regular season": "10088",
+                    "Postseason": "8172"
+                },
+                {
+                    "ATL": "2006",
+                    "CHA": "",
+                    "CHI": "5941",
+                    "CLE": "3390",
+                    "CON": "",
+                    "DET": "7417",
+                    "HOU": "9380",
+                    "IND": "7682",
+                    "LA": "7222",
+                    "MIA": "8311",
+                    "MIN": "",
+                    "NY": "6442",
+                    "ORL": "9120",
+                    "PHX": "",
+                    "POR": "7459",
+                    "SAC": "",
+                    "SA": "8691",
+                    "SEA": "7397",
+                    "UTA": "8568",
+                    "WAS": "",
+                    "Regular season": "7839",
+                    "Postseason": "7490"
+                },
+                {
+                    "ATL": "2007",
+                    "CHA": "",
+                    "CHI": "",
+                    "CLE": "3915",
+                    "CON": "",
+                    "DET": "7970",
+                    "HOU": "9749",
+                    "IND": "8166",
+                    "LA": "7032",
+                    "MIA": "8695",
+                    "MIN": "",
+                    "NY": "7119",
+                    "ORL": "8698",
+                    "PHX": "",
+                    "POR": "7737",
+                    "SAC": "",
+                    "SA": "8387",
+                    "SEA": "7569",
+                    "UTA": "7974",
+                    "WAS": "",
+                    "Regular season": "7788",
+                    "Postseason": "7819"
+                },
+                {
+                    "ATL": "2008",
+                    "CHA": "8316",
+                    "CHI": "",
+                    "CLE": "3656",
+                    "CON": "",
+                    "DET": "7644",
+                    "HOU": "9569",
+                    "IND": "6,585 [[Houston Comets|HOU]] moved from [[Toyota Center]] to [[Reliant Arena]] prior to the 2008 season.",
+                    "LA": "7702",
+                    "MIA": "9508",
+                    "MIN": "",
+                    "NY": "6968",
+                    "ORL": "9045",
+                    "PHX": "",
+                    "POR": "8522",
+                    "SAC": "",
+                    "SA": "8180",
+                    "SEA": "7984",
+                    "UTA": "8265",
+                    "WAS": "",
+                    "Regular season": "9096",
+                    "Postseason": "7948"
+                },
+                {
+                    "ATL": "2009",
+                    "CHA": "7102",
+                    "CHI": "",
+                    "CLE": "3932",
+                    "CON": "",
+                    "DET": "6794",
+                    "HOU": "8004",
+                    "IND": "",
+                    "LA": "7939",
+                    "MIA": "10387",
+                    "MIN": "",
+                    "NY": "7537",
+                    "ORL": "9800",
+                    "PHX": "",
+                    "POR": "8523",
+                    "SAC": "",
+                    "SA": "7744",
+                    "SEA": "7527",
+                    "UTA": "7874",
+                    "WAS": "",
+                    "Regular season": "11338",
+                    "Postseason": "8039"
+                }
+            ],
+            [
+                {
+                    "ATL": "Year",
+                    "CHI": "Team",
+                    "CON": "League"
+                },
+                {
+                    "ATL": "Year",
+                    "CHI": "2010",
+                    "CON": "6293",
+                    "DAL": "4,293 [[Chicago Sky|CHI]] moved from [[UIC Pavilion]] to [[Allstate Arena]] prior to the 2010 season.",
+                    "IND": "7486",
+                    "LA": "\u2014",
+                    "LV": "8265",
+                    "MIN": "9468",
+                    "NY": "\u2014",
+                    "PHX": "7622",
+                    "SA": "11069",
+                    "SEA": "8982",
+                    "TUL": "8041",
+                    "WAS": "8322",
+                    "Regular season": "4812",
+                    "Postseason": "9357"
+                },
+                {
+                    "ATL": "2011",
+                    "CHI": "6487",
+                    "CON": "5536",
+                    "DAL": "7056",
+                    "IND": "\u2014",
+                    "LA": "8054",
+                    "LV": "10316",
+                    "MIN": "\u2014",
+                    "NY": "8447",
+                    "PHX": "7,702 [[New York Liberty|NY]] moved temporarily from [[Madison Square Garden]] to [[Prudential Center]] from 2011 through 2013",
+                    "SA": "9167",
+                    "SEA": "8751",
+                    "TUL": "8659",
+                    "WAS": "4828",
+                    "Regular season": "10449",
+                    "Postseason": "7954"
+                },
+                {
+                    "ATL": "2012",
+                    "CHI": "5453",
+                    "CON": "5573",
+                    "DAL": "7266",
+                    "IND": "\u2014",
+                    "LA": "7582",
+                    "LV": "10089",
+                    "MIN": "\u2014",
+                    "NY": "9683",
+                    "PHX": "6779",
+                    "SA": "7814",
+                    "SEA": "7850",
+                    "TUL": "7486",
+                    "WAS": "5203",
+                    "Regular season": "8639",
+                    "Postseason": "7452"
+                },
+                {
+                    "ATL": "2013",
+                    "CHI": "5853",
+                    "CON": "6601",
+                    "DAL": "6548",
+                    "IND": "\u2014",
+                    "LA": "8164",
+                    "LV": "9869",
+                    "MIN": "\u2014",
+                    "NY": "9381",
+                    "PHX": "7189",
+                    "SA": "8557",
+                    "SEA": "7914",
+                    "TUL": "6981",
+                    "WAS": "5474",
+                    "Regular season": "7838",
+                    "Postseason": "7531"
+                },
+                {
+                    "ATL": "2014",
+                    "CHI": "5864",
+                    "CON": "6685",
+                    "DAL": "5980",
+                    "IND": "\u2014",
+                    "LA": "7900",
+                    "LV": "8288",
+                    "MIN": "\u2014",
+                    "NY": "9333",
+                    "PHX": "8949",
+                    "SA": "9557",
+                    "SEA": "7719",
+                    "TUL": "6717",
+                    "WAS": "5566",
+                    "Regular season": "8377",
+                    "Postseason": "7578"
+                },
+                {
+                    "ATL": "2015",
+                    "CHI": "6122",
+                    "CON": "6894",
+                    "DAL": "5557",
+                    "IND": "\u2014",
+                    "LA": "7485",
+                    "LV": "9065",
+                    "MIN": "\u2014",
+                    "NY": "9364",
+                    "PHX": "9159",
+                    "SA": "9946",
+                    "SEA": "4,831 [[San Antonio Stars|SA]] moved temporarily from [[AT&T Center]] to [[Freeman Coliseum]] for the 2015 season.",
+                    "TUL": "6516",
+                    "WAS": "5167",
+                    "Regular season": "7714",
+                    "Postseason": "7318"
+                },
+                {
+                    "ATL": "2016",
+                    "CHI": "5614",
+                    "CON": "7009",
+                    "DAL": "5837",
+                    "IND": "5298",
+                    "LA": "8575",
+                    "LV": "9638",
+                    "MIN": "\u2014",
+                    "NY": "9266",
+                    "PHX": "9724",
+                    "SA": "10351",
+                    "SEA": "6385",
+                    "TUL": "7230",
+                    "WAS": "\u2014",
+                    "Regular season": "6929",
+                    "Postseason": "7655"
+                },
+                {
+                    "ATL": "2017",
+                    "CHI": "4,452 [[Atlanta Dream|ATL]] moved temporarily from Philips Arena, now known as [[State Farm Arena]], to [[McCamish Pavilion]] for the 2017 and 2018 seasons.",
+                    "CON": "6,583 [[Chicago Sky|CHI]] moved from [[Allstate Arena]] to [[Wintrust Arena]] prior to the 2018 season.",
+                    "DAL": "6728",
+                    "IND": "3872",
+                    "LA": "7538",
+                    "LV": "11350",
+                    "MIN": "\u2014",
+                    "NY": "10407",
+                    "PHX": "9989",
+                    "SA": "9913",
+                    "SEA": "6386",
+                    "TUL": "7704",
+                    "WAS": "\u2014",
+                    "Regular season": "7771",
+                    "Postseason": "7716"
+                },
+                {
+                    "ATL": "2018",
+                    "CHI": "4194",
+                    "CON": "6358",
+                    "DAL": "6569",
+                    "IND": "4752",
+                    "LA": "6311",
+                    "LV": "10642",
+                    "MIN": "5307",
+                    "NY": "10036",
+                    "PHX": "2,823 [[New York Liberty|NY]] moved to [[Westchester County Center]] prior to the 2018 season with Madison Square Garden as an alternate home.",
+                    "SA": "9950",
+                    "SEA": "\u2014",
+                    "TUL": "8109",
+                    "WAS": "\u2014",
+                    "Regular season": "6136",
+                    "Postseason": "6769"
+                },
+                {
+                    "ATL": "2019",
+                    "CHI": "4,270 [[Atlanta Dream|ATL]] returned to [[State Farm Arena]] for one season.",
+                    "CON": "6835",
+                    "DAL": "6841",
+                    "IND": "4999",
+                    "LA": "5887",
+                    "LV": "11307",
+                    "MIN": "4,669 [[Las Vegas Aces|LV]] played one game at [[T-Mobile Arena]].",
+                    "NY": "9069",
+                    "PHX": "2,239 [[New York Liberty|NY]] played one game at the [[Barclays Center]].",
+                    "SA": "10193",
+                    "SEA": "\u2014",
+                    "TUL": "7,562 [[Seattle Storm|SEA]] moved temporarily from [[Climate Pledge Arena]] to [[Hec Edmundson Pavilion|Alaska Airlines Arena]] and [[Angel of the Winds Arena]] for at least the 2019 season.",
+                    "WAS": "\u2014",
+                    "Regular season": "4,546 [[Washington Mystics|WAS]] moved from [[Capital One Arena]] to [[St. Elizabeths East Entertainment and Sports Arena]] prior to the 2019 season. Played one game at Capital One.",
+                    "Postseason": "6535"
+                }
+            ],
+            [
+                {
+                    "ATL": "Year",
+                    "CHI": "Team",
+                    "CON": "League"
+                },
+                {
+                    "ATL": "Year",
+                    "CHI": "2020",
+                    "CON": "Due to the COVID-19 pandemic , the season was played in Bradenton, Florida without fans."
+                },
+                {
+                    "ATL": "2021",
+                    "CHI": "1347",
+                    "CON": "3187",
+                    "DAL": "2992",
+                    "IND": "2101",
+                    "LA": "\u2014",
+                    "LV": "1221",
+                    "MIN": "2943",
+                    "NY": "2696",
+                    "PHX": "1874",
+                    "SEA": "5849",
+                    "WAS": "2607",
+                    "Regular season": "2183",
+                    "Postseason": "2636"
+                },
+                {
+                    "ATL": "2022",
+                    "CHI": "2572",
+                    "CON": "7180",
+                    "DAL": "5712",
+                    "IND": "3788",
+                    "LA": "1776",
+                    "LV": "5653",
+                    "MIN": "5607",
+                    "NY": "7444",
+                    "PHX": "5327",
+                    "SEA": "7974",
+                    "WAS": "10632",
+                    "Regular season": "3983",
+                    "Postseason": "5679"
+                },
+                {
+                    "ATL": "2023",
+                    "CHI": "3006",
+                    "CON": "7242",
+                    "DAL": "6244",
+                    "IND": "4641",
+                    "LA": "4067",
+                    "LV": "6554",
+                    "MIN": "9551",
+                    "NY": "7777",
+                    "PHX": "7777",
+                    "SEA": "9197",
+                    "WAS": "8929",
+                    "Regular season": "4391",
+                    "Postseason": "6608"
+                }
+            ],
+            [
+                {
+                    "Year": "2005",
+                    "Season": "Regular",
+                    "Telecasts on ESPN/ESPN2/ABC/CBS": "Unknown",
+                    "Average viewership": "282000",
+                    "+/\u2212 over previous": "+"
+                },
+                {
+                    "Year": "2006",
+                    "Season": "Regular",
+                    "Telecasts on ESPN/ESPN2/ABC/CBS": "14",
+                    "Average viewership": "242000",
+                    "+/\u2212 over previous": "+"
+                },
+                {
+                    "Year": "2007",
+                    "Season": "Regular",
+                    "Telecasts on ESPN/ESPN2/ABC/CBS": "16",
+                    "Average viewership": "221000",
+                    "+/\u2212 over previous": "\u2013"
+                },
+                {
+                    "Year": "2008",
+                    "Season": "Regular",
+                    "Telecasts on ESPN/ESPN2/ABC/CBS": "13",
+                    "Average viewership": "248000",
+                    "+/\u2212 over previous": "+"
+                },
+                {
+                    "Year": "2008",
+                    "Season": "Playoffs",
+                    "Telecasts on ESPN/ESPN2/ABC/CBS": "12",
+                    "Average viewership": "282000",
+                    "+/\u2212 over previous": "\u2013"
+                },
+                {
+                    "Year": "2009",
+                    "Season": "Regular",
+                    "Telecasts on ESPN/ESPN2/ABC/CBS": "12",
+                    "Average viewership": "269000",
+                    "+/\u2212 over previous": "+"
+                },
+                {
+                    "Year": "2009",
+                    "Season": "Playoffs",
+                    "Telecasts on ESPN/ESPN2/ABC/CBS": "13",
+                    "Average viewership": "435000",
+                    "+/\u2212 over previous": "+"
+                },
+                {
+                    "Year": "2010",
+                    "Season": "Regular",
+                    "Telecasts on ESPN/ESPN2/ABC/CBS": "18",
+                    "Average viewership": "258000",
+                    "+/\u2212 over previous": "\u2013"
+                },
+                {
+                    "Year": "2010",
+                    "Season": "Playoffs",
+                    "Telecasts on ESPN/ESPN2/ABC/CBS": "7",
+                    "Average viewership": "370000",
+                    "+/\u2212 over previous": "\u2013"
+                },
+                {
+                    "Year": "2011",
+                    "Season": "Regular",
+                    "Telecasts on ESPN/ESPN2/ABC/CBS": "11",
+                    "Average viewership": "270000",
+                    "+/\u2212 over previous": "+"
+                },
+                {
+                    "Year": "2011",
+                    "Season": "Playoffs",
+                    "Telecasts on ESPN/ESPN2/ABC/CBS": "15",
+                    "Average viewership": "Unknown",
+                    "+/\u2212 over previous": ""
+                },
+                {
+                    "Year": "2012",
+                    "Season": "Regular",
+                    "Telecasts on ESPN/ESPN2/ABC/CBS": "10",
+                    "Average viewership": "180000",
+                    "+/\u2212 over previous": "\u2013"
+                },
+                {
+                    "Year": "2012",
+                    "Season": "Playoffs",
+                    "Telecasts on ESPN/ESPN2/ABC/CBS": "19",
+                    "Average viewership": "301000",
+                    "+/\u2212 over previous": "+"
+                },
+                {
+                    "Year": "2013",
+                    "Season": "Regular",
+                    "Telecasts on ESPN/ESPN2/ABC/CBS": "13",
+                    "Average viewership": "231000",
+                    "+/\u2212 over previous": "+"
+                },
+                {
+                    "Year": "2013",
+                    "Season": "Playoffs",
+                    "Telecasts on ESPN/ESPN2/ABC/CBS": "17",
+                    "Average viewership": "344000",
+                    "+/\u2212 over previous": "+"
+                },
+                {
+                    "Year": "2014",
+                    "Season": "Regular",
+                    "Telecasts on ESPN/ESPN2/ABC/CBS": "19",
+                    "Average viewership": "240000",
+                    "+/\u2212 over previous": "+"
+                },
+                {
+                    "Year": "2014",
+                    "Season": "Playoffs",
+                    "Telecasts on ESPN/ESPN2/ABC/CBS": "10",
+                    "Average viewership": "489000",
+                    "+/\u2212 over previous": "+"
+                },
+                {
+                    "Year": "2015",
+                    "Season": "Regular",
+                    "Telecasts on ESPN/ESPN2/ABC/CBS": "11 (includes 1 on ESPN)",
+                    "Average viewership": "202000",
+                    "+/\u2212 over previous": "\u2013"
+                },
+                {
+                    "Year": "2015",
+                    "Season": "Playoffs",
+                    "Telecasts on ESPN/ESPN2/ABC/CBS": "Unknown",
+                    "Average viewership": "Unknown",
+                    "+/\u2212 over previous": ""
+                },
+                {
+                    "Year": "2016",
+                    "Season": "Regular",
+                    "Telecasts on ESPN/ESPN2/ABC/CBS": "Unknown",
+                    "Average viewership": "224000",
+                    "+/\u2212 over previous": "+"
+                },
+                {
+                    "Year": "2016",
+                    "Season": "Playoffs",
+                    "Telecasts on ESPN/ESPN2/ABC/CBS": "Unknown",
+                    "Average viewership": "Unknown",
+                    "+/\u2212 over previous": ""
+                },
+                {
+                    "Year": "2017",
+                    "Season": "Regular",
+                    "Telecasts on ESPN/ESPN2/ABC/CBS": "Unknown",
+                    "Average viewership": "171000"
+                },
+                {
+                    "Year": "2017",
+                    "Season": "Playoffs",
+                    "Telecasts on ESPN/ESPN2/ABC/CBS": "Unknown",
+                    "Average viewership": "346000",
+                    "+/\u2212 over previous": "+"
+                },
+                {
+                    "Year": "2017",
+                    "Season": "Playoffs",
+                    "Telecasts on ESPN/ESPN2/ABC/CBS": "",
+                    "Average viewership": "319000"
+                },
+                {
+                    "Year": "2017",
+                    "Season": "'''2019'''",
+                    "Telecasts on ESPN/ESPN2/ABC/CBS": "Regular",
+                    "Average viewership": "",
+                    "+/\u2212 over previous": "246000"
+                },
+                {
+                    "Year": "2017",
+                    "Season": "'''2019'''",
+                    "Telecasts on ESPN/ESPN2/ABC/CBS": "Playoffs",
+                    "Average viewership": "",
+                    "+/\u2212 over previous": "258000"
+                },
+                {
+                    "Year": "2017",
+                    "Season": "2021",
+                    "Telecasts on ESPN/ESPN2/ABC/CBS": "Playoffs",
+                    "Average viewership": "Unknown",
+                    "+/\u2212 over previous": "367000"
+                },
+                {
+                    "Year": "2017",
+                    "Season": "2022",
+                    "Telecasts on ESPN/ESPN2/ABC/CBS": "Regular\nPlayoffs",
+                    "Average viewership": "Unknown",
+                    "+/\u2212 over previous": "412000"
+                },
+                {
+                    "Year": "2023",
+                    "Season": "Regular\nPlayoffs",
+                    "Telecasts on ESPN/ESPN2/ABC/CBS": "Unknown",
+                    "Average viewership": "505000",
+                    "+/\u2212 over previous": "+"
+                }
+            ]
+        ]
+    },
+    {
+        "title": "1958 FIFA World Cup",
+        "tables": [
+            [
+                {
+                    "Gothenburg": "Ullevi Stadium"
+                },
+                {
+                    "Gothenburg": "Capacity: 53,500"
+                },
+                {
+                    "Gothenburg": "200px"
+                },
+                {
+                    "Gothenburg": "Eskilstuna"
+                },
+                {
+                    "Gothenburg": "Tunavallen"
+                },
+                {
+                    "Gothenburg": "Capacity: 22,000"
+                },
+                {
+                    "Gothenburg": "200px"
+                },
+                {
+                    "Gothenburg": "Sandviken"
+                },
+                {
+                    "Gothenburg": "Jernvallen"
+                },
+                {
+                    "Gothenburg": "Capacity: 20,000"
+                },
+                {
+                    "Gothenburg": "200px"
+                },
+                {
+                    "Gothenburg": "Bor\u00e5s"
+                },
+                {
+                    "Gothenburg": "Ryavallen"
+                },
+                {
+                    "Gothenburg": "Capacity: 15,000"
+                },
+                {
+                    "Gothenburg": "200px"
+                }
+            ],
+            [
+                {
+                    "Helsingborg": "Olympia"
+                },
+                {
+                    "Helsingborg": "Capacity: 27,000"
+                },
+                {
+                    "Helsingborg": "200px"
+                },
+                {
+                    "Helsingborg": "Norrk\u00f6ping"
+                },
+                {
+                    "Helsingborg": "Idrottsparken"
+                },
+                {
+                    "Helsingborg": "Capacity: 20,000"
+                },
+                {
+                    "Helsingborg": "200px"
+                },
+                {
+                    "Helsingborg": "Uddevalla"
+                },
+                {
+                    "Helsingborg": "Rimnersvallen"
+                },
+                {
+                    "Helsingborg": "Capacity: 17,778"
+                },
+                {
+                    "Helsingborg": "200px"
+                },
+                {
+                    "Helsingborg": "V\u00e4ster\u00e5s"
+                },
+                {
+                    "Helsingborg": "Arosvallen"
+                },
+                {
+                    "Helsingborg": "Capacity: 10,000"
+                },
+                {
+                    "Helsingborg": "200px"
+                }
+            ],
+            [
+                {
+                    "Solna": "R\u00e5sunda Stadium",
+                    "Malm\u00f6": "Malm\u00f6 Stadion"
+                },
+                {
+                    "Solna": "Capacity: 52,400",
+                    "Malm\u00f6": "Capacity: 30,000"
+                },
+                {
+                    "Solna": "200px",
+                    "Malm\u00f6": "200px"
+                },
+                {
+                    "Solna": "Sweden South"
+                },
+                {
+                    "Solna": "Halmstad",
+                    "Malm\u00f6": "\u00d6rebro"
+                },
+                {
+                    "Solna": "\u00d6rjans Vall",
+                    "Malm\u00f6": "Eyravallen"
+                },
+                {
+                    "Solna": "Capacity: 15,000",
+                    "Malm\u00f6": "Capacity: 13,000"
+                },
+                {
+                    "Solna": "200px",
+                    "Malm\u00f6": "200px"
+                }
+            ],
+            [
+                {
+                    "Western European Pot": "SWE (hosts) FRG ( holders ) AUT FRA 1830",
+                    "Eastern European Pot": "TCH HUN URS 1955 YUG",
+                    "British Pot": "ENG NIR SCO WAL 1953",
+                    "Americas Pot": "ARG BRA 1889 MEX 1934 PAR 1954"
+                }
+            ],
+            [
+                {
+                    "": "11",
+                    "Team": "BRA 1889"
+                },
+                {
+                    "": "9",
+                    "Team": "SWE"
+                },
+                {
+                    "": "8",
+                    "Team": "FRA 1830"
+                },
+                {
+                    "": "6",
+                    "Team": "FRG"
+                },
+                {
+                    "": "Eliminated in the quarter-finals"
+                },
+                {
+                    "": "5",
+                    "Team": "WAL 1953"
+                },
+                {
+                    "": "5",
+                    "Team": "URS 1955"
+                },
+                {
+                    "": "5",
+                    "Team": "NIR"
+                },
+                {
+                    "": "4",
+                    "Team": "YUG"
+                },
+                {
+                    "": "Eliminated in the group stage"
+                },
+                {
+                    "": "3",
+                    "Team": "TCH"
+                },
+                {
+                    "": "3",
+                    "Team": "HUN"
+                },
+                {
+                    "": "3",
+                    "Team": "ENG"
+                },
+                {
+                    "": "3",
+                    "Team": "PAR 1954"
+                },
+                {
+                    "": "2",
+                    "Team": "ARG"
+                },
+                {
+                    "": "1",
+                    "Team": "SCO"
+                },
+                {
+                    "": "1",
+                    "Team": "AUT"
+                },
+                {
+                    "": "1",
+                    "Team": "MEX 1934"
+                }
+            ]
+        ]
+    },
+    {
+        "title": "1938 FIFA World Cup",
+        "tables": [
+            [
+                {
+                    "Colombes": "Stade Olympique de Colombes",
+                    "Marseille": "Stade V\u00e9lodrome",
+                    "Paris": "Parc des Princes",
+                    "Bordeaux": "Parc Lescure"
+                },
+                {
+                    "Colombes": "Capacity: 60,000",
+                    "Marseille": "Capacity: 48,000",
+                    "Paris": "Capacity: 40,000",
+                    "Bordeaux": "Capacity: 34,694"
+                },
+                {
+                    "Colombes": "200px",
+                    "Marseille": "200px",
+                    "Paris": "200px",
+                    "Bordeaux": "200px"
+                },
+                {
+                    "Colombes": "Strasbourg",
+                    "Marseille": "France",
+                    "Paris": "Le Havre"
+                },
+                {
+                    "Colombes": "Stade de la Meinau",
+                    "Marseille": "France",
+                    "Paris": "Stade Municipal"
+                },
+                {
+                    "Colombes": "Capacity: 30,000",
+                    "Marseille": "France",
+                    "Paris": "Capacity: 22,000"
+                },
+                {
+                    "Colombes": "200px",
+                    "Marseille": "France",
+                    "Paris": "200px"
+                },
+                {
+                    "Colombes": "Reims",
+                    "Marseille": "Toulouse",
+                    "Paris": "Lille",
+                    "Bordeaux": "Antibes"
+                },
+                {
+                    "Colombes": "V\u00e9lodrome Municipal",
+                    "Marseille": "Stade du T.O.E.C.",
+                    "Paris": "Stade Victor Boucquey",
+                    "Bordeaux": "Stade du Fort Carr\u00e9"
+                },
+                {
+                    "Colombes": "Capacity: 21,684",
+                    "Marseille": "Capacity: 15,000",
+                    "Paris": "Capacity: 15,000",
+                    "Bordeaux": "Capacity: 7,000"
+                },
+                {
+                    "Colombes": "200px",
+                    "Marseille": "",
+                    "Paris": "200px",
+                    "Bordeaux": "200px"
+                }
+            ],
+            [
+                {
+                    "": "8",
+                    "Team": "ITA 1861"
+                },
+                {
+                    "": "6",
+                    "Team": "HUN 1920"
+                },
+                {
+                    "": "7",
+                    "Team": "BRA 1889"
+                },
+                {
+                    "": "2",
+                    "Team": "SWE"
+                },
+                {
+                    "": "Eliminated in the quarter-finals"
+                },
+                {
+                    "": "3",
+                    "Team": "TCH"
+                },
+                {
+                    "": "3",
+                    "Team": "SUI"
+                },
+                {
+                    "": "3",
+                    "Team": "CUB 1902"
+                },
+                {
+                    "": "2",
+                    "Team": "FRA 1830"
+                },
+                {
+                    "": "Eliminated in the round of 16"
+                },
+                {
+                    "": "1",
+                    "Team": "ROU"
+                },
+                {
+                    "": "1",
+                    "Team": "GER 1935"
+                },
+                {
+                    "": "0",
+                    "Team": "POL 1928"
+                },
+                {
+                    "": "0",
+                    "Team": "NOR"
+                },
+                {
+                    "": "0",
+                    "Team": "BEL"
+                },
+                {
+                    "": "0",
+                    "Team": "NED"
+                },
+                {
+                    "": "0",
+                    "Team": "DEI"
+                },
+                {
+                    "": "Withdrew",
+                    "Team": "Austria Austria"
+                }
+            ]
+        ]
+    },
+    {
+        "title": "1950 FIFA World Cup",
+        "tables": [
+            [
+                {
+                    "Group 1": "BRA 1889 MEX 1934 YUG SUI",
+                    "Group 2": "ENG ESP 1945 CHI USA 1912",
+                    "Group 3": "SWE ITA PAR 1842 IND",
+                    "Group 4": "URU FRA 1830 BOL civil"
+                }
+            ],
+            [
+                {
+                    "Rio de Janeiro": "Est\u00e1dio do Maracan\u00e3",
+                    "S\u00e3o Paulo": "Est\u00e1dio do Pacaembu",
+                    "Belo Horizonte": "Est\u00e1dio Sete de Setembro"
+                },
+                {
+                    "Rio de Janeiro": "22 54 43.8 S 43 13 48.59 W region:BR_type:landmark",
+                    "S\u00e3o Paulo": "23 32 55.1 S 46 39 54.4 W region:BR_type:landmark",
+                    "Belo Horizonte": "19 54 30 S 43 55 4 W region:BR_type:landmark"
+                },
+                {
+                    "Rio de Janeiro": "Capacity: 200,000 <!--Seating capacity was 120,000, but nearly 200,000 filled the venue for the final.-->",
+                    "S\u00e3o Paulo": "Capacity: 60,000",
+                    "Belo Horizonte": "Capacity: 30,000"
+                },
+                {
+                    "Rio de Janeiro": "200px",
+                    "S\u00e3o Paulo": "200px",
+                    "Belo Horizonte": "200px"
+                },
+                {
+                    "Rio de Janeiro": "Brazil"
+                },
+                {
+                    "Rio de Janeiro": "Porto Alegre",
+                    "S\u00e3o Paulo": "Recife",
+                    "Belo Horizonte": "Curitiba"
+                },
+                {
+                    "Rio de Janeiro": "Est\u00e1dio dos Eucaliptos",
+                    "S\u00e3o Paulo": "Est\u00e1dio Ilha do Retiro",
+                    "Belo Horizonte": "Est\u00e1dio Vila Capanema"
+                },
+                {
+                    "Rio de Janeiro": "30 3 42 S 51 13 38 W region:BR_type:landmark",
+                    "S\u00e3o Paulo": "8 3 46.63 S 34 54 10.73 W region:BR_type:landmark",
+                    "Belo Horizonte": "25 26 22 S 49 15 21 W region:BR_type:landmark"
+                },
+                {
+                    "Rio de Janeiro": "Capacity: 20,000",
+                    "S\u00e3o Paulo": "Capacity: 20,000",
+                    "Belo Horizonte": "Capacity: 10,000"
+                },
+                {
+                    "Rio de Janeiro": "",
+                    "S\u00e3o Paulo": "200px",
+                    "Belo Horizonte": "200px"
+                }
+            ],
+            [
+                {
+                    "": "7",
+                    "Team": "URU"
+                },
+                {
+                    "": "9",
+                    "Team": "BRA 1889"
+                },
+                {
+                    "": "5",
+                    "Team": "SWE"
+                },
+                {
+                    "": "7",
+                    "Team": "ESP 1945"
+                },
+                {
+                    "": "Eliminated in the first round"
+                },
+                {
+                    "": "4",
+                    "Team": "YUG"
+                },
+                {
+                    "": "3",
+                    "Team": "SUI"
+                },
+                {
+                    "": "2",
+                    "Team": "ITA"
+                },
+                {
+                    "": "2",
+                    "Team": "ENG"
+                },
+                {
+                    "": "2",
+                    "Team": "CHI"
+                },
+                {
+                    "": "2",
+                    "Team": "USA 1912"
+                },
+                {
+                    "": "1",
+                    "Team": "PAR 1842"
+                },
+                {
+                    "": "0",
+                    "Team": "MEX 1934"
+                },
+                {
+                    "": "0",
+                    "Team": "BOL civil"
+                }
+            ]
+        ]
+    },
+    {
+        "title": "1934 FIFA World Cup",
+        "tables": [
+            [
+                {
+                    "Naples": "Italy",
+                    "Genoa": "Milan",
+                    "Turin": "Bologna"
+                },
+                {
+                    "Naples": "Italy",
+                    "Genoa": "Stadio San Siro",
+                    "Turin": "Stadio Littoriale"
+                },
+                {
+                    "Naples": "Italy",
+                    "Genoa": "Capacity: 55,000",
+                    "Turin": "Capacity: 50,100"
+                },
+                {
+                    "Naples": "Italy",
+                    "Genoa": "200px",
+                    "Turin": "200px"
+                },
+                {
+                    "Naples": "Italy",
+                    "Genoa": "Rome",
+                    "Turin": "Florence"
+                },
+                {
+                    "Naples": "Italy",
+                    "Genoa": "Stadio Nazionale PNF",
+                    "Turin": "Stadio Giovanni Berta"
+                },
+                {
+                    "Naples": "Italy",
+                    "Genoa": "Capacity: 47,300",
+                    "Turin": "Capacity: 47,290"
+                },
+                {
+                    "Naples": "Italy",
+                    "Genoa": "200px",
+                    "Turin": "200px"
+                },
+                {
+                    "Naples": "Stadio Giorgio Ascarelli",
+                    "Genoa": "Stadio Luigi Ferraris",
+                    "Turin": "Stadio Benito Mussolini",
+                    "Trieste": "Stadio Littorio"
+                },
+                {
+                    "Naples": "Capacity: 40,000",
+                    "Genoa": "Capacity: 36,703",
+                    "Turin": "Capacity: 28,140",
+                    "Trieste": "Capacity: 8,000"
+                },
+                {
+                    "Naples": "200px",
+                    "Genoa": "200px",
+                    "Turin": "200px",
+                    "Trieste": "200px"
+                }
+            ],
+            [
+                {
+                    "": "9",
+                    "Team": "ITA 1861"
+                },
+                {
+                    "": "6",
+                    "Team": "CSK"
+                },
+                {
+                    "": "6",
+                    "Team": "GER 1933"
+                },
+                {
+                    "": "4",
+                    "Team": "AUT"
+                },
+                {
+                    "": "Eliminated in the quarter-finals"
+                },
+                {
+                    "": "3",
+                    "Team": "ESP 1931"
+                },
+                {
+                    "": "2",
+                    "Team": "HUN 1920"
+                },
+                {
+                    "": "2",
+                    "Team": "SUI"
+                },
+                {
+                    "": "2",
+                    "Team": "SWE"
+                },
+                {
+                    "": "Eliminated in the round of 16"
+                },
+                {
+                    "": "3",
+                    "Team": "ARG"
+                },
+                {
+                    "": "0",
+                    "Team": "1"
+                },
+                {
+                    "": "0",
+                    "Team": "1"
+                },
+                {
+                    "": "0",
+                    "Team": "ROU"
+                },
+                {
+                    "": "0",
+                    "Team": "EGY 1922"
+                },
+                {
+                    "": "0",
+                    "Team": "BRA 1889"
+                },
+                {
+                    "": "0",
+                    "Team": "BEL"
+                },
+                {
+                    "": "0",
+                    "Team": "USA 1912"
+                }
+            ]
+        ]
+    },
+    {
+        "title": "1924 Winter Olympics",
+        "tables": [
+            [
+                {
+                    "Participating National Olympic Committees": "AUT 1924 Winter 4 BEL 1924 Winter 18 CAN 1924 Winter 12 TCH 1924 Winter 27 FIN 1924 Winter 17 FRA 1924 Winter 43 (host) GBR 1924 Winter 44 HUN 1924 Winter 4 ITA 1924 Winter 23 LAT 1924 Winter 2 NOR 1924 Winter 14 POL 1924 Winter 7 SWE 1924 Winter 31 SUI 1924 Winter 30 USA 1924 Winter 24 YUG 1924 Winter 4"
+                }
+            ],
+            [
+                {
+                    "IOC Letter Code": "GBR",
+                    "Country": "GBR 1924 Winter",
+                    "Athletes": "44"
+                },
+                {
+                    "IOC Letter Code": "FRA",
+                    "Country": "FRA 1924 Winter",
+                    "Athletes": "43"
+                },
+                {
+                    "IOC Letter Code": "SWE",
+                    "Country": "SWE 1924 Winter",
+                    "Athletes": "31"
+                },
+                {
+                    "IOC Letter Code": "SUI",
+                    "Country": "SUI 1924 Winter",
+                    "Athletes": "30"
+                },
+                {
+                    "IOC Letter Code": "TCH",
+                    "Country": "TCH 1924 Winter",
+                    "Athletes": "27"
+                },
+                {
+                    "IOC Letter Code": "USA",
+                    "Country": "USA 1924 Winter",
+                    "Athletes": "24"
+                },
+                {
+                    "IOC Letter Code": "ITA",
+                    "Country": "ITA 1924 Winter",
+                    "Athletes": "23"
+                },
+                {
+                    "IOC Letter Code": "BEL",
+                    "Country": "BEL 1924 Winter",
+                    "Athletes": "18"
+                },
+                {
+                    "IOC Letter Code": "FIN",
+                    "Country": "FIN 1924 Winter",
+                    "Athletes": "17"
+                },
+                {
+                    "IOC Letter Code": "NOR",
+                    "Country": "NOR 1924 Winter",
+                    "Athletes": "14"
+                },
+                {
+                    "IOC Letter Code": "CAN",
+                    "Country": "CAN 1924 Winter",
+                    "Athletes": "12"
+                },
+                {
+                    "IOC Letter Code": "POL",
+                    "Country": "POL 1924 Winter",
+                    "Athletes": "7"
+                },
+                {
+                    "IOC Letter Code": "AUT",
+                    "Country": "AUT 1924 Winter",
+                    "Athletes": "4"
+                },
+                {
+                    "IOC Letter Code": "HUN",
+                    "Country": "HUN 1924 Winter",
+                    "Athletes": "4"
+                },
+                {
+                    "IOC Letter Code": "YUG",
+                    "Country": "YUG 1924 Winter",
+                    "Athletes": "4"
+                },
+                {
+                    "IOC Letter Code": "LAT",
+                    "Country": "LAT 1924 Winter",
+                    "Athletes": "2"
+                },
+                {
+                    "IOC Letter Code": "Total",
+                    "Country": "258"
+                }
+            ],
+            [
+                {
+                    "Date": "30 January",
+                    "Sport": "Cross-country skiing",
+                    "Event": "Men's 50 kilometre",
+                    "NOC": "NOR 1924 Winter",
+                    "Gold": "Thorleif Haug",
+                    "Silver": "Thoralf Str\u00f8mstad",
+                    "Bronze": "Johan Gr\u00f8ttumsbr\u00e5ten"
+                },
+                {
+                    "Date": "4 February",
+                    "Sport": "Nordic combined",
+                    "Event": "Normal hill",
+                    "NOC": "NOR 1924 Winter",
+                    "Gold": "Thorleif Haug",
+                    "Silver": "Thoralf Str\u00f8mstad",
+                    "Bronze": "Johan Gr\u00f8ttumsbr\u00e5ten"
+                }
+            ]
+        ]
+    },
+    {
+        "title": "2002 FIFA World Cup",
+        "tables": [
+            [
+                {
+                    "Daegu": "KOR 1997 South Korea"
+                },
+                {
+                    "Daegu": "Daegu World Cup Stadium",
+                    "Seoul": "Seoul World Cup Stadium",
+                    "Busan": "Busan Asiad Stadium",
+                    "Incheon": "Incheon World Cup Stadium",
+                    "Ulsan": "Ulsan Munsu Football Stadium"
+                },
+                {
+                    "Daegu": "Capacity: 68,014 The average attendance was 53,747",
+                    "Seoul": "Capacity: 63,961 The average attendance was 57,141",
+                    "Busan": "Capacity: 55,982 The average attendance was 37,412",
+                    "Incheon": "Capacity: 52,179 The average attendance was 46,879",
+                    "Ulsan": "Capacity: 43,550 The average attendance was 33,779"
+                },
+                {
+                    "Daegu": "alt=|frameless|200x200px",
+                    "Seoul": "alt=|frameless|200x200px",
+                    "Busan": "alt=|frameless|200x200px",
+                    "Incheon": "alt=|frameless|200x200px",
+                    "Ulsan": "alt=|frameless|200x200px"
+                },
+                {
+                    "Daegu": "Suwon",
+                    "Seoul": "Gwangju",
+                    "Busan": "Jeonju",
+                    "Incheon": "Seogwipo",
+                    "Ulsan": "Daejeon"
+                },
+                {
+                    "Daegu": "Suwon World Cup Stadium",
+                    "Seoul": "Gwangju World Cup Stadium",
+                    "Busan": "Jeonju World Cup Stadium",
+                    "Incheon": "Jeju World Cup Stadium",
+                    "Ulsan": "Daejeon World Cup Stadium"
+                },
+                {
+                    "Daegu": "Capacity: 43,188 The average attendance was 37,109",
+                    "Seoul": "Capacity: 42,880 The average attendance was 32,643",
+                    "Busan": "Capacity: 42,391 The average attendance was 30,460",
+                    "Incheon": "Capacity: 42,256 The average attendance was 30,701",
+                    "Ulsan": "Capacity: 40,407 The average attendance was 32,031"
+                },
+                {
+                    "Daegu": "alt=|frameless|200x200px",
+                    "Seoul": "alt=|frameless|200x200px",
+                    "Busan": "alt=|frameless|200x200px",
+                    "Incheon": "alt=|frameless|200x200px",
+                    "Ulsan": "alt=|frameless|200x200px"
+                },
+                {
+                    "Daegu": "South Korea South Korea",
+                    "Seoul": "Japan Japan"
+                },
+                {
+                    "Daegu": "JPN Japan"
+                },
+                {
+                    "Daegu": "Yokohama",
+                    "Seoul": "Saitama",
+                    "Busan": "Shizuoka",
+                    "Incheon": "Osaka",
+                    "Ulsan": "Miyagi"
+                },
+                {
+                    "Daegu": "International Stadium Yokohama",
+                    "Seoul": "Saitama Stadium",
+                    "Busan": "Shizuoka Stadium ECOPA",
+                    "Incheon": "Nagai Stadium",
+                    "Ulsan": "Miyagi Stadium"
+                },
+                {
+                    "Daegu": "Capacity: 72,327 The average attendance was 66,580",
+                    "Seoul": "Capacity: 63,000 The average attendance was 56,073",
+                    "Busan": "Capacity: 50,600 The average attendance was 47,054",
+                    "Incheon": "Capacity: 50,000 The average attendance was 44,770",
+                    "Ulsan": "Capacity: 49,000 The average attendance was 45,684"
+                },
+                {
+                    "Daegu": "alt=|frameless|200x200px",
+                    "Seoul": "alt=|frameless|200x200px",
+                    "Busan": "alt=|frameless|200x200px",
+                    "Incheon": "alt=|frameless|200x200px",
+                    "Ulsan": "alt=|frameless|200x200px"
+                },
+                {
+                    "Daegu": "\u014cita",
+                    "Seoul": "Niigata",
+                    "Busan": "Kashima",
+                    "Incheon": "Kobe",
+                    "Ulsan": "Sapporo"
+                },
+                {
+                    "Daegu": "\u014cita Stadium",
+                    "Seoul": "Niigata Stadium",
+                    "Busan": "Kashima Stadium",
+                    "Incheon": "Kobe Wing Stadium",
+                    "Ulsan": "Sapporo Dome"
+                },
+                {
+                    "Daegu": "Capacity: 43,000 The average attendance was 39,579",
+                    "Seoul": "Capacity: 42,300 The average attendance was 35,500",
+                    "Busan": "Capacity: 42,000 The average attendance was 35,459",
+                    "Incheon": "Capacity: 42,000 The average attendance was 35,864",
+                    "Ulsan": "Capacity: 42,000 The average attendance was 33,075"
+                },
+                {
+                    "Daegu": "alt=|frameless|200x200px",
+                    "Seoul": "alt=|frameless|200x200px",
+                    "Busan": "alt=|frameless|200x200px",
+                    "Incheon": "alt=|frameless|200x200px",
+                    "Ulsan": "alt=|frameless|200x200px"
+                }
+            ],
+            [
+                {
+                    "List of match officials by confederation and country": "Referees AFC Lu Jun ( China ) Toru Kamikawa ( Japan ) Saad Mane ( Kuwait ) Kim Young-joo ( South Korea ) Ali Bujsaim ( United Arab Emirates ) CAF Coffi Codjia ( Benin ) Gamal Al-Ghandour ( Egypt ) Mohamed Guezzaz ( Morocco ) Falla N'Doye ( Senegal ) Mourad Daami ( Tunisia ) CONCACAF William Mattus ( Costa Rica ) Carlos Batres ( Guatemala ) Peter Prendergast ( Jamaica ) Felipe Ramos ( Mexico ) Brian Hall ( United States ) CONMEBOL \u00c1ngel S\u00e1nchez ( Argentina ) Ren\u00e9 Ortub\u00e9 ( Bolivia ) Carlos Simon ( Brazil ) \u00d3scar Ruiz ( Colombia ) Byron Moreno ( Ecuador ) Ubaldo Aquino ( Paraguay ) OFC Mark Shield ( Australia ) UEFA Kim Milton Nielsen ( Denmark ) Graham Poll ( England ) Gilles Veissi\u00e8re ( France ) Markus Merk ( Germany ) Kyros Vassaras ( Greece ) Pierluigi Collina ( Italy ) Jan Wegereef ( Netherlands ) Terje Hauge ( Norway ) V\u00edtor Melo Pereira ( Portugal ) Hugh Dallas ( Scotland ) \u013dubo\u0161 Miche\u013e ( Slovakia ) Antonio L\u00f3pez Nieto ( Spain ) Anders Frisk ( Sweden ) Urs Meier ( Switzerland ) Assistant referees AFC Komaleeswaran Sankar ( India ) Awni Hassaouneh ( Jordan ) Haidar Koleit ( Lebanon ) Mat Lazim Awang Hamat ( Malaysia ) Mohamed Saeed ( Maldives ) Ali Al-Traifi ( Saudi Arabia ) Visva Krishnan ( Singapore ) CAF Wagih Farag ( Egypt ) Dramane Dante ( Mali ) Taoufik Adjengui ( Tunisia ) Ali Tomusange ( Uganda ) Brighton Mudzamiri ( Zimbabwe ) CONCACAF Curtis Charles ( Antigua and Barbuda ) H\u00e9ctor Vergara ( Canada ) Vladimir Fern\u00e1ndez ( El Salvador ) Michael Ragoonath ( Trinidad and Tobago ) CONMEBOL Jorge Rattalino ( Argentina ) Jorge Oliveira ( Brazil ) Bomer Fierro ( Ecuador ) Miguel Giacomuzzi ( Paraguay ) OFC Paul Smith ( New Zealand ) Elise Doriri ( Vanuatu ) UEFA Egon Bereuter ( Austria ) Yury Dupanov ( Belarus ) Roland Van Nylen ( Belgium ) Ev\u017een Amler ( Czech Republic ) Jens Larsen ( Denmark ) Philip Sharp ( England ) Fr\u00e9d\u00e9ric Arnault ( France ) Heiner M\u00fcller ( Germany ) Ferenc Sz\u00e9kely ( Hungary ) Jaap Pool ( Netherlands ) Maciej Wierzbowski ( Poland ) Carlos Matos ( Portugal ) Igor \u0160ramka ( Slovakia ) Leif Lindberg ( Sweden )"
+                }
+            ],
+            [
+                {
+                    "Pot 1Top-seeded teams( + hosts + top 5 seeds)": "* {{nowrap|{{fb|FRA|1974}} <small>(1998 winner, group A1)</small>}}\n* {{nowrap|{{fb|KOR|1997}} <small>(co-hosts, group D1)</small>}}\n* {{nowrap|{{fb|JPN}} <small>(co-hosts, group H1)</small>}}\n----\n* {{fb|BRA}} (1)\n* {{fb|ARG}} (2)\n* {{fb|ITA}} (3)\n* {{fb|GER}} (4)\n* {{fb|ESP}} (6)",
+                    "Pot 2Europe(UEFA)": "* {{fb|BEL}}\n* {{fb|CRO}}\n* {{fb|DEN}}\n* {{fb|ENG}}\n* {{fb|POL}}\n* {{fb|POR}}\n* {{fb|IRL}}\n* {{fb|RUS}}\n* {{fb|SVN}}\n* {{fb|SWE}}\n* {{fb|TUR}}",
+                    "Pot 3Asia & South America(AFC & CONMEBOL)": "* {{fb|CHN}}\n* {{fb|ECU|1900}}\n* {{fb|PAR|1990}}\n* {{fb|KSA}}\n* {{fb|URU}}",
+                    "Pot 4Africa & North America(CAF & CONCACAF)": "* {{fb|CMR}}\n* {{fb|CRC}}\n* {{fb|MEX}}\n* {{fb|NGA}}\n* {{fb|SEN}}\n* {{fb|RSA}}\n* {{fb|TUN}}\n* {{fb|USA|1960}}"
+                }
+            ],
+            [
+                {
+                    "": "A1",
+                    "Team": "FRA 1974"
+                },
+                {
+                    "": "A2",
+                    "Team": "SEN"
+                },
+                {
+                    "": "A3",
+                    "Team": "URU"
+                },
+                {
+                    "": "A4",
+                    "Team": "DEN"
+                }
+            ],
+            [
+                {
+                    "": "B1",
+                    "Team": "ESP"
+                },
+                {
+                    "": "B2",
+                    "Team": "SVN"
+                },
+                {
+                    "": "B3",
+                    "Team": "PAR 1990"
+                },
+                {
+                    "": "B4",
+                    "Team": "RSA"
+                }
+            ],
+            [
+                {
+                    "": "C1",
+                    "Team": "BRA"
+                },
+                {
+                    "": "C2",
+                    "Team": "TUR"
+                },
+                {
+                    "": "C3",
+                    "Team": "CHN"
+                },
+                {
+                    "": "C4",
+                    "Team": "CRC"
+                }
+            ],
+            [
+                {
+                    "": "D1",
+                    "Team": "KOR 1997"
+                },
+                {
+                    "": "D2",
+                    "Team": "POL"
+                },
+                {
+                    "": "D3",
+                    "Team": "USA 1960"
+                },
+                {
+                    "": "D4",
+                    "Team": "POR"
+                }
+            ],
+            [
+                {
+                    "": "E1",
+                    "Team": "GER"
+                },
+                {
+                    "": "E2",
+                    "Team": "KSA"
+                },
+                {
+                    "": "E3",
+                    "Team": "IRL"
+                },
+                {
+                    "": "E4",
+                    "Team": "CMR"
+                }
+            ],
+            [
+                {
+                    "": "F1",
+                    "Team": "ARG"
+                },
+                {
+                    "": "F2",
+                    "Team": "NGA"
+                },
+                {
+                    "": "F3",
+                    "Team": "ENG"
+                },
+                {
+                    "": "F4",
+                    "Team": "SWE"
+                }
+            ],
+            [
+                {
+                    "": "G1",
+                    "Team": "ITA"
+                },
+                {
+                    "": "G2",
+                    "Team": "ECU 1900"
+                },
+                {
+                    "": "G3",
+                    "Team": "CRO"
+                },
+                {
+                    "": "G4",
+                    "Team": "MEX"
+                }
+            ],
+            [
+                {
+                    "": "H1",
+                    "Team": "JPN"
+                },
+                {
+                    "": "H2",
+                    "Team": "BEL"
+                },
+                {
+                    "": "H3",
+                    "Team": "RUS"
+                },
+                {
+                    "": "H4",
+                    "Team": "TUN"
+                }
+            ],
+            [
+                {
+                    "Matchday": "Matchday 1",
+                    "Dates": "31 May \u2013 5 June 2002",
+                    "Matches": "1 v 2, 3 v 4"
+                },
+                {
+                    "Matchday": "Matchday 2",
+                    "Dates": "5\u201310 June 2002",
+                    "Matches": "1 v 3, 4 v 2"
+                },
+                {
+                    "Matchday": "Matchday 3",
+                    "Dates": "11\u201314 June 2002",
+                    "Matches": "4 v 1, 2 v 3"
+                }
+            ],
+            [],
+            [
+                {
+                    "Golden Boot": "BRA Ronaldo",
+                    "Golden Ball": "GER Oliver Kahn 1",
+                    "Yashin Award": "GER Oliver Kahn",
+                    "Best Young Player": "USA 1960 Landon Donovan",
+                    "FIFA Fair Play Trophy": "BEL",
+                    "Most Entertaining Team": "KOR 1997"
+                }
+            ],
+            [
+                {
+                    "Goalkeepers": "GER Oliver Kahn TUR R\u00fc\u015ft\u00fc Re\u00e7ber",
+                    "Defenders": "ENG Sol Campbell ESP Fernando Hierro KOR 1997 Hong Myung-bo TUR Alpay \u00d6zalan BRA Roberto Carlos",
+                    "Midfielders": "GER Michael Ballack USA 1960 Claudio Reyna BRA Rivaldo BRA Ronaldinho KOR 1997 Yoo Sang-chul",
+                    "Forwards": "SEN El Hadji Diouf GER Miroslav Klose BRA Ronaldo TUR Hasan \u015ea\u015f"
+                },
+                {
+                    "Goalkeepers": "Source: [https://www.usatoday.com/sports/soccer/cup2002/2002-06-28-reyna.htm USA Today] , 29 June 2002"
+                }
+            ],
+            [
+                {
+                    "FIFA World Cup sponsors": "List of sponsors for the tournament"
+                },
+                {
+                    "FIFA World Cup sponsors": "Adidas Avaya Budweiser Coca-Cola Fuji Xerox Fujifilm Gillette Duracell Hyundai JVC MasterCard McDonald's Philips Toshiba Yahoo!",
+                    "South Korea sponsors": "Hyundai Marine and Fire Insurance KCC Corporation Kookmin Bank Korea Telecom Korean Air KTF Lotte Hotel",
+                    "Japan sponsors": "Asahi Shimbun Nippon Life Insurance Nippon Telegraph and Telephone Nissin Foods Nomura Securities NTT DoCoMo Tokyo Electric Power Company Tokio Marine and Fire Insurance"
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,2408 @@
+[
+    {
+        "title": "Handball",
+        "tables": [
+            [
+                {
+                    "Size": "III",
+                    "Class": "Men over 16",
+                    "Circumference  (cm)": "58 \u2013 60 cm in",
+                    "Circumference  (in)": "425 \u2013 475 g oz"
+                },
+                {
+                    "Size": "II",
+                    "Class": "Women over 14, men over 12",
+                    "Circumference  (cm)": "54 \u2013 56 cm in",
+                    "Circumference  (in)": "325 \u2013 375 g oz"
+                },
+                {
+                    "Size": "I",
+                    "Class": "Junior over 8",
+                    "Circumference  (cm)": "50 \u2013 52 cm in",
+                    "Circumference  (in)": "290 \u2013 330 g oz"
+                }
+            ]
+        ]
+    },
+    {
+        "title": "Lacrosse",
+        "tables": [
+            [
+                {
+                    "Tournament": "World Lacrosse Championship",
+                    "Editions": "14",
+                    "First  (# teams)": "1967 (4)",
+                    "Most recent  (# teams)": "2023 (30)",
+                    "Most golds  (# golds)": "United States (11)",
+                    "Most silvers  (# silvers)": "Canada (7)"
+                },
+                {
+                    "Tournament": "Women's Lacrosse World Championship",
+                    "Editions": "11",
+                    "First  (# teams)": "1982 (6)",
+                    "Most recent  (# teams)": "2022 (30)",
+                    "Most golds  (# golds)": "United States (9)",
+                    "Most silvers  (# silvers)": "Australia (4)"
+                },
+                {
+                    "Tournament": "World Lacrosse Men's U20 Championship",
+                    "Editions": "9",
+                    "First  (# teams)": "1988 (4)",
+                    "Most recent  (# teams)": "2022 (23)",
+                    "Most golds  (# golds)": "United States (9)",
+                    "Most silvers  (# silvers)": "Canada (7)"
+                },
+                {
+                    "Tournament": "World Lacrosse Women's U20 Championship",
+                    "Editions": "7",
+                    "First  (# teams)": "1995 (7)",
+                    "Most recent  (# teams)": "2019 (22)",
+                    "Most golds  (# golds)": "United States (5)",
+                    "Most silvers  (# silvers)": "Australia (4)"
+                },
+                {
+                    "Tournament": "World Indoor Lacrosse Championship",
+                    "Editions": "5",
+                    "First  (# teams)": "2003 (6)",
+                    "Most recent  (# teams)": "2019 (13)",
+                    "Most golds  (# golds)": "Canada (5)",
+                    "Most silvers  (# silvers)": "Haudenosaunee (5)"
+                }
+            ]
+        ]
+    },
+    {
+        "title": "FIFA World Cup",
+        "tables": [
+            [
+                {
+                    "Confederation": "Asian Football Confederation (AFC)",
+                    "Total": "2",
+                    "Hosts": "2002 : South Korea 1997 , Japan 2022 : Qatar '''''2034''''' : Saudi Arabia"
+                },
+                {
+                    "Confederation": "Confederation of African Football (CAF)",
+                    "Total": "2",
+                    "Hosts": "2010 : South Africa 2030 : Morocco"
+                },
+                {
+                    "Confederation": "Confederation of North, Central America and Caribbean Association Football (CONCACAF)",
+                    "Total": "4",
+                    "Hosts": "1970 : Mexico 1986 : Mexico 1994 : United States 2026 : Canada , Mexico , United States"
+                },
+                {
+                    "Confederation": "South American Football Confederation (CONMEBOL)",
+                    "Total": "5",
+                    "Hosts": "1930 : Uruguay 1950 : Brazil 1889 1962 : Chile 1978 : Argentina 2014 : Brazil"
+                },
+                {
+                    "Confederation": "Oceania Football Confederation (OFC)",
+                    "Total": "0",
+                    "Hosts": "&nbsp;"
+                },
+                {
+                    "Confederation": "Union of European Football Associations (UEFA)",
+                    "Total": "12",
+                    "Hosts": "1934 : Kingdom of Italy 1938 : French Third Republic 1954 : Switzerland 1958 : Sweden 1966 : England 1974 : West Germany * 1982 : Spain 1990 : Italy 1998 : France 1974 2006 : Germany * 2018 : Russia 2030 : Spain , Portugal"
+                },
+                {
+                    "Confederation": "Two competitions cancelled due to World War II",
+                    "Total": "0",
+                    "Hosts": "1942<br />1946"
+                }
+            ],
+            [
+                {
+                    "Year": "Number",
+                    "Hosts": "Venue",
+                    "Venues/Cities": "Game(s)"
+                },
+                {
+                    "Year": "1930",
+                    "Hosts": "Uruguay",
+                    "Venues/Cities": "3/1",
+                    "Totalattendance \u2020": "590549",
+                    "Matches": "18",
+                    "Averageattendance": "32808",
+                    "Highest attendances \u2021": "93000"
+                },
+                {
+                    "Year": "1934",
+                    "Hosts": "Italy 1861",
+                    "Venues/Cities": "8/8",
+                    "Totalattendance \u2020": "363000",
+                    "Matches": "17",
+                    "Averageattendance": "21353",
+                    "Highest attendances \u2021": "55000"
+                },
+                {
+                    "Year": "1938",
+                    "Hosts": "France 1794",
+                    "Venues/Cities": "10/9",
+                    "Totalattendance \u2020": "375700",
+                    "Matches": "18",
+                    "Averageattendance": "20872",
+                    "Highest attendances \u2021": "58455"
+                },
+                {
+                    "Year": "1950",
+                    "Hosts": "Brazil 1889",
+                    "Venues/Cities": "6/6",
+                    "Totalattendance \u2020": "1045246",
+                    "Matches": "22",
+                    "Averageattendance": "47511",
+                    "Highest attendances \u2021": "173850"
+                },
+                {
+                    "Year": "1954",
+                    "Hosts": "Switzerland",
+                    "Venues/Cities": "6/6",
+                    "Totalattendance \u2020": "768607",
+                    "Matches": "26",
+                    "Averageattendance": "29562",
+                    "Highest attendances \u2021": "63000"
+                },
+                {
+                    "Year": "1958",
+                    "Hosts": "Sweden",
+                    "Venues/Cities": "12/12",
+                    "Totalattendance \u2020": "819810",
+                    "Matches": "35",
+                    "Averageattendance": "23423",
+                    "Highest attendances \u2021": "50928"
+                },
+                {
+                    "Year": "1962",
+                    "Hosts": "Chile",
+                    "Venues/Cities": "4/4",
+                    "Totalattendance \u2020": "893172",
+                    "Matches": "32",
+                    "Averageattendance": "27912",
+                    "Highest attendances \u2021": "68679"
+                },
+                {
+                    "Year": "1966",
+                    "Hosts": "England",
+                    "Venues/Cities": "8/7",
+                    "Totalattendance \u2020": "1563135",
+                    "Matches": "32",
+                    "Averageattendance": "48848",
+                    "Highest attendances \u2021": "98270"
+                },
+                {
+                    "Year": "1970",
+                    "Hosts": "Mexico",
+                    "Venues/Cities": "5/5",
+                    "Totalattendance \u2020": "1603975",
+                    "Matches": "32",
+                    "Averageattendance": "50124",
+                    "Highest attendances \u2021": "108192"
+                },
+                {
+                    "Year": "1974",
+                    "Hosts": "West Germany",
+                    "Venues/Cities": "9/9",
+                    "Totalattendance \u2020": "1865753",
+                    "Matches": "38",
+                    "Averageattendance": "49099",
+                    "Highest attendances \u2021": "83168"
+                },
+                {
+                    "Year": "1978",
+                    "Hosts": "Argentina",
+                    "Venues/Cities": "6/5",
+                    "Totalattendance \u2020": "1545791",
+                    "Matches": "38",
+                    "Averageattendance": "40679",
+                    "Highest attendances \u2021": "71712"
+                },
+                {
+                    "Year": "1982",
+                    "Hosts": "Spain",
+                    "Venues/Cities": "17/14",
+                    "Totalattendance \u2020": "2109723",
+                    "Matches": "52",
+                    "Averageattendance": "40572",
+                    "Highest attendances \u2021": "95500"
+                },
+                {
+                    "Year": "1986",
+                    "Hosts": "Mexico",
+                    "Venues/Cities": "12/11",
+                    "Totalattendance \u2020": "2394031",
+                    "Matches": "52",
+                    "Averageattendance": "46039",
+                    "Highest attendances \u2021": "114600"
+                },
+                {
+                    "Year": "1990",
+                    "Hosts": "Italy 1946",
+                    "Venues/Cities": "12/12",
+                    "Totalattendance \u2020": "2516215",
+                    "Matches": "52",
+                    "Averageattendance": "48389",
+                    "Highest attendances \u2021": "74765"
+                },
+                {
+                    "Year": "1994",
+                    "Hosts": "United States",
+                    "Venues/Cities": "9/9",
+                    "Totalattendance \u2020": "3587538",
+                    "Matches": "52",
+                    "Averageattendance": "68991",
+                    "Highest attendances \u2021": "94194"
+                },
+                {
+                    "Year": "1998",
+                    "Hosts": "France 1974",
+                    "Venues/Cities": "10/10",
+                    "Totalattendance \u2020": "2785100",
+                    "Matches": "64",
+                    "Averageattendance": "43517",
+                    "Highest attendances \u2021": "80000"
+                },
+                {
+                    "Year": "2002",
+                    "Hosts": "South Korea 1997 Japan",
+                    "Venues/Cities": "20/20",
+                    "Totalattendance \u2020": "2705197",
+                    "Matches": "64",
+                    "Averageattendance": "42269",
+                    "Highest attendances \u2021": "69029"
+                },
+                {
+                    "Year": "2006",
+                    "Hosts": "Germany",
+                    "Venues/Cities": "12/12",
+                    "Totalattendance \u2020": "3359439",
+                    "Matches": "64",
+                    "Averageattendance": "52491",
+                    "Highest attendances \u2021": "72000"
+                },
+                {
+                    "Year": "2010",
+                    "Hosts": "South Africa",
+                    "Venues/Cities": "10/9",
+                    "Totalattendance \u2020": "3178856",
+                    "Matches": "64",
+                    "Averageattendance": "49670",
+                    "Highest attendances \u2021": "84490"
+                },
+                {
+                    "Year": "2014",
+                    "Hosts": "Brazil",
+                    "Venues/Cities": "12/12",
+                    "Totalattendance \u2020": "3429873",
+                    "Matches": "64",
+                    "Averageattendance": "53592",
+                    "Highest attendances \u2021": "74738"
+                },
+                {
+                    "Year": "2018",
+                    "Hosts": "Russia",
+                    "Venues/Cities": "12/11",
+                    "Totalattendance \u2020": "3031768",
+                    "Matches": "64",
+                    "Averageattendance": "47371",
+                    "Highest attendances \u2021": "78011"
+                },
+                {
+                    "Year": "2022",
+                    "Hosts": "Qatar",
+                    "Venues/Cities": "8/5",
+                    "Totalattendance \u2020": "3404252",
+                    "Matches": "64",
+                    "Averageattendance": "53191",
+                    "Highest attendances \u2021": "88966"
+                },
+                {
+                    "Year": "''2026''",
+                    "Hosts": "Canada Mexico United States",
+                    "Venues/Cities": "16/16",
+                    "Totalattendance \u2020": "",
+                    "Matches": "104",
+                    "Averageattendance": "",
+                    "Highest attendances \u2021": ""
+                },
+                {
+                    "Year": "''2030'' {{refn| Opening three games hosts : Argentina Paraguay Uruguay |group=n|name=hosts2030}}||style=\"text-align: left\"| Morocco Portugal Spain",
+                    "Hosts": "",
+                    "Venues/Cities": "",
+                    "Totalattendance \u2020": "104",
+                    "Matches": "",
+                    "Averageattendance": "",
+                    "Highest attendances \u2021": ""
+                },
+                {
+                    "Year": "''2034''",
+                    "Hosts": "Saudi Arabia",
+                    "Venues/Cities": "",
+                    "Totalattendance \u2020": "",
+                    "Matches": "104",
+                    "Averageattendance": "",
+                    "Highest attendances \u2021": ""
+                },
+                {
+                    "Year": "Overall",
+                    "Hosts": "43936730",
+                    "Venues/Cities": "964",
+                    "Totalattendance \u2020": "45577",
+                    "Matches": "173850",
+                    "Averageattendance": "Maracan\u00e3 Stadium , Rio de Janeiro (1950)",
+                    "Highest attendances \u2021": ""
+                }
+            ],
+            [
+                {
+                    "": "Fourth",
+                    "Year": "Score",
+                    "Host": "Runner-up",
+                    "Final": "Third",
+                    "Third-place play-off": "Score"
+                },
+                {
+                    "": "ARG",
+                    "Year": "1930",
+                    "Host": "Uruguay",
+                    "Final": "URU",
+                    "Third-place play-off": "4\u20132"
+                },
+                {
+                    "": "TCH",
+                    "Year": "1934",
+                    "Host": "Italy 1861",
+                    "Final": "ITA 1861",
+                    "Third-place play-off": "2\u20131"
+                },
+                {
+                    "": "HUN 1920",
+                    "Year": "1938",
+                    "Host": "France 1794",
+                    "Final": "ITA 1861",
+                    "Third-place play-off": "4\u20132"
+                },
+                {
+                    "": "\u2013",
+                    "Year": "1942",
+                    "Host": "(Not held because of World War II )"
+                },
+                {
+                    "": "\u2013",
+                    "Year": "1946",
+                    "Host": "(Not held because of World War II )"
+                },
+                {
+                    "": "BRA 1889",
+                    "Year": "1950",
+                    "Host": "Brazil 1889",
+                    "Final": "URU",
+                    "Third-place play-off": "2\u20131"
+                },
+                {
+                    "": "HUN 1949",
+                    "Year": "1954",
+                    "Host": "Switzerland",
+                    "Final": "FRG",
+                    "Third-place play-off": "3\u20132"
+                },
+                {
+                    "": "SWE",
+                    "Year": "1958",
+                    "Host": "Sweden",
+                    "Final": "BRA 1889",
+                    "Third-place play-off": "5\u20132"
+                },
+                {
+                    "": "TCH",
+                    "Year": "1962",
+                    "Host": "Chile",
+                    "Final": "BRA 1960",
+                    "Third-place play-off": "3\u20131"
+                },
+                {
+                    "": "FRG",
+                    "Year": "1966",
+                    "Host": "England",
+                    "Final": "ENG",
+                    "Third-place play-off": "4\u20132"
+                },
+                {
+                    "": "ITA 1946",
+                    "Year": "1970",
+                    "Host": "Mexico",
+                    "Final": "BRA 1968",
+                    "Third-place play-off": "4\u20131"
+                },
+                {
+                    "": "NED",
+                    "Year": "1974",
+                    "Host": "{{flag|West Germany}}",
+                    "Final": "FRG",
+                    "Third-place play-off": "2\u20131"
+                },
+                {
+                    "": "NED",
+                    "Year": "1978",
+                    "Host": "Argentina",
+                    "Final": "ARG",
+                    "Third-place play-off": "3\u20131"
+                },
+                {
+                    "": "FRG",
+                    "Year": "1982",
+                    "Host": "Spain",
+                    "Final": "ITA 1946",
+                    "Third-place play-off": "3\u20131"
+                },
+                {
+                    "": "FRG",
+                    "Year": "1986",
+                    "Host": "Mexico",
+                    "Final": "ARG",
+                    "Third-place play-off": "3\u20132"
+                },
+                {
+                    "": "ARG",
+                    "Year": "1990",
+                    "Host": "Italy 1946",
+                    "Final": "FRG",
+                    "Third-place play-off": "1\u20130"
+                },
+                {
+                    "": "ITA",
+                    "Year": "1994",
+                    "Host": "United States",
+                    "Final": "BRA",
+                    "Third-place play-off": "0\u20130 3\u20132"
+                },
+                {
+                    "": "BRA",
+                    "Year": "1998",
+                    "Host": "France",
+                    "Final": "FRA",
+                    "Third-place play-off": "3\u20130"
+                },
+                {
+                    "": "GER",
+                    "Year": "2002",
+                    "Host": "South Korea 1997 Japan",
+                    "Final": "BRA",
+                    "Third-place play-off": "2\u20130"
+                },
+                {
+                    "": "FRA",
+                    "Year": "2006",
+                    "Host": "Germany",
+                    "Final": "ITA",
+                    "Third-place play-off": "1\u20131 5\u20133"
+                },
+                {
+                    "": "NED",
+                    "Year": "2010",
+                    "Host": "South Africa",
+                    "Final": "ESP",
+                    "Third-place play-off": "1\u20130"
+                },
+                {
+                    "": "ARG",
+                    "Year": "2014",
+                    "Host": "Brazil",
+                    "Final": "GER",
+                    "Third-place play-off": "1\u20130"
+                },
+                {
+                    "": "CRO",
+                    "Year": "2018",
+                    "Host": "Russia",
+                    "Final": "FRA 2020",
+                    "Third-place play-off": "4\u20132"
+                },
+                {
+                    "": "FRA",
+                    "Year": "2022",
+                    "Host": "Qatar",
+                    "Final": "ARG",
+                    "Third-place play-off": "3\u20133 4\u20132"
+                },
+                {
+                    "": "",
+                    "Year": "2026",
+                    "Host": "Canada Mexico United States",
+                    "Final": "",
+                    "Third-place play-off": ""
+                },
+                {
+                    "": "",
+                    "Year": "2030",
+                    "Host": "Morocco Portugal Spain",
+                    "Final": "",
+                    "Third-place play-off": ""
+                },
+                {
+                    "": "",
+                    "Year": "2034",
+                    "Host": "Saudi Arabia",
+                    "Final": "",
+                    "Third-place play-off": ""
+                }
+            ],
+            [
+                {
+                    "Team": "BRA",
+                    "Titles": "5 ( 1958 , 1962 , 1970 , 1994 , 2002 )",
+                    "Runners-up": "2 ( 1950 * , 1998 )",
+                    "Third place": "2 ( 1938 , 1978 )",
+                    "Fourth place": "2 ( 1974 , 2014 * )",
+                    "Top 4 total": "11"
+                },
+                {
+                    "Team": "GER 1",
+                    "Titles": "4 ( 1954 , 1974 * , 1990 , 2014 )",
+                    "Runners-up": "4 ( 1966 , 1982 , 1986 , 2002 )",
+                    "Third place": "4 ( 1934 , 1970 , 2006 * , 2010 )",
+                    "Fourth place": "1 ( 1958 )",
+                    "Top 4 total": "13"
+                },
+                {
+                    "Team": "ITA",
+                    "Titles": "4 ( 1934 * , 1938 , 1982 , 2006 )",
+                    "Runners-up": "2 ( 1970 , 1994 )",
+                    "Third place": "1 ( 1990 * )",
+                    "Fourth place": "1 ( 1978 )",
+                    "Top 4 total": "8"
+                },
+                {
+                    "Team": "ARG",
+                    "Titles": "3 ( 1978 * , 1986 , 2022 )",
+                    "Runners-up": "3 ( 1930 , 1990 , 2014 )",
+                    "Third place": "",
+                    "Fourth place": "",
+                    "Top 4 total": "6"
+                },
+                {
+                    "Team": "FRA",
+                    "Titles": "2 ( 1998 * , 2018 )",
+                    "Runners-up": "2 ( 2006 , 2022 )",
+                    "Third place": "2 ( 1958 , 1986 )",
+                    "Fourth place": "1 ( 1982 )",
+                    "Top 4 total": "7"
+                },
+                {
+                    "Team": "URU",
+                    "Titles": "2 ( 1930 * , 1950 )",
+                    "Runners-up": "",
+                    "Third place": "",
+                    "Fourth place": "3 ( 1954 , 1970 , 2010 )",
+                    "Top 4 total": "5"
+                },
+                {
+                    "Team": "ENG",
+                    "Titles": "1 ( 1966 * )",
+                    "Runners-up": "",
+                    "Third place": "",
+                    "Fourth place": "2 ( 1990 , 2018 )",
+                    "Top 4 total": "3"
+                },
+                {
+                    "Team": "ESP",
+                    "Titles": "1 ( 2010 )",
+                    "Runners-up": "",
+                    "Third place": "",
+                    "Fourth place": "1 ( 1950 )",
+                    "Top 4 total": "2"
+                },
+                {
+                    "Team": "NED",
+                    "Titles": "",
+                    "Runners-up": "3 ( 1974 , 1978 , 2010 )",
+                    "Third place": "1 ( 2014 )",
+                    "Fourth place": "1 ( 1998 )",
+                    "Top 4 total": "5"
+                },
+                {
+                    "Team": "HUN",
+                    "Titles": "",
+                    "Runners-up": "2 ( 1938 , 1954 )",
+                    "Third place": "",
+                    "Fourth place": "",
+                    "Top 4 total": "2"
+                },
+                {
+                    "Team": "CZE 2",
+                    "Titles": "",
+                    "Runners-up": "2 ( 1934 , 1962 )",
+                    "Third place": "",
+                    "Fourth place": "",
+                    "Top 4 total": "2"
+                },
+                {
+                    "Team": "SWE",
+                    "Titles": "",
+                    "Runners-up": "1 ( 1958 * )",
+                    "Third place": "2 ( 1950 , 1994 )",
+                    "Fourth place": "1 ( 1938 )",
+                    "Top 4 total": "4"
+                },
+                {
+                    "Team": "CRO",
+                    "Titles": "",
+                    "Runners-up": "1 ( 2018 )",
+                    "Third place": "2 ( 1998 , 2022 )",
+                    "Fourth place": "",
+                    "Top 4 total": "3"
+                },
+                {
+                    "Team": "POL",
+                    "Titles": "",
+                    "Runners-up": "",
+                    "Third place": "2 ( 1974 , 1982 )",
+                    "Fourth place": "",
+                    "Top 4 total": "2"
+                },
+                {
+                    "Team": "AUT",
+                    "Titles": "",
+                    "Runners-up": "",
+                    "Third place": "1 ( 1954 )",
+                    "Fourth place": "1 ( 1934 )",
+                    "Top 4 total": "2"
+                },
+                {
+                    "Team": "POR",
+                    "Titles": "",
+                    "Runners-up": "",
+                    "Third place": "1 ( 1966 )",
+                    "Fourth place": "1 ( 2006 )",
+                    "Top 4 total": "2"
+                },
+                {
+                    "Team": "BEL",
+                    "Titles": "",
+                    "Runners-up": "",
+                    "Third place": "1 ( 2018 )",
+                    "Fourth place": "1 ( 1986 )",
+                    "Top 4 total": "2"
+                },
+                {
+                    "Team": "USA",
+                    "Titles": "",
+                    "Runners-up": "",
+                    "Third place": "1 ( 1930 )",
+                    "Fourth place": "",
+                    "Top 4 total": "1"
+                },
+                {
+                    "Team": "CHI",
+                    "Titles": "",
+                    "Runners-up": "",
+                    "Third place": "1 ( 1962 * )",
+                    "Fourth place": "",
+                    "Top 4 total": "1"
+                },
+                {
+                    "Team": "TUR",
+                    "Titles": "",
+                    "Runners-up": "",
+                    "Third place": "1 ( 2002 )",
+                    "Fourth place": "",
+                    "Top 4 total": "1"
+                },
+                {
+                    "Team": "SRB 3",
+                    "Titles": "",
+                    "Runners-up": "",
+                    "Third place": "",
+                    "Fourth place": "2 ( 1930 , 1962 )",
+                    "Top 4 total": "2"
+                },
+                {
+                    "Team": "RUS 4",
+                    "Titles": "",
+                    "Runners-up": "",
+                    "Third place": "",
+                    "Fourth place": "1 ( 1966 )",
+                    "Top 4 total": "1"
+                },
+                {
+                    "Team": "BUL",
+                    "Titles": "",
+                    "Runners-up": "",
+                    "Third place": "",
+                    "Fourth place": "1 ( 1994 )",
+                    "Top 4 total": "1"
+                },
+                {
+                    "Team": "KOR",
+                    "Titles": "",
+                    "Runners-up": "",
+                    "Third place": "",
+                    "Fourth place": "1 ( 2002 * )",
+                    "Top 4 total": "1"
+                },
+                {
+                    "Team": "MAR",
+                    "Titles": "",
+                    "Runners-up": "",
+                    "Third place": "",
+                    "Fourth place": "1 ( 2022 )",
+                    "Top 4 total": "1"
+                }
+            ],
+            [
+                {
+                    "Confederation": "Teams",
+                    "AFC": "43",
+                    "CAF": "49",
+                    "CONCACAF": "46",
+                    "CONMEBOL": "89",
+                    "OFC": "4",
+                    "UEFA": "258",
+                    "Total": "489"
+                },
+                {
+                    "Confederation": "Top 16",
+                    "AFC": "9",
+                    "CAF": "11",
+                    "CONCACAF": "15",
+                    "CONMEBOL": "37",
+                    "OFC": "1",
+                    "UEFA": "99",
+                    "Total": "172"
+                },
+                {
+                    "Confederation": "Top 8",
+                    "AFC": "2",
+                    "CAF": "4",
+                    "CONCACAF": "5",
+                    "CONMEBOL": "36",
+                    "OFC": "0",
+                    "UEFA": "105",
+                    "Total": "152"
+                },
+                {
+                    "Confederation": "Top 4",
+                    "AFC": "1",
+                    "CAF": "1",
+                    "CONCACAF": "1",
+                    "CONMEBOL": "23",
+                    "OFC": "0",
+                    "UEFA": "62",
+                    "Total": "88"
+                },
+                {
+                    "Confederation": "Top 2",
+                    "AFC": "0",
+                    "CAF": "0",
+                    "CONCACAF": "0",
+                    "CONMEBOL": "15",
+                    "OFC": "0",
+                    "UEFA": "29",
+                    "Total": "44"
+                },
+                {
+                    "Confederation": "4th",
+                    "AFC": "1",
+                    "CAF": "1",
+                    "CONCACAF": "0",
+                    "CONMEBOL": "5",
+                    "OFC": "0",
+                    "UEFA": "15",
+                    "Total": "22"
+                },
+                {
+                    "Confederation": "3rd",
+                    "AFC": "0",
+                    "CAF": "0",
+                    "CONCACAF": "1",
+                    "CONMEBOL": "3",
+                    "OFC": "0",
+                    "UEFA": "18",
+                    "Total": "22"
+                },
+                {
+                    "Confederation": "2nd",
+                    "AFC": "0",
+                    "CAF": "0",
+                    "CONCACAF": "0",
+                    "CONMEBOL": "5",
+                    "OFC": "0",
+                    "UEFA": "17",
+                    "Total": "22"
+                },
+                {
+                    "Confederation": "1st",
+                    "AFC": "0",
+                    "CAF": "0",
+                    "CONCACAF": "0",
+                    "CONMEBOL": "10",
+                    "OFC": "0",
+                    "UEFA": "12",
+                    "Total": "22"
+                }
+            ],
+            [
+                {
+                    "Rank": "1",
+                    "Player": "GER Miroslav Klose",
+                    "Goals": "16",
+                    "Matches": "24",
+                    "Goals per game": "16/24 2"
+                },
+                {
+                    "Rank": "2",
+                    "Player": "BRA Ronaldo",
+                    "Goals": "15",
+                    "Matches": "19",
+                    "Goals per game": "16/19 2"
+                },
+                {
+                    "Rank": "3",
+                    "Player": "FRG Gerd M\u00fcller",
+                    "Goals": "14",
+                    "Matches": "13",
+                    "Goals per game": "14/13 2"
+                },
+                {
+                    "Rank": "4",
+                    "Player": "FRA Just Fontaine",
+                    "Goals": "13",
+                    "Matches": "6",
+                    "Goals per game": "13/6 2"
+                },
+                {
+                    "Rank": "4",
+                    "Player": "ARG Lionel Messi",
+                    "Goals": "13",
+                    "Matches": "26",
+                    "Goals per game": "13/26 2"
+                },
+                {
+                    "Rank": "6",
+                    "Player": "FRA Kylian Mbapp\u00e9",
+                    "Goals": "12",
+                    "Matches": "14",
+                    "Goals per game": "12/14 2"
+                },
+                {
+                    "Rank": "6",
+                    "Player": "BRA Pel\u00e9",
+                    "Goals": "12",
+                    "Matches": "14",
+                    "Goals per game": "12/14 2"
+                },
+                {
+                    "Rank": "8",
+                    "Player": "HUN 1949 S\u00e1ndor Kocsis",
+                    "Goals": "11",
+                    "Matches": "5",
+                    "Goals per game": "11/5 2"
+                },
+                {
+                    "Rank": "8",
+                    "Player": "GER J\u00fcrgen Klinsmann",
+                    "Goals": "11",
+                    "Matches": "17",
+                    "Goals per game": "11/17 2"
+                },
+                {
+                    "Rank": "10",
+                    "Player": "GER Helmut Rahn",
+                    "Goals": "10",
+                    "Matches": "10",
+                    "Goals per game": "10/10 2"
+                },
+                {
+                    "Rank": "10",
+                    "Player": "ARG Gabriel Batistuta",
+                    "Goals": "10",
+                    "Matches": "12",
+                    "Goals per game": "10/12 2"
+                },
+                {
+                    "Rank": "10",
+                    "Player": "ENG Gary Lineker",
+                    "Goals": "10",
+                    "Matches": "12",
+                    "Goals per game": "10/12 2"
+                },
+                {
+                    "Rank": "10",
+                    "Player": "PER Te\u00f3filo Cubillas",
+                    "Goals": "10",
+                    "Matches": "13",
+                    "Goals per game": "10/13 2"
+                },
+                {
+                    "Rank": "10",
+                    "Player": "GER Thomas M\u00fcller",
+                    "Goals": "10",
+                    "Matches": "19",
+                    "Goals per game": "10/19 2"
+                },
+                {
+                    "Rank": "10",
+                    "Player": "POL Grzegorz Lato",
+                    "Goals": "10",
+                    "Matches": "20",
+                    "Goals per game": "10/20 2"
+                }
+            ],
+            [
+                {
+                    "Rank": "1",
+                    "National team": "Brazil",
+                    "Goals scored": "237"
+                },
+                {
+                    "Rank": "2",
+                    "National team": "Germany",
+                    "Goals scored": "232"
+                },
+                {
+                    "Rank": "3",
+                    "National team": "Argentina",
+                    "Goals scored": "152"
+                },
+                {
+                    "Rank": "4",
+                    "National team": "France",
+                    "Goals scored": "136"
+                },
+                {
+                    "Rank": "5",
+                    "National team": "Italy",
+                    "Goals scored": "128"
+                },
+                {
+                    "Rank": "6",
+                    "National team": "Spain",
+                    "Goals scored": "108"
+                },
+                {
+                    "Rank": "7",
+                    "National team": "England",
+                    "Goals scored": "104"
+                },
+                {
+                    "Rank": "8",
+                    "National team": "Netherlands",
+                    "Goals scored": "96"
+                },
+                {
+                    "Rank": "9",
+                    "National team": "Uruguay",
+                    "Goals scored": "89"
+                },
+                {
+                    "Rank": "10",
+                    "National team": "Hungary",
+                    "Goals scored": "87"
+                }
+            ],
+            [
+                {
+                    "World Cup": "Uruguay 1930 Uruguay",
+                    "Golden Ball": "Not Awarded",
+                    "Golden Boot": "ARG Guillermo St\u00e1bile",
+                    "Goals": "8",
+                    "Golden Glove": "Not Awarded",
+                    "Clean sheets": "N/A",
+                    "FIFA Young Player Award": "Not Awarded",
+                    "FIFA Fair Play Trophy": "Not Awarded"
+                },
+                {
+                    "World Cup": "Italy 1861 1934 Italy",
+                    "Golden Ball": "Not Awarded",
+                    "Golden Boot": "TCH Old\u0159ich Nejedl\u00fd",
+                    "Goals": "5",
+                    "Golden Glove": "Not Awarded",
+                    "Clean sheets": "N/A",
+                    "FIFA Young Player Award": "Not Awarded",
+                    "FIFA Fair Play Trophy": "Not Awarded"
+                },
+                {
+                    "World Cup": "France 1794 1938 France",
+                    "Golden Ball": "Not Awarded",
+                    "Golden Boot": "BRA 1889 Le\u00f4nidas",
+                    "Goals": "7",
+                    "Golden Glove": "Not Awarded",
+                    "Clean sheets": "N/A",
+                    "FIFA Young Player Award": "Not Awarded",
+                    "FIFA Fair Play Trophy": "Not Awarded"
+                },
+                {
+                    "World Cup": "Brazil 1889 1950 Brazil",
+                    "Golden Ball": "Not Awarded",
+                    "Golden Boot": "BRA 1889 Ademir",
+                    "Goals": "8",
+                    "Golden Glove": "Not Awarded",
+                    "Clean sheets": "N/A",
+                    "FIFA Young Player Award": "Not Awarded",
+                    "FIFA Fair Play Trophy": "Not Awarded"
+                },
+                {
+                    "World Cup": "Switzerland 1954 Switzerland",
+                    "Golden Ball": "Not Awarded",
+                    "Golden Boot": "HUN 1949 S\u00e1ndor Kocsis",
+                    "Goals": "11",
+                    "Golden Glove": "Not Awarded",
+                    "Clean sheets": "N/A",
+                    "FIFA Young Player Award": "Not Awarded",
+                    "FIFA Fair Play Trophy": "Not Awarded"
+                },
+                {
+                    "World Cup": "Sweden 1958 Sweden",
+                    "Golden Ball": "Not Awarded",
+                    "Golden Boot": "FRA Just Fontaine",
+                    "Goals": "13",
+                    "Golden Glove": "Not Awarded",
+                    "Clean sheets": "N/A",
+                    "FIFA Young Player Award": "BRA 1889 Pel\u00e9",
+                    "FIFA Fair Play Trophy": "Not Awarded"
+                },
+                {
+                    "World Cup": "Chile 1962 Chile",
+                    "Golden Ball": "Not Awarded",
+                    "Golden Boot": "HUN Fl\u00f3ri\u00e1n Albert BRA 1960 Garrincha BRA 1960 Vav\u00e1 URS 1955 Valentin Ivanov YUG Dra\u017ean Jerkovi\u0107 CHI Leonel S\u00e1nchez",
+                    "Goals": "4",
+                    "Golden Glove": "Not Awarded",
+                    "Clean sheets": "N/A",
+                    "FIFA Young Player Award": "HUN Fl\u00f3ri\u00e1n Albert",
+                    "FIFA Fair Play Trophy": "Not Awarded"
+                },
+                {
+                    "World Cup": "England 1966 England",
+                    "Golden Ball": "Not Awarded",
+                    "Golden Boot": "POR Eus\u00e9bio",
+                    "Goals": "9",
+                    "Golden Glove": "Not Awarded",
+                    "Clean sheets": "N/A",
+                    "FIFA Young Player Award": "FRG Franz Beckenbauer",
+                    "FIFA Fair Play Trophy": "Not Awarded"
+                },
+                {
+                    "World Cup": "Mexico 1970 Mexico",
+                    "Golden Ball": "Not Awarded",
+                    "Golden Boot": "FRG Gerd M\u00fcller",
+                    "Goals": "10",
+                    "Golden Glove": "Not Awarded",
+                    "Clean sheets": "N/A",
+                    "FIFA Young Player Award": "PER state Te\u00f3filo Cubillas",
+                    "FIFA Fair Play Trophy": "PER state"
+                },
+                {
+                    "World Cup": "{{flagicon|West Germany}} 1974 West Germany",
+                    "Golden Ball": "Not Awarded",
+                    "Golden Boot": "POL 1928 Grzegorz Lato",
+                    "Goals": "7",
+                    "Golden Glove": "Not Awarded",
+                    "Clean sheets": "N/A",
+                    "FIFA Young Player Award": "POL 1928 W\u0142adys\u0142aw \u017bmuda",
+                    "FIFA Fair Play Trophy": "FRG"
+                },
+                {
+                    "World Cup": "Argentina 1978 Argentina",
+                    "Golden Ball": "Not Awarded",
+                    "Golden Boot": "ARG Mario Kempes",
+                    "Goals": "6",
+                    "Golden Glove": "Not Awarded",
+                    "Clean sheets": "N/A",
+                    "FIFA Young Player Award": "ITA 1946 Antonio Cabrini",
+                    "FIFA Fair Play Trophy": "ARG"
+                },
+                {
+                    "World Cup": "Spain 1982 Spain",
+                    "Golden Ball": "ITA 1946 Paolo Rossi",
+                    "Golden Boot": "ITA Paolo Rossi",
+                    "Goals": "6",
+                    "Golden Glove": "Not Awarded",
+                    "Clean sheets": "N/A",
+                    "FIFA Young Player Award": "FRA Manuel Amoros",
+                    "FIFA Fair Play Trophy": "BRA 1968"
+                },
+                {
+                    "World Cup": "Mexico 1986 Mexico",
+                    "Golden Ball": "ARG Diego Maradona",
+                    "Golden Boot": "ENG Gary Lineker",
+                    "Goals": "6",
+                    "Golden Glove": "Not Awarded",
+                    "Clean sheets": "N/A",
+                    "FIFA Young Player Award": "BEL Enzo Scifo",
+                    "FIFA Fair Play Trophy": "BRA 1968"
+                },
+                {
+                    "World Cup": "Italy 1946 1990 Italy",
+                    "Golden Ball": "ITA 1946 Salvatore Schillaci",
+                    "Golden Boot": "ITA Salvatore Schillaci",
+                    "Goals": "6",
+                    "Golden Glove": "Not Awarded",
+                    "Clean sheets": "N/A",
+                    "FIFA Young Player Award": "YUG Robert Prosine\u010dki",
+                    "FIFA Fair Play Trophy": "ENG"
+                },
+                {
+                    "World Cup": "United States 1994 United States",
+                    "Golden Ball": "BRA Rom\u00e1rio",
+                    "Golden Boot": "RUS Oleg Salenko BUL Hristo Stoichkov",
+                    "Goals": "6",
+                    "Golden Glove": "BEL Michel Preud'homme",
+                    "Clean sheets": "2",
+                    "FIFA Young Player Award": "NED Marc Overmars",
+                    "FIFA Fair Play Trophy": "BRA"
+                },
+                {
+                    "World Cup": "France 1974 1998 France",
+                    "Golden Ball": "BRA Ronaldo",
+                    "Golden Boot": "CRO Davor \u0160uker",
+                    "Goals": "6",
+                    "Golden Glove": "FRA Fabien Barthez",
+                    "Clean sheets": "5",
+                    "FIFA Young Player Award": "ENG Michael Owen",
+                    "FIFA Fair Play Trophy": "ENG FRA"
+                },
+                {
+                    "World Cup": "South Korea 1997 Japan 2002 South Korea/Japan",
+                    "Golden Ball": "GER Oliver Kahn",
+                    "Golden Boot": "BRA Ronaldo",
+                    "Goals": "8",
+                    "Golden Glove": "GER Oliver Kahn",
+                    "Clean sheets": "5",
+                    "FIFA Young Player Award": "USA Landon Donovan",
+                    "FIFA Fair Play Trophy": "BEL"
+                },
+                {
+                    "World Cup": "Germany 2006 Germany",
+                    "Golden Ball": "FRA Zinedine Zidane",
+                    "Golden Boot": "GER Miroslav Klose",
+                    "Goals": "5",
+                    "Golden Glove": "ITA 2003 Gianluigi Buffon",
+                    "Clean sheets": "5",
+                    "FIFA Young Player Award": "GER Lukas Podolski",
+                    "FIFA Fair Play Trophy": "BRA ESP"
+                },
+                {
+                    "World Cup": "South Africa 2010 South Africa",
+                    "Golden Ball": "URU Diego Forl\u00e1n",
+                    "Golden Boot": "GER Thomas M\u00fcller",
+                    "Goals": "5",
+                    "Golden Glove": "ESP Iker Casillas",
+                    "Clean sheets": "5",
+                    "FIFA Young Player Award": "GER Thomas M\u00fcller",
+                    "FIFA Fair Play Trophy": "ESP"
+                },
+                {
+                    "World Cup": "Brazil 2014 Brazil",
+                    "Golden Ball": "ARG Lionel Messi",
+                    "Golden Boot": "COL James Rodr\u00edguez",
+                    "Goals": "6",
+                    "Golden Glove": "GER Manuel Neuer",
+                    "Clean sheets": "4",
+                    "FIFA Young Player Award": "FRA Paul Pogba",
+                    "FIFA Fair Play Trophy": "COL"
+                },
+                {
+                    "World Cup": "Russia 2018 Russia",
+                    "Golden Ball": "CRO Luka Modri\u0107",
+                    "Golden Boot": "ENG Harry Kane",
+                    "Goals": "6",
+                    "Golden Glove": "BEL Thibaut Courtois",
+                    "Clean sheets": "3",
+                    "FIFA Young Player Award": "FRA Kylian Mbapp\u00e9",
+                    "FIFA Fair Play Trophy": "ESP"
+                },
+                {
+                    "World Cup": "Qatar 2022 Qatar",
+                    "Golden Ball": "ARG Lionel Messi",
+                    "Golden Boot": "FRA Kylian Mbapp\u00e9",
+                    "Goals": "8",
+                    "Golden Glove": "ARG Emiliano Mart\u00ednez",
+                    "Clean sheets": "3",
+                    "FIFA Young Player Award": "ARG Enzo Fern\u00e1ndez",
+                    "FIFA Fair Play Trophy": "ENG"
+                }
+            ]
+        ]
+    },
+    {
+        "title": "Ice hockey",
+        "tables": [
+            [
+                {
+                    "League": "National Hockey League (NHL)",
+                    "Country": "United States &nbsp; (25 &nbsp; teams) Canada &nbsp; (7 &nbsp; teams)",
+                    "Notes": "",
+                    "Average Attendance for 2018\u201319": "17406"
+                },
+                {
+                    "League": "National League (NL)",
+                    "Country": "Switzerland",
+                    "Notes": "",
+                    "Average Attendance for 2018\u201319": "6949"
+                },
+                {
+                    "League": "Deutsche Eishockey Liga (DEL)",
+                    "Country": "Germany",
+                    "Notes": "",
+                    "Average Attendance for 2018\u201319": "6215"
+                },
+                {
+                    "League": "Kontinental Hockey League (KHL)",
+                    "Country": "Russia &nbsp; (19 &nbsp; teams) Belarus &nbsp; (1 &nbsp; team) China &nbsp; (1 &nbsp; team) Kazakhstan &nbsp; (1 &nbsp; team)",
+                    "Notes": "Successor to Russian Superleague and Soviet Championship League",
+                    "Average Attendance for 2018\u201319": "6397"
+                },
+                {
+                    "League": "American Hockey League",
+                    "Country": "United States &nbsp; (26 &nbsp; teams) Canada &nbsp; (6 &nbsp; teams)",
+                    "Notes": "Developmental league for NHL",
+                    "Average Attendance for 2018\u201319": "5672"
+                },
+                {
+                    "League": "Swedish Hockey League (SHL)",
+                    "Country": "Sweden",
+                    "Notes": "Known as Elitserien until 2013",
+                    "Average Attendance for 2018\u201319": "5936"
+                },
+                {
+                    "League": "Czech Extraliga",
+                    "Country": "Czechia",
+                    "Notes": "Formed from the split of the Czechoslovak First Ice Hockey League",
+                    "Average Attendance for 2018\u201319": "5401"
+                },
+                {
+                    "League": "SM-liiga",
+                    "Country": "Finland",
+                    "Notes": "Originally SM-sarja from 1928 to 1975. Known as SM-liiga since 1975",
+                    "Average Attendance for 2018\u201319": "4232"
+                },
+                {
+                    "League": "Western Hockey League",
+                    "Country": "Canada &nbsp; (17 &nbsp; teams) United States &nbsp; (5 &nbsp; teams)",
+                    "Notes": "Junior league",
+                    "Average Attendance for 2018\u201319": "4295"
+                },
+                {
+                    "League": "ECHL",
+                    "Country": "United States &nbsp; (25 &nbsp; teams) Canada &nbsp; (2 &nbsp; teams)",
+                    "Notes": "Developmental league for NHL",
+                    "Average Attendance for 2018\u201319": "4365"
+                },
+                {
+                    "League": "Ontario Hockey League",
+                    "Country": "Canada &nbsp; (17 &nbsp; teams) United States &nbsp; (3 &nbsp; teams)",
+                    "Notes": "Junior league",
+                    "Average Attendance for 2018\u201319": "3853"
+                },
+                {
+                    "League": "NCAA Division I Men's Ice Hockey Tournament",
+                    "Country": "United States",
+                    "Notes": "Amateur intercollegiate competition",
+                    "Average Attendance for 2018\u201319": "3281"
+                },
+                {
+                    "League": "Quebec Major Junior Hockey League",
+                    "Country": "Canada",
+                    "Notes": "Junior league",
+                    "Average Attendance for 2018\u201319": "3271"
+                },
+                {
+                    "League": "Champions Hockey League",
+                    "Country": "Europe",
+                    "Notes": "Europe-wide championship tournament league. Successor to European Trophy and Champions Hockey League",
+                    "Average Attendance for 2018\u201319": "3397"
+                },
+                {
+                    "League": "Southern Professional Hockey League",
+                    "Country": "United States",
+                    "Notes": "",
+                    "Average Attendance for 2018\u201319": "3116"
+                },
+                {
+                    "League": "Austrian Hockey League",
+                    "Country": "Austria &nbsp; (8 &nbsp; teams) Hungary &nbsp; (1 &nbsp; team) Czechia &nbsp; (1 &nbsp; team) Italy &nbsp; (1 &nbsp; team) Croatia &nbsp; (1 &nbsp; team)",
+                    "Notes": "",
+                    "Average Attendance for 2018\u201319": "2970"
+                },
+                {
+                    "League": "Elite Ice Hockey League",
+                    "Country": "United Kingdom",
+                    "Notes": "Teams in all of the home nations : England, Wales, Scotland and Northern Ireland",
+                    "Average Attendance for 2018\u201319": "2850"
+                },
+                {
+                    "League": "DEL2",
+                    "Country": "Germany",
+                    "Notes": "Second division of Germany",
+                    "Average Attendance for 2018\u201319": "2511"
+                },
+                {
+                    "League": "United States Hockey League",
+                    "Country": "United States",
+                    "Notes": "Amateur junior league",
+                    "Average Attendance for 2018\u201319": "2367"
+                },
+                {
+                    "League": "HockeyAllsvenskan",
+                    "Country": "Sweden",
+                    "Notes": "Second division of Sweden",
+                    "Average Attendance for 2018\u201319": "2713"
+                },
+                {
+                    "League": "GET-ligaen",
+                    "Country": "Norway",
+                    "Notes": "",
+                    "Average Attendance for 2018\u201319": "1827"
+                },
+                {
+                    "League": "Slovak Extraliga",
+                    "Country": "Slovakia &nbsp; (11 &nbsp; teams) Hungary &nbsp; (2 &nbsp; teams)",
+                    "Notes": "Formed from the split of the Czechoslovak First Ice Hockey League",
+                    "Average Attendance for 2018\u201319": "1663"
+                },
+                {
+                    "League": "Ligue Magnus",
+                    "Country": "France",
+                    "Notes": "",
+                    "Average Attendance for 2018\u201319": "1716"
+                },
+                {
+                    "League": "Supreme Hockey League (VHL)",
+                    "Country": "Russia &nbsp; (24 &nbsp; teams) Kazakhstan &nbsp; (2 &nbsp; teams) China &nbsp; (2 &nbsp; teams)",
+                    "Notes": "Second division of Russia and partial development league for the KHL",
+                    "Average Attendance for 2018\u201319": "1766"
+                },
+                {
+                    "League": "Swiss League",
+                    "Country": "",
+                    "Notes": "Second division of Switzerland",
+                    "Average Attendance for 2018\u201319": "1845"
+                },
+                {
+                    "League": "Chance Liga",
+                    "Country": "Czechia",
+                    "Notes": "Second division of Czechia",
+                    "Average Attendance for 2018\u201319": "1674"
+                },
+                {
+                    "League": "Latvian Hockey Higher League",
+                    "Country": "&nbsp; (6 &nbsp; teams)",
+                    "Notes": "",
+                    "Average Attendance for 2018\u201319": "1354"
+                },
+                {
+                    "League": "Metal Ligaen",
+                    "Country": "",
+                    "Notes": "",
+                    "Average Attendance for 2018\u201319": "1525"
+                },
+                {
+                    "League": "Premier Hockey Federation",
+                    "Country": "United States (5 teams) Canada (1 team)",
+                    "Notes": "Formed in 2015",
+                    "Average Attendance for 2018\u201319": "954"
+                },
+                {
+                    "League": "Asia League",
+                    "Country": "Japan &nbsp; (4 &nbsp; teams) Korea, Republic of &nbsp; (3 &nbsp; teams) Russia &nbsp; (1 &nbsp; team) China &nbsp; (1 &nbsp; team)",
+                    "Notes": "",
+                    "Average Attendance for 2018\u201319": "976"
+                },
+                {
+                    "League": "Mestis",
+                    "Country": "Finland",
+                    "Notes": "Successor to I-Divisioona , Second division of Finland",
+                    "Average Attendance for 2018\u201319": "762"
+                },
+                {
+                    "League": "Federal Prospects Hockey League",
+                    "Country": "United States",
+                    "Notes": "",
+                    "Average Attendance for 2018\u201319": "1546"
+                },
+                {
+                    "League": "fr [[Ligue Nord-Am\u00e9ricaine de Hockey]]",
+                    "Country": "Canada",
+                    "Notes": "",
+                    "Average Attendance for 2018\u201319": "1131"
+                },
+                {
+                    "League": "BeNe League",
+                    "Country": "Netherlands &nbsp; (10 &nbsp; teams) Belgium &nbsp; (6 &nbsp; teams)",
+                    "Notes": "Formed in 2015 with teams from Dutch Eredivisie and Belgian Hockey League",
+                    "Average Attendance for 2018\u201319": "784"
+                },
+                {
+                    "League": "Polska Hokej Liga",
+                    "Country": "Poland",
+                    "Notes": "",
+                    "Average Attendance for 2018\u201319": "751"
+                },
+                {
+                    "League": "Erste Liga",
+                    "Country": "Hungary &nbsp; (6 &nbsp; teams) &nbsp; (2 &nbsp; teams) Austria &nbsp; (1 &nbsp; team)",
+                    "Notes": "",
+                    "Average Attendance for 2018\u201319": "601"
+                },
+                {
+                    "League": "Alps Hockey League",
+                    "Country": "Austria &nbsp; (7 &nbsp; teams) Italy &nbsp; (8 &nbsp; teams) Slovenia &nbsp; (2 &nbsp; teams)",
+                    "Notes": "Formed in 2016 with the merger of Italy's Serie A and the joint Austrian\u2013Slovenian Inter-National League",
+                    "Average Attendance for 2018\u201319": "734"
+                },
+                {
+                    "League": "Belarusian Extraleague",
+                    "Country": "Belarus",
+                    "Notes": "",
+                    "Average Attendance for 2018\u201319": "717"
+                },
+                {
+                    "League": "Swedish Women's Hockey League",
+                    "Country": "Sweden",
+                    "Notes": "Formed in 2007 and known as Riksserien until 2016",
+                    "Average Attendance for 2018\u201319": "234"
+                },
+                {
+                    "League": "Professional Women's Hockey League",
+                    "Country": "United States (3 teams) Canada (3 teams)",
+                    "Notes": "Founded in 2023, first game in 2024",
+                    "Average Attendance for 2018\u201319": "\u2014"
+                }
+            ],
+            [
+                {
+                    "Country": "United States",
+                    "Players": "556929",
+                    "% of population": "0.164%"
+                },
+                {
+                    "Country": "Canada",
+                    "Players": "548800",
+                    "% of population": "1.415%"
+                },
+                {
+                    "Country": "Russia",
+                    "Players": "101819",
+                    "% of population": "0.070%"
+                },
+                {
+                    "Country": "Sweden",
+                    "Players": "73585",
+                    "% of population": "0.693%"
+                },
+                {
+                    "Country": "Finland",
+                    "Players": "59145",
+                    "% of population": "1.067%"
+                },
+                {
+                    "Country": "Switzerland",
+                    "Players": "32229",
+                    "% of population": "0.366%"
+                },
+                {
+                    "Country": "Czech Republic",
+                    "Players": "27078",
+                    "% of population": "0.258%"
+                },
+                {
+                    "Country": "Germany",
+                    "Players": "23717",
+                    "% of population": "0.028%"
+                },
+                {
+                    "Country": "Japan",
+                    "Players": "19988",
+                    "% of population": "0.016%"
+                },
+                {
+                    "Country": "France",
+                    "Players": "19467",
+                    "% of population": "0.030%"
+                },
+                {
+                    "Country": "Slovakia",
+                    "Players": "11829",
+                    "% of population": "0.204%"
+                },
+                {
+                    "Country": "Norway",
+                    "Players": "11618",
+                    "% of population": "0.212%"
+                },
+                {
+                    "Country": "United Kingdom",
+                    "Players": "11277",
+                    "% of population": "0.017%"
+                },
+                {
+                    "Country": "China",
+                    "Players": "10876",
+                    "% of population": "0.001%"
+                },
+                {
+                    "Country": "Belarus",
+                    "Players": "10335",
+                    "% of population": "0.109%"
+                },
+                {
+                    "Country": "Kazakhstan",
+                    "Players": "9970",
+                    "% of population": "0.051%"
+                },
+                {
+                    "Country": "Latvia",
+                    "Players": "8859",
+                    "% of population": "0.484%"
+                },
+                {
+                    "Country": "Hungary",
+                    "Players": "8477",
+                    "% of population": "0.083%"
+                },
+                {
+                    "Country": "Austria",
+                    "Players": "7557",
+                    "% of population": "0.084%"
+                },
+                {
+                    "Country": "Australia",
+                    "Players": "6138",
+                    "% of population": "0.023%"
+                },
+                {
+                    "Country": "Denmark",
+                    "Players": "5944",
+                    "% of population": "0.101%"
+                },
+                {
+                    "Country": "Ukraine",
+                    "Players": "5341",
+                    "% of population": "0.015%"
+                },
+                {
+                    "Country": "Italy",
+                    "Players": "5136",
+                    "% of population": "0.009%"
+                },
+                {
+                    "Country": "Poland",
+                    "Players": "3928",
+                    "% of population": "0.010%"
+                },
+                {
+                    "Country": "South Korea",
+                    "Players": "3684",
+                    "% of population": "0.007%"
+                },
+                {
+                    "Country": "Netherlands",
+                    "Players": "3552",
+                    "% of population": "0.020%"
+                },
+                {
+                    "Country": "Belgium",
+                    "Players": "2903",
+                    "% of population": "0.025%"
+                },
+                {
+                    "Country": "Kyrgyzstan",
+                    "Players": "2880",
+                    "% of population": "0.043%"
+                },
+                {
+                    "Country": "New Zealand",
+                    "Players": "2347",
+                    "% of population": "0.045%"
+                },
+                {
+                    "Country": "Romania",
+                    "Players": "2073",
+                    "% of population": "0.010%"
+                },
+                {
+                    "Country": "India",
+                    "Players": "1844",
+                    "% of population": "0.000%"
+                },
+                {
+                    "Country": "North Korea",
+                    "Players": "1595",
+                    "% of population": "0.006%"
+                },
+                {
+                    "Country": "Turkey",
+                    "Players": "1591",
+                    "% of population": "0.002%"
+                },
+                {
+                    "Country": "Lithuania",
+                    "Players": "1445",
+                    "% of population": "0.053%"
+                },
+                {
+                    "Country": "Estonia",
+                    "Players": "1304",
+                    "% of population": "0.099%"
+                },
+                {
+                    "Country": "Argentina",
+                    "Players": "1143",
+                    "% of population": "0.002%"
+                }
+            ]
+        ]
+    },
+    {
+        "title": "Gymnastics",
+        "tables": [
+            [
+                {
+                    "Skill": "Round-off",
+                    "Explained": "A common entry skill seen in every type of gymnastics to turn horizontal speed into vertical speed. A round-off will most commonly be connected with a back tumbling skill, such as a backflip / back twist, or back handspring."
+                },
+                {
+                    "Skill": "Dismount",
+                    "Explained": "The skill competed at the end of a routine, this is either a double/triple somersault, a twisting somersault or a combination somersault."
+                },
+                {
+                    "Skill": "Back Handspring",
+                    "Explained": "A long somersault where a gymnast moves from feet to hands to feet again in a backwards motion."
+                },
+                {
+                    "Skill": "Whip",
+                    "Explained": "A long, low and fast somersault done without the hands. This move is unique to tumbling and the trademark of the discipline."
+                },
+                {
+                    "Skill": "Double Somersault",
+                    "Explained": "The tumbler launches into the air and rotates twice vertically around before landing on their feet. This skill is done in a tuck, pike or straight position."
+                },
+                {
+                    "Skill": "Triple Somersault",
+                    "Explained": "The gymnasts launches into the air and rotates three times vertically before landing on their feet. This skill is done in a tuck or pike position and has yet to be competed in the straight position"
+                },
+                {
+                    "Skill": "Twisting Somersault",
+                    "Explained": "A single somersault in which the tumbler rotates horizontally. This is can be done as a single 'full' twist, a double twist or a triple twist."
+                },
+                {
+                    "Skill": "Combination Somersault",
+                    "Explained": "A somersault that is a combination of double/triple and twisting skills. For example in a double twisting double straight, the gymnast will rotate twice vertically and twice horizontally before landing. The hardest combination somersaults performed would be either the full in triple pike in which a gymnasts rotates vertically three times in a pike position with a full twist in the first rotation or 'the miller' in which a gymnast rotates horizontally four times and vertically twice."
+                },
+                {
+                    "Skill": "Transition Skill",
+                    "Explained": "This is where a gymnast performs either a double somersault or a combination somersault in the middle of their run as opposed to doing it as an end skill. No triple somersaults or combination somersaults involving a triple vertically rotation has yet to be competed."
+                }
+            ]
+        ]
+    },
+    {
+        "title": "Melbourne Cricket Ground",
+        "tables": [
+            [
+                {
+                    "Number": "1",
+                    "Teams": "Australia v New Zealand",
+                    "Match type": "2015 Cricket World Cup Final (ODI)",
+                    "Attendance": "93013",
+                    "Date": "29 March 2015"
+                },
+                {
+                    "Number": "2",
+                    "Teams": "Australia v England",
+                    "Match type": "Test",
+                    "Attendance": "91112",
+                    "Date": "26 December 2013"
+                },
+                {
+                    "Number": "3",
+                    "Teams": "Australia v West Indies",
+                    "Match type": "Test",
+                    "Attendance": "90800",
+                    "Date": "11 February 1961"
+                },
+                {
+                    "Number": "4",
+                    "Teams": "India v Pakistan",
+                    "Match type": "2022 Men's T20 World Cup (Super 12)",
+                    "Attendance": "90293",
+                    "Date": "23 October 2022"
+                },
+                {
+                    "Number": "5",
+                    "Teams": "Australia v England",
+                    "Match type": "Test",
+                    "Attendance": "89155",
+                    "Date": "26 December 2006"
+                },
+                {
+                    "Number": "6",
+                    "Teams": "Australia v England",
+                    "Match type": "Test",
+                    "Attendance": "88172",
+                    "Date": "26 December 2017"
+                },
+                {
+                    "Number": "7",
+                    "Teams": "Australia v England",
+                    "Match type": "Test",
+                    "Attendance": "87789",
+                    "Date": "4 January 1937"
+                },
+                {
+                    "Number": "8",
+                    "Teams": "England v Pakistan",
+                    "Match type": "1992 Cricket World Cup Final (ODI)",
+                    "Attendance": "87182",
+                    "Date": "25 March 1992"
+                },
+                {
+                    "Number": "9",
+                    "Teams": "India v South Africa",
+                    "Match type": "2015 Cricket World Cup Group match",
+                    "Attendance": "86876",
+                    "Date": "22 February 2015"
+                },
+                {
+                    "Number": "10",
+                    "Teams": "Australia v India",
+                    "Match type": "2020 ICC Women's T20 World Cup Final",
+                    "Attendance": "86174",
+                    "Date": "8 March 2020"
+                }
+            ],
+            [
+                {
+                    "Number": "All-time highest attendance records at the MCG"
+                },
+                {
+                    "Number": "1",
+                    "Attendance": "143000",
+                    "Event": "Billy Graham , Crusade",
+                    "Date": "15 March 1959"
+                },
+                {
+                    "Number": "2",
+                    "Attendance": "121696",
+                    "Event": "VFL Grand Final , v",
+                    "Date": "26 September 1970"
+                },
+                {
+                    "Number": "3",
+                    "Attendance": "120000",
+                    "Event": "40th Eucharistic Congress",
+                    "Date": "25 February 1973"
+                },
+                {
+                    "Number": "4",
+                    "Attendance": "119195",
+                    "Event": "VFL Grand Final , v",
+                    "Date": "27 September 1969"
+                },
+                {
+                    "Number": "5",
+                    "Attendance": "118192",
+                    "Event": "VFL Grand Final , v",
+                    "Date": "25 September 1971"
+                }
+            ],
+            [
+                {
+                    "Runs": "1,671 (17 innings)",
+                    "Player": "AUS Don Bradman",
+                    "Period": "1928\u20131948"
+                },
+                {
+                    "Runs": "1,338 (28 innings)",
+                    "Player": "AUS Ricky Ponting",
+                    "Period": "1995\u20132011"
+                },
+                {
+                    "Runs": "1,284 (30 innings)",
+                    "Player": "AUS Steve Waugh",
+                    "Period": "1985\u20132003"
+                },
+                {
+                    "Runs": "1,272 (36 innings)",
+                    "Player": "AUS Allan Border",
+                    "Period": "1978\u20131993"
+                },
+                {
+                    "Runs": "1,257 (31 innings)",
+                    "Player": "AUS Greg Chappell",
+                    "Period": "1971\u20131983"
+                }
+            ],
+            [
+                {
+                    "Runs": "1,178 (18 innings)",
+                    "Player": "ENG Jack Hobbs",
+                    "Period": "1908\u20131929"
+                },
+                {
+                    "Runs": "724 (7 innings)",
+                    "Player": "ENG Herbert Sutcliffe",
+                    "Period": "1925\u20131933"
+                },
+                {
+                    "Runs": "661 (15 innings)",
+                    "Player": "ENG Colin Cowdrey",
+                    "Period": "1954\u20131975"
+                },
+                {
+                    "Runs": "606 (11 innings)",
+                    "Player": "WIN Viv Richards",
+                    "Period": "1975\u20131988"
+                },
+                {
+                    "Runs": "505 (12 innings)",
+                    "Player": "ENG Wally Hammond",
+                    "Period": "1928\u20131947"
+                }
+            ],
+            [
+                {
+                    "Runs": "307 v. England",
+                    "Player": "AUS Bob Cowper",
+                    "Date": "11 Feb 1966"
+                },
+                {
+                    "Runs": "270 v. England",
+                    "Player": "AUS Don Bradman",
+                    "Date": "1 Jan 1937"
+                },
+                {
+                    "Runs": "268 v. Pakistan",
+                    "Player": "AUS Graham Yallop",
+                    "Date": "26 Dec 1983"
+                },
+                {
+                    "Runs": "257 v. India",
+                    "Player": "AUS Ricky Ponting",
+                    "Date": "26 Dec 2003"
+                },
+                {
+                    "Runs": "250 v. England",
+                    "Player": "AUS Justin Langer",
+                    "Date": "26 Dec 2002"
+                }
+            ],
+            [
+                {
+                    "Centuries": "9 (17 innings)",
+                    "Player": "AUS Don Bradman",
+                    "Period": "1928\u20131948"
+                },
+                {
+                    "Centuries": "6 (19 innings)",
+                    "Player": "AUS Matthew Hayden",
+                    "Period": "1996\u20132008"
+                },
+                {
+                    "Centuries": "5 (18 innings)",
+                    "Player": "ENG Jack Hobbs",
+                    "Period": "1908\u20131929"
+                },
+                {
+                    "Centuries": "4 (7 innings)",
+                    "Player": "ENG Herbert Sutcliffe",
+                    "Period": "1925\u20131933"
+                },
+                {
+                    "Centuries": "4 (13 innings)",
+                    "Player": "AUS Bill Lawry",
+                    "Period": "1962\u20131971"
+                },
+                {
+                    "Centuries": "4 (14 innings)",
+                    "Player": "AUS Steve Smith",
+                    "Period": "2010\u20132021"
+                },
+                {
+                    "Centuries": "4 (28 innings)",
+                    "Player": "AUS Ricky Ponting",
+                    "Period": "1995\u20132011"
+                },
+                {
+                    "Centuries": "4 (31 innings)",
+                    "Player": "AUS Greg Chappell",
+                    "Period": "1971\u20131983"
+                },
+                {
+                    "Centuries": "4 (36 innings)",
+                    "Player": "AUS Allan Border",
+                    "Period": "1978\u20131993"
+                }
+            ],
+            [
+                {
+                    "Average": "128.53 (17 innings, 4 NO )",
+                    "Player": "AUS Don Bradman",
+                    "Period": "1928\u20131948"
+                },
+                {
+                    "Average": "103.42 (7 innings, 0 NO)",
+                    "Player": "ENG Herbert Sutcliffe",
+                    "Period": "1925\u20131933"
+                },
+                {
+                    "Average": "101.20 (5 innings, 0 NO)",
+                    "Player": "AUS Bob Cowper",
+                    "Period": "1964\u20131968"
+                },
+                {
+                    "Average": "87.00 (6 innings, 1 NO)",
+                    "Player": "ENG Alastair Cook",
+                    "Period": "2006\u20132017"
+                },
+                {
+                    "Average": "84.72 (15 innings, 4 NO)",
+                    "Player": "AUS Steve Smith",
+                    "Period": "2010\u20132021"
+                }
+            ],
+            [
+                {
+                    "Wickets": "82 (26 innings)",
+                    "Player": "AUS Dennis Lillee",
+                    "Period": "1972\u20131983"
+                },
+                {
+                    "Wickets": "56 (21 innings)",
+                    "Player": "AUS Shane Warne",
+                    "Period": "1992\u20132006"
+                },
+                {
+                    "Wickets": "46 (13 innings)",
+                    "Player": "AUS Hugh Trumble",
+                    "Period": "1894\u20131904"
+                },
+                {
+                    "Wickets": "45 (14 innings)",
+                    "Player": "AUS Graham McKenzie",
+                    "Period": "1962\u20131968"
+                },
+                {
+                    "Wickets": "42 (22 innings)",
+                    "Player": "AUS Glenn McGrath",
+                    "Period": "1995\u20132006"
+                }
+            ],
+            [
+                {
+                    "Wickets": "35 (10 innings)",
+                    "Player": "ENG Sydney Barnes",
+                    "Period": "1902\u20131912"
+                },
+                {
+                    "Wickets": "27 (8 innings)",
+                    "Player": "ENG Bobby Peel",
+                    "Period": "1885\u20131895"
+                },
+                {
+                    "Wickets": "22 (8 innings)",
+                    "Player": "ENG Billy Bates",
+                    "Period": "1881\u20131885"
+                },
+                {
+                    "Wickets": "22 (8 innings)",
+                    "Player": "ENG Alec Bedser",
+                    "Period": "1947\u20131951"
+                },
+                {
+                    "Wickets": "22 (8 innings)",
+                    "Player": "PAK Sarfraz Nawaz",
+                    "Period": "1972\u20131983"
+                }
+            ],
+            [
+                {
+                    "Figures": "9/86 v. Australia",
+                    "Player": "PAK Sarfraz Nawaz",
+                    "Date": "10 Mar 1979"
+                },
+                {
+                    "Figures": "9/121 v. England",
+                    "Player": "AUS Arthur Mailey",
+                    "Date": "11 Feb 1921"
+                },
+                {
+                    "Figures": "8/68 v. Australia",
+                    "Player": "ENG Wilfred Rhodes",
+                    "Date": "1 Jan 1904"
+                },
+                {
+                    "Figures": "8/71 v. West Indies",
+                    "Player": "AUS Graham McKenzie",
+                    "Date": "26 Dec 1968"
+                },
+                {
+                    "Figures": "8/81 v. Australia",
+                    "Player": "ENG Len Braund",
+                    "Date": "5 Mar 1904"
+                },
+                {
+                    "Figures": "8/143 v. England",
+                    "Player": "AUS Max Walker",
+                    "Date": "8 Feb 1975"
+                }
+            ],
+            [
+                {
+                    "Figures": "15/124 v. Australia",
+                    "Player": "ENG Wilfred Rhodes",
+                    "Date": "1 Jan 1904"
+                },
+                {
+                    "Figures": "14/102 v. Australia",
+                    "Player": "ENG Billy Bates",
+                    "Date": "19 Jan 1883"
+                },
+                {
+                    "Figures": "13/77 v. England",
+                    "Player": "AUS Monty Noble",
+                    "Date": "1 Jan 1902"
+                },
+                {
+                    "Figures": "13/110 v. England",
+                    "Player": "AUS Fred Spofforth",
+                    "Date": "2 Jan 1879"
+                },
+                {
+                    "Figures": "13/148 v. England",
+                    "Player": "AUS Bruce Reid",
+                    "Date": "26 Dec 1990"
+                },
+                {
+                    "Figures": "13/163 v. Australia",
+                    "Player": "ENG Sydney Barnes",
+                    "Date": "1 Jan 1902"
+                },
+                {
+                    "Figures": "13/165 v. Australia",
+                    "Player": "RSA Hugh Tayfield",
+                    "Date": "24 Dec 1952"
+                },
+                {
+                    "Figures": "13/236 v. England",
+                    "Player": "AUS Arthur Mailey",
+                    "Date": "11 Feb 1921"
+                }
+            ],
+            [
+                {
+                    "Strike rate": "22.6 (6 wickets)",
+                    "Player": "AUS John Hodges",
+                    "Period": "1877\u20131877"
+                },
+                {
+                    "Strike rate": "31.1 (10 wickets)",
+                    "Player": "AUS Laurie Nash",
+                    "Period": "1932\u20131937"
+                },
+                {
+                    "Strike rate": "31.1 (15 wickets)",
+                    "Player": "IND Jasprit Bumrah",
+                    "Period": "2018\u20132020"
+                },
+                {
+                    "Strike rate": "32.6 (35 wickets)",
+                    "Player": "AUS Bruce Reid",
+                    "Period": "1985\u20131991"
+                },
+                {
+                    "Strike rate": "32.7 (18 wickets)",
+                    "Player": "WIN Michael Holding",
+                    "Period": "1976\u20131981"
+                }
+            ],
+            [
+                {
+                    "Score": "8/624d",
+                    "Team": "AUS Australia v. Pakistan",
+                    "Date": "26 Dec 2016"
+                },
+                {
+                    "Score": "604",
+                    "Team": "AUS Australia v. England",
+                    "Date": "26 Feb 1937"
+                },
+                {
+                    "Score": "600",
+                    "Team": "AUS Australia v. England",
+                    "Date": "1 Jan 1925"
+                },
+                {
+                    "Score": "589",
+                    "Team": "ENG England v. Australia",
+                    "Date": "9 Feb 1912"
+                },
+                {
+                    "Score": "578",
+                    "Team": "AUS Australia v. South Africa",
+                    "Date": "17 Feb 1911"
+                }
+            ],
+            [
+                {
+                    "Score": "36",
+                    "Team": "RSA South Africa v. Australia",
+                    "Date": "12 Feb 1932"
+                },
+                {
+                    "Score": "45",
+                    "Team": "RSA South Africa v. Australia",
+                    "Date": "12 Feb 1932"
+                },
+                {
+                    "Score": "61",
+                    "Team": "ENG England v. Australia",
+                    "Date": "1 Jan 1902"
+                },
+                {
+                    "Score": "61",
+                    "Team": "ENG England v. Australia",
+                    "Date": "5 Mar 1904"
+                },
+                {
+                    "Score": "67",
+                    "Team": "IND India v. Australia",
+                    "Date": "6 Feb 1948"
+                }
+            ],
+            [
+                {
+                    "Runs": "346",
+                    "Wicket": "6th",
+                    "Players": "Don Bradman (270) & Jack Fingleton (136)",
+                    "Match": "AUS Australia v. ENG England",
+                    "Date": "1 Jan 1937"
+                },
+                {
+                    "Runs": "323",
+                    "Wicket": "1st",
+                    "Players": "Wilfred Rhodes (179) & Jack Hobbs (178)",
+                    "Match": "ENG England v. AUS Australia",
+                    "Date": "9 Feb 1912"
+                },
+                {
+                    "Runs": "298",
+                    "Wicket": "2nd",
+                    "Players": "Bill Lawry (205) & Ian Chappell (165)",
+                    "Match": "AUS Australia v. WIN West Indies",
+                    "Date": "26 Dec 1968"
+                },
+                {
+                    "Runs": "283",
+                    "Wicket": "1st",
+                    "Players": "Herbert Sutcliffe (176) & Jack Hobbs (154)",
+                    "Match": "ENG England v. AUS Australia",
+                    "Date": "1 Jan 1925"
+                },
+                {
+                    "Runs": "279",
+                    "Wicket": "6th",
+                    "Players": "Andrew Symonds (156) & Matthew Hayden (153)",
+                    "Match": "AUS Australia v. ENG England",
+                    "Date": "26 Dec 2006"
+                }
+            ],
+            [
+                {
+                    "Runs": "323",
+                    "Wicket": "1st",
+                    "Players": "Wilfred Rhodes (179) & Jack Hobbs (178)",
+                    "Match": "ENG England v. AUS Australia",
+                    "Date": "9 Feb 1912"
+                },
+                {
+                    "Runs": "298",
+                    "Wicket": "2nd",
+                    "Players": "Bill Lawry (205) & Ian Chappell (165)",
+                    "Match": "AUS Australia v. WIN West Indies",
+                    "Date": "26 Dec 1968"
+                },
+                {
+                    "Runs": "249",
+                    "Wicket": "3rd",
+                    "Players": "Don Bradman (169) & Stan McCabe (112)",
+                    "Match": "AUS Australia v. ENG England",
+                    "Date": "26 Feb 1937"
+                },
+                {
+                    "Runs": "262",
+                    "Wicket": "4th",
+                    "Players": "Virat Kohli (169) & Ajinkya Rahane (147)",
+                    "Match": "IND India v. AUS Australia",
+                    "Date": "26 Dec 2014"
+                },
+                {
+                    "Runs": "223*",
+                    "Wicket": "5th",
+                    "Players": "Don Bradman (127*) & Arthur Morris (100*)",
+                    "Match": "AUS Australia v. IND India",
+                    "Date": "1 Jan 1948"
+                },
+                {
+                    "Runs": "346",
+                    "Wicket": "6th",
+                    "Players": "Don Bradman (270) & Jack Fingleton (136)",
+                    "Match": "AUS Australia v. ENG England",
+                    "Date": "1 Jan 1937"
+                },
+                {
+                    "Runs": "185",
+                    "Wicket": "7th",
+                    "Players": "Graham Yallop (268) & Greg Matthews (75)",
+                    "Match": "AUS Australia v. PAK Pakistan",
+                    "Date": "26 Dec 1983"
+                },
+                {
+                    "Runs": "173",
+                    "Wicket": "8th",
+                    "Players": "Nip Pellew (116) & Jack Gregory (100)",
+                    "Match": "AUS Australia v. ENG England",
+                    "Date": "31 Dec 1920"
+                },
+                {
+                    "Runs": "180",
+                    "Wicket": "9th",
+                    "Players": "JP Duminy (166) & Dale Steyn (76)",
+                    "Match": "RSA South Africa v. AUS Australia",
+                    "Date": "26 Dec 2008"
+                },
+                {
+                    "Runs": "120",
+                    "Wicket": "10th",
+                    "Players": "Reggie Duff (104) & Warwick Armstrong (45*)",
+                    "Match": "AUS Australia v. ENG England",
+                    "Date": "1 Jan 1902"
+                }
+            ],
+            [
+                {
+                    "Statue": "Tom Wills Commemorative sculpture for the first game of Australian rules football",
+                    "Sport": "Cricket and Australian rules football",
+                    "Unveiled": "2001",
+                    "Location": "Outside MCG (between Gates 2 and 3)",
+                    "Link": "[http://www.funderestudios.com.au/html/fundere_commissions8.html Non-MCG]"
+                }
+            ],
+            [
+                {
+                    "Statue": "Sir Donald Bradman",
+                    "Sport": "Cricket",
+                    "Unveiled": "2003, May",
+                    "Location": "Outside gate 5",
+                    "Link": "[http://www.mcg.org.au/things-to-do/sporting-statues/don-bradman MCG]"
+                },
+                {
+                    "Statue": "Betty Cuthbert",
+                    "Sport": "Track and field",
+                    "Unveiled": "2003, August",
+                    "Location": "Outside gate 3",
+                    "Link": "[http://www.mcg.org.au/things-to-do/sporting-statues/betty-cuthbert MCG]"
+                },
+                {
+                    "Statue": "Ron Barassi",
+                    "Sport": "Australian rules football",
+                    "Unveiled": "2003, September",
+                    "Location": "Outside gate 4",
+                    "Link": "[http://www.mcg.org.au/things-to-do/sporting-statues/ron-barassi MCG]"
+                },
+                {
+                    "Statue": "Keith Miller",
+                    "Sport": "Cricket",
+                    "Unveiled": "2004, February",
+                    "Location": "Outside gate 5",
+                    "Link": "[http://www.mcg.org.au/things-to-do/sporting-statues/keith-miller MCG]"
+                },
+                {
+                    "Statue": "Dick Reynolds",
+                    "Sport": "Australian rules football",
+                    "Unveiled": "2004, June",
+                    "Location": "Outside gate 6",
+                    "Link": "[http://www.mcg.org.au/things-to-do/sporting-statues/dick-reynolds MCG]"
+                },
+                {
+                    "Statue": "Shirley Strickland",
+                    "Sport": "Track and field",
+                    "Unveiled": "2004, November",
+                    "Location": "Outside gate 3",
+                    "Link": "[http://www.mcg.org.au/things-to-do/sporting-statues/shirley-strickland MCG]"
+                },
+                {
+                    "Statue": "Haydn Bunton, Sr.",
+                    "Sport": "Australian rules football",
+                    "Unveiled": "2005, April",
+                    "Location": "Outside gate 6",
+                    "Link": "[http://www.mcg.org.au/things-to-do/sporting-statues/haydn-bunton MCG]"
+                },
+                {
+                    "Statue": "Leigh Matthews",
+                    "Sport": "Australian rules football",
+                    "Unveiled": "2005, August",
+                    "Location": "Outside gate 4",
+                    "Link": "[http://www.mcg.org.au/things-to-do/sporting-statues/leigh-matthews MCG]"
+                },
+                {
+                    "Statue": "Bill Ponsford",
+                    "Sport": "Cricket",
+                    "Unveiled": "2005, December",
+                    "Location": "Outside gate 1",
+                    "Link": "[http://www.mcg.org.au/things-to-do/sporting-statues/bill-ponsford MCG]"
+                },
+                {
+                    "Statue": "Dennis Lillee",
+                    "Sport": "Cricket",
+                    "Unveiled": "2006, December",
+                    "Location": "Outside gate 1",
+                    "Link": "[http://www.mcg.org.au/things-to-do/sporting-statues/dennis-lillee MCG]"
+                }
+            ],
+            [
+                {
+                    "Statue": "Shane Warne",
+                    "Sport": "Cricket",
+                    "Unveiled": "2011, December",
+                    "Location": "Outside gate 2",
+                    "Link": "[http://www.mcg.org.au/things-to-do/sporting-statues/shane-warne MCG]"
+                },
+                {
+                    "Statue": "Norm Smith",
+                    "Sport": "Australian rules football",
+                    "Unveiled": "2012, September",
+                    "Location": "Near Jolimont Station",
+                    "Link": "[http://www.mcg.org.au/things-to-do/sporting-statues/norm-smith MCG]"
+                },
+                {
+                    "Statue": "John Coleman",
+                    "Sport": "Australian rules football",
+                    "Unveiled": "2013, September",
+                    "Location": "Outside gate 2",
+                    "Link": "[http://www.mcg.org.au/things-to-do/sporting-statues/john-coleman MCG]"
+                },
+                {
+                    "Statue": "Neil Harvey",
+                    "Sport": "Cricket",
+                    "Unveiled": "2014, January",
+                    "Location": "Near Jolimont Station",
+                    "Link": "[http://www.mcg.org.au/things-to-do/sporting-statues/neil-harvey MCG]"
+                },
+                {
+                    "Statue": "Jim Stynes",
+                    "Sport": "Australian rules football",
+                    "Unveiled": "2014, September",
+                    "Location": "Outside gate 2",
+                    "Link": "[http://www.mcg.org.au/things-to-do/sporting-statues/jim-stynes MCG]"
+                },
+                {
+                    "Statue": "Kevin Bartlett",
+                    "Sport": "Australian rules football",
+                    "Unveiled": "2017, March",
+                    "Location": "Near Jolimont Station",
+                    "Link": "[http://www.mcg.org.au/things-to-do/sporting-statues/kevin-bartlett MCG]"
+                }
+            ]
+        ]
+    }
+]

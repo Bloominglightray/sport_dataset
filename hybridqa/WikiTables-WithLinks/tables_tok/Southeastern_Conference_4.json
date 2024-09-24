@@ -1,0 +1,391 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Southeastern_Conference",
+  "title": "Southeastern Conference",
+  "header": [
+    [
+      "Pick",
+      []
+    ],
+    [
+      "Name",
+      []
+    ],
+    [
+      "Location",
+      []
+    ],
+    [
+      "Opposing conference",
+      []
+    ],
+    [
+      "Opposing pick",
+      []
+    ],
+    [
+      "Payout",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "1",
+        []
+      ],
+      [
+        "Sugar Bowl",
+        [
+          "/wiki/Sugar_Bowl"
+        ]
+      ],
+      [
+        "New Orleans , Louisiana",
+        [
+          "/wiki/New_Orleans"
+        ]
+      ],
+      [
+        "Big 12",
+        [
+          "/wiki/Big_12_Conference"
+        ]
+      ],
+      [
+        "1",
+        []
+      ],
+      [
+        "$ 18M",
+        []
+      ]
+    ],
+    [
+      [
+        "2\u2020",
+        []
+      ],
+      [
+        "Orange Bowl",
+        [
+          "/wiki/Orange_Bowl"
+        ]
+      ],
+      [
+        "Miami Gardens , Florida",
+        [
+          "/wiki/Miami_Gardens,_Florida"
+        ]
+      ],
+      [
+        "ACC",
+        [
+          "/wiki/Atlantic_Coast_Conference"
+        ]
+      ],
+      [
+        "1",
+        []
+      ],
+      [
+        "$ 18M",
+        []
+      ]
+    ],
+    [
+      [
+        "3",
+        []
+      ],
+      [
+        "Citrus Bowl",
+        [
+          "/wiki/Citrus_Bowl_(game)"
+        ]
+      ],
+      [
+        "Orlando , Florida",
+        [
+          "/wiki/Orlando,_Florida"
+        ]
+      ],
+      [
+        "Big Ten - ACC \u00b0",
+        [
+          "/wiki/Big_Ten_Conference",
+          "/wiki/Atlantic_Coast_Conference"
+        ]
+      ],
+      [
+        "3/4/5 - 2",
+        []
+      ],
+      [
+        "$ 4.2M",
+        []
+      ]
+    ],
+    [
+      [
+        "4/5/6/7/8/9",
+        []
+      ],
+      [
+        "Outback Bowl",
+        [
+          "/wiki/Outback_Bowl"
+        ]
+      ],
+      [
+        "Tampa , Florida",
+        [
+          "/wiki/Tampa,_Florida"
+        ]
+      ],
+      [
+        "Big Ten",
+        [
+          "/wiki/Big_Ten_Conference"
+        ]
+      ],
+      [
+        "3/4/5",
+        []
+      ],
+      [
+        "$ 3.5M",
+        []
+      ]
+    ],
+    [
+      [
+        "4/5/6/7/8/9",
+        []
+      ],
+      [
+        "Belk Bowl",
+        [
+          "/wiki/Belk_Bowl"
+        ]
+      ],
+      [
+        "Charlotte , North Carolina",
+        [
+          "/wiki/Charlotte,_North_Carolina"
+        ]
+      ],
+      [
+        "ACC",
+        [
+          "/wiki/Atlantic_Coast_Conference"
+        ]
+      ],
+      [
+        "3/4/5/6/7",
+        []
+      ],
+      [
+        "$ 1.7M",
+        []
+      ]
+    ],
+    [
+      [
+        "4/5/6/7/8/9",
+        []
+      ],
+      [
+        "Texas Bowl",
+        [
+          "/wiki/Texas_Bowl"
+        ]
+      ],
+      [
+        "Houston , Texas",
+        [
+          "/wiki/Houston"
+        ]
+      ],
+      [
+        "Big 12",
+        [
+          "/wiki/Big_12_Conference"
+        ]
+      ],
+      [
+        "4",
+        []
+      ],
+      [
+        "$ 3.0M",
+        []
+      ]
+    ],
+    [
+      [
+        "4/5/6/7/8/9",
+        []
+      ],
+      [
+        "Liberty Bowl",
+        [
+          "/wiki/Liberty_Bowl"
+        ]
+      ],
+      [
+        "Memphis , Tennessee",
+        [
+          "/wiki/Memphis,_Tennessee"
+        ]
+      ],
+      [
+        "Big 12",
+        [
+          "/wiki/Big_12_Conference"
+        ]
+      ],
+      [
+        "5",
+        []
+      ],
+      [
+        "$ 1.4M",
+        []
+      ]
+    ],
+    [
+      [
+        "4/5/6/7/8/9",
+        []
+      ],
+      [
+        "Gator Bowl",
+        [
+          "/wiki/Gator_Bowl"
+        ]
+      ],
+      [
+        "Jacksonville , Florida",
+        [
+          "/wiki/Jacksonville,_Florida"
+        ]
+      ],
+      [
+        "Big Ten - ACC \u2021",
+        [
+          "/wiki/Big_Ten_Conference",
+          "/wiki/Atlantic_Coast_Conference"
+        ]
+      ],
+      [
+        "6/7/8 - 3/4/5/6/7",
+        []
+      ],
+      [
+        "$ 2.8M",
+        []
+      ]
+    ],
+    [
+      [
+        "4/5/6/7/8/9",
+        []
+      ],
+      [
+        "Music City Bowl",
+        [
+          "/wiki/Music_City_Bowl"
+        ]
+      ],
+      [
+        "Nashville , Tennessee",
+        [
+          "/wiki/Nashville,_Tennessee"
+        ]
+      ],
+      [
+        "Big Ten - ACC \u2021",
+        [
+          "/wiki/Big_Ten_Conference",
+          "/wiki/Atlantic_Coast_Conference"
+        ]
+      ],
+      [
+        "6/7/8 - 3/4/5/6/7",
+        []
+      ],
+      [
+        "$ 2.8M",
+        []
+      ]
+    ],
+    [
+      [
+        "10",
+        []
+      ],
+      [
+        "Birmingham Bowl",
+        [
+          "/wiki/Birmingham_Bowl"
+        ]
+      ],
+      [
+        "Birmingham , Alabama",
+        [
+          "/wiki/Birmingham,_Alabama"
+        ]
+      ],
+      [
+        "American",
+        [
+          "/wiki/American_Athletic_Conference"
+        ]
+      ],
+      [
+        "5",
+        []
+      ],
+      [
+        "$ 1.1M",
+        []
+      ]
+    ],
+    [
+      [
+        "11",
+        []
+      ],
+      [
+        "Independence Bowl",
+        [
+          "/wiki/Independence_Bowl"
+        ]
+      ],
+      [
+        "Shreveport , Louisiana",
+        [
+          "/wiki/Shreveport,_Louisiana"
+        ]
+      ],
+      [
+        "ACC",
+        [
+          "/wiki/Atlantic_Coast_Conference"
+        ]
+      ],
+      [
+        "8/9/10",
+        []
+      ],
+      [
+        "$ 1.2M",
+        []
+      ]
+    ]
+  ],
+  "section_title": "Football -- Bowl games",
+  "section_text": "The post-season bowl game tie-ins for the SEC for the 2014\u20132019 seasons are : [ 66 ]",
+  "uid": "Southeastern_Conference_4",
+  "intro": "The Southeastern Conference (SEC) is an American college athletic conference whose member institutions are located primarily in the South Central and Southeastern United States. Its fourteen members include the flagship public universities of ten states, three additional public land grant universities, and one private research university. The conference is headquartered in Birmingham, Alabama. The SEC participates in the National Collegiate Athletic Association (NCAA) Division I in sports competitions; for football, it is part of the Football Bowl Subdivision (FBS), formerly known as Division I-A. The SEC is regarded as one of the most accomplished sports conferences in terms of its winning reputation, with 43 national football championships, 21 basketball championships, 41 indoor track championships, 42 outdoor track championships, 24 swimming championships, 20 gymnastics championships, and 13 College World Series. The conference is also highly successful financially, as it consistently leads most others in revenue distribution to its members, including an SEC record $455.8 million for the 2014-15 fiscal year, which was a sizable increase over the $292.8 million for the 2013-14 fiscal year, largely due to the revenue from the introduction of the SEC Network. The SEC was also the first NCAA Division I conference to hold a championship game (and award a subsequent title) for college football and was one of the founding members of the Bowl Championship Series (BCS). The current SEC commissioner is Greg Sankey. The conference sponsors team championships in nine men's sports and twelve women's sports."
+}

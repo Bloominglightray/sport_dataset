@@ -1,0 +1,184 @@
+{
+  "url": "https://en.wikipedia.org/wiki/ISO_3166-2:FR",
+  "title": "ISO 3166-2:FR",
+  "header": [
+    [
+      "Code",
+      []
+    ],
+    [
+      "Subdivision name",
+      []
+    ],
+    [
+      "Subdivision category",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "FR-CP",
+        []
+      ],
+      [
+        "Clipperton",
+        [
+          "/wiki/Clipperton_Island"
+        ]
+      ],
+      [
+        "dependency",
+        []
+      ]
+    ],
+    [
+      [
+        "FR-GF",
+        []
+      ],
+      [
+        "Guyane ( fran\u00e7aise )",
+        [
+          "/wiki/French_Guiana"
+        ]
+      ],
+      [
+        "overseas territorial collectivity",
+        []
+      ]
+    ],
+    [
+      [
+        "FR-MQ",
+        []
+      ],
+      [
+        "Martinique",
+        [
+          "/wiki/Martinique"
+        ]
+      ],
+      [
+        "overseas territorial collectivity",
+        []
+      ]
+    ],
+    [
+      [
+        "FR-NC",
+        []
+      ],
+      [
+        "Nouvelle-Cal\u00e9donie",
+        [
+          "/wiki/New_Caledonia"
+        ]
+      ],
+      [
+        "overseas territorial collectivity",
+        []
+      ]
+    ],
+    [
+      [
+        "FR-PF",
+        []
+      ],
+      [
+        "Polyn\u00e9sie fran\u00e7aise",
+        [
+          "/wiki/French_Polynesia"
+        ]
+      ],
+      [
+        "overseas territorial collectivity",
+        []
+      ]
+    ],
+    [
+      [
+        "FR-BL",
+        []
+      ],
+      [
+        "Saint-Barth\u00e9lemy",
+        [
+          "/wiki/Saint_Barth\u00e9lemy"
+        ]
+      ],
+      [
+        "overseas territorial collectivity",
+        []
+      ]
+    ],
+    [
+      [
+        "FR-MF",
+        []
+      ],
+      [
+        "Saint-Martin",
+        [
+          "/wiki/Collectivity_of_Saint_Martin"
+        ]
+      ],
+      [
+        "overseas territorial collectivity",
+        []
+      ]
+    ],
+    [
+      [
+        "FR-PM",
+        []
+      ],
+      [
+        "Saint-Pierre-et-Miquelon",
+        [
+          "/wiki/Saint_Pierre_and_Miquelon"
+        ]
+      ],
+      [
+        "overseas territorial collectivity",
+        []
+      ]
+    ],
+    [
+      [
+        "FR-TF",
+        []
+      ],
+      [
+        "Terres australes fran\u00e7aises",
+        [
+          "/wiki/French_Southern_and_Antarctic_Lands"
+        ]
+      ],
+      [
+        "overseas territorial collectivity",
+        []
+      ]
+    ],
+    [
+      [
+        "FR-WF",
+        []
+      ],
+      [
+        "Wallis-et-Futuna",
+        [
+          "/wiki/Wallis_and_Futuna"
+        ]
+      ],
+      [
+        "overseas territorial collectivity",
+        []
+      ]
+    ]
+  ],
+  "section_title": "Current codes -- Dependency and overseas territorial collectivities",
+  "section_text": "",
+  "uid": "ISO_3166-2:FR_3",
+  "intro": "ISO 3166-2:FR is the entry for France in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1. Currently for France, ISO 3166-2 codes are defined for the following subdivisions:"
+}

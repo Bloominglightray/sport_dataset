@@ -1,0 +1,1112 @@
+[
+    {
+        "title": "Golf, Illinois",
+        "tables": [
+            [
+                {
+                    "Race / Ethnicity": "White alone (NH)",
+                    "Pop 2010": "431",
+                    "Pop 2020": "428",
+                    "% 2010": "86.20%",
+                    "% 2020": "83.27%"
+                },
+                {
+                    "Race / Ethnicity": "Black or African American alone (NH)",
+                    "Pop 2010": "3",
+                    "Pop 2020": "7",
+                    "% 2010": "0.60%",
+                    "% 2020": "1.36%"
+                },
+                {
+                    "Race / Ethnicity": "Native American or Alaska Native alone (NH)",
+                    "Pop 2010": "0",
+                    "Pop 2020": "0",
+                    "% 2010": "0.00%",
+                    "% 2020": "0.00%"
+                },
+                {
+                    "Race / Ethnicity": "Asian alone (NH)",
+                    "Pop 2010": "15",
+                    "Pop 2020": "29",
+                    "% 2010": "3.00%",
+                    "% 2020": "5.64%"
+                },
+                {
+                    "Race / Ethnicity": "Pacific Islander alone (NH)",
+                    "Pop 2010": "0",
+                    "Pop 2020": "0",
+                    "% 2010": "0.00%",
+                    "% 2020": "0.00%"
+                },
+                {
+                    "Race / Ethnicity": "Some Other Race alone (NH)",
+                    "Pop 2010": "2",
+                    "Pop 2020": "3",
+                    "% 2010": "0.40%",
+                    "% 2020": "0.58%"
+                },
+                {
+                    "Race / Ethnicity": "Mixed Race/Multi-Racial (NH)",
+                    "Pop 2010": "8",
+                    "Pop 2020": "12",
+                    "% 2010": "1.60%",
+                    "% 2020": "2.33%"
+                },
+                {
+                    "Race / Ethnicity": "Hispanic or Latino (any race)",
+                    "Pop 2010": "41",
+                    "Pop 2020": "35",
+                    "% 2010": "8.20%",
+                    "% 2020": "6.81%"
+                },
+                {
+                    "Race / Ethnicity": "Total",
+                    "Pop 2010": "500",
+                    "Pop 2020": "514",
+                    "% 2010": "100.00%",
+                    "% 2020": "100.00%"
+                }
+            ]
+        ]
+    },
+    {
+        "title": "LaCrosse, Florida",
+        "tables": [
+            [
+                {
+                    "Race": "White (NH)",
+                    "Pop 2010": "222",
+                    "Pop 2020": "186",
+                    "% 2010": "61.67%",
+                    "% 2020": "58.86%"
+                },
+                {
+                    "Race": "Black or African American (NH)",
+                    "Pop 2010": "65",
+                    "Pop 2020": "46",
+                    "% 2010": "18.06%",
+                    "% 2020": "14.56%"
+                },
+                {
+                    "Race": "Native American or Alaska Native (NH)",
+                    "Pop 2010": "1",
+                    "Pop 2020": "0",
+                    "% 2010": "0.28%",
+                    "% 2020": "0.00%"
+                },
+                {
+                    "Race": "Asian (NH)",
+                    "Pop 2010": "2",
+                    "Pop 2020": "6",
+                    "% 2010": "0.56%",
+                    "% 2020": "1.90%"
+                },
+                {
+                    "Race": "Pacific Islander or Native Hawaiian (NH)",
+                    "Pop 2010": "0",
+                    "Pop 2020": "0",
+                    "% 2010": "0.00%",
+                    "% 2020": "0.00%"
+                },
+                {
+                    "Race": "Some other race (NH)",
+                    "Pop 2010": "0",
+                    "Pop 2020": "3",
+                    "% 2010": "0.00%",
+                    "% 2020": "0.95%"
+                },
+                {
+                    "Race": "Two or more races/Multiracial (NH)",
+                    "Pop 2010": "11",
+                    "Pop 2020": "22",
+                    "% 2010": "3.06%",
+                    "% 2020": "6.96%"
+                },
+                {
+                    "Race": "Hispanic or Latino (any race)",
+                    "Pop 2010": "59",
+                    "Pop 2020": "53",
+                    "% 2010": "16.39%",
+                    "% 2020": "16.77%"
+                },
+                {
+                    "Race": "Total",
+                    "Pop 2010": "360",
+                    "Pop 2020": "316",
+                    "% 2010": "",
+                    "% 2020": ""
+                }
+            ]
+        ]
+    },
+    {
+        "title": "1998 FIFA World Cup",
+        "tables": [
+            [
+                {
+                    "Country": "Voting results"
+                },
+                {
+                    "Country": "France",
+                    "Round 1": "12"
+                },
+                {
+                    "Country": "Morocco",
+                    "Round 1": "7"
+                }
+            ],
+            [
+                {
+                    "": "Teams listed by FIFA ranking as of May 1998"
+                },
+                {
+                    "": "1",
+                    "Country": "BRA (1994 winner)",
+                    "Confederation": "CONMEBOL",
+                    "Rank": "1"
+                },
+                {
+                    "": "2",
+                    "Country": "GER",
+                    "Confederation": "UEFA",
+                    "Rank": "2"
+                },
+                {
+                    "": "3",
+                    "Country": "MEX",
+                    "Confederation": "CONCACAF",
+                    "Rank": "4"
+                },
+                {
+                    "": "4",
+                    "Country": "ENG",
+                    "Confederation": "UEFA",
+                    "Rank": "5"
+                },
+                {
+                    "": "5",
+                    "Country": "ARG",
+                    "Confederation": "CONMEBOL",
+                    "Rank": "6"
+                },
+                {
+                    "": "6",
+                    "Country": "NOR",
+                    "Confederation": "UEFA",
+                    "Rank": "7"
+                },
+                {
+                    "": "7",
+                    "Country": "FR Yugoslavia",
+                    "Confederation": "UEFA",
+                    "Rank": "8"
+                },
+                {
+                    "": "8",
+                    "Country": "CHI",
+                    "Confederation": "CONMEBOL",
+                    "Rank": "9"
+                },
+                {
+                    "": "9",
+                    "Country": "COL",
+                    "Confederation": "CONMEBOL",
+                    "Rank": "10"
+                },
+                {
+                    "": "10",
+                    "Country": "USA",
+                    "Confederation": "CONCACAF",
+                    "Rank": "11"
+                },
+                {
+                    "": "11",
+                    "Country": "JPN 1870",
+                    "Confederation": "AFC",
+                    "Rank": "12"
+                },
+                {
+                    "": "12",
+                    "Country": "MAR",
+                    "Confederation": "CAF",
+                    "Rank": "13"
+                },
+                {
+                    "": "13",
+                    "Country": "ITA",
+                    "Confederation": "UEFA",
+                    "Rank": "14"
+                },
+                {
+                    "": "14",
+                    "Country": "ESP",
+                    "Confederation": "UEFA",
+                    "Rank": "15"
+                },
+                {
+                    "": "15",
+                    "Country": "FRA 1974 (host)",
+                    "Confederation": "UEFA",
+                    "Rank": "18"
+                },
+                {
+                    "": "16",
+                    "Country": "CRO",
+                    "Confederation": "UEFA",
+                    "Rank": "19"
+                },
+                {
+                    "": "17",
+                    "Country": "KOR 1997",
+                    "Confederation": "AFC",
+                    "Rank": "20"
+                },
+                {
+                    "": "18",
+                    "Country": "TUN 1959",
+                    "Confederation": "CAF",
+                    "Rank": "21"
+                },
+                {
+                    "": "19",
+                    "Country": "ROM",
+                    "Confederation": "UEFA",
+                    "Rank": "22"
+                },
+                {
+                    "": "20",
+                    "Country": "RSA",
+                    "Confederation": "CAF",
+                    "Rank": "24"
+                },
+                {
+                    "": "21",
+                    "Country": "NED",
+                    "Confederation": "UEFA",
+                    "Rank": "25"
+                },
+                {
+                    "": "22",
+                    "Country": "DEN",
+                    "Confederation": "UEFA",
+                    "Rank": "27"
+                },
+                {
+                    "": "23",
+                    "Country": "PAR",
+                    "Confederation": "CONMEBOL",
+                    "Rank": "29"
+                },
+                {
+                    "": "24",
+                    "Country": "JAM",
+                    "Confederation": "CONCACAF",
+                    "Rank": "30"
+                },
+                {
+                    "": "25",
+                    "Country": "AUT",
+                    "Confederation": "UEFA",
+                    "Rank": "31"
+                },
+                {
+                    "": "26",
+                    "Country": "KSA",
+                    "Confederation": "AFC",
+                    "Rank": "34"
+                },
+                {
+                    "": "27",
+                    "Country": "BUL",
+                    "Confederation": "UEFA",
+                    "Rank": "35"
+                },
+                {
+                    "": "28",
+                    "Country": "BEL",
+                    "Confederation": "UEFA",
+                    "Rank": "36"
+                },
+                {
+                    "": "29",
+                    "Country": "SCO",
+                    "Confederation": "UEFA",
+                    "Rank": "41"
+                },
+                {
+                    "": "30",
+                    "Country": "IRN",
+                    "Confederation": "AFC",
+                    "Rank": "42"
+                },
+                {
+                    "": "31",
+                    "Country": "CMR",
+                    "Confederation": "CAF",
+                    "Rank": "49"
+                },
+                {
+                    "": "32",
+                    "Country": "NGA",
+                    "Confederation": "CAF",
+                    "Rank": "74"
+                }
+            ],
+            [
+                {
+                    "Paris": "Parc des Princes",
+                    "Marseille": "Stade V\u00e9lodrome",
+                    "Lyon": "Stade de Gerland"
+                },
+                {
+                    "Paris": "Capacity: 48,875",
+                    "Marseille": "Capacity: 60,000",
+                    "Lyon": "Capacity: 44,000"
+                },
+                {
+                    "Paris": "180px",
+                    "Marseille": "180px",
+                    "Lyon": "180px"
+                },
+                {
+                    "Paris": "Lens",
+                    "Marseille": "France"
+                },
+                {
+                    "Paris": "Stade F\u00e9lix-Bollaert",
+                    "Marseille": "France"
+                },
+                {
+                    "Paris": "",
+                    "Marseille": "France"
+                },
+                {
+                    "Paris": "Capacity: 41,300",
+                    "Marseille": "France"
+                },
+                {
+                    "Paris": "170px",
+                    "Marseille": "France"
+                },
+                {
+                    "Paris": "Nantes",
+                    "Marseille": "France"
+                },
+                {
+                    "Paris": "Stade de la Beaujoire",
+                    "Marseille": "France"
+                },
+                {
+                    "Paris": "",
+                    "Marseille": "France"
+                },
+                {
+                    "Paris": "Capacity: 39,500",
+                    "Marseille": "France"
+                },
+                {
+                    "Paris": "180px",
+                    "Marseille": "France"
+                },
+                {
+                    "Paris": "Bordeaux",
+                    "Marseille": "Saint-\u00c9tienne",
+                    "Lyon": "Montpellier"
+                },
+                {
+                    "Paris": "Parc Lescure",
+                    "Marseille": "Stade Geoffroy-Guichard",
+                    "Lyon": "Stade de la Mosson"
+                },
+                {
+                    "Paris": "Capacity: 35,200",
+                    "Marseille": "Capacity: 36,000",
+                    "Lyon": "Capacity: 34,000"
+                },
+                {
+                    "Paris": "180px",
+                    "Marseille": "180px",
+                    "Lyon": "180px"
+                }
+            ],
+            [
+                {
+                    "Pot ATop-seeded teams( + Host + Top7 seeds)": "* {{fb|BRA}} <small>(1994 winner, group A1)</small>\n* {{fb|FRA|1974}} <small>(host, group C1)</small>\n----\n* {{fb|GER}} (1)\n* {{fb|ITA|1946}} (3)\n* {{fb|ESP}} (4)\n* {{fb|ARG}} (5)\n* {{fb|ROU}} (6)\n* {{fb|NED}} (7)",
+                    "Pot BEurope(UEFA)": "* {{fb|AUT}}\n* {{fb|BEL}}\n* {{fb|BUL}}\n* {{fb|CRO}}\n* {{fb|DEN}}\n* {{fb|ENG}}\n* {{fb|SCO}}\n* {{fb|FRY}}\n* {{fb|NOR}}",
+                    "Pot CAsia & South America(AFC & CONMEBOL)": "* {{fb|CHI}}\n* {{fb|COL}}\n* {{fb|IRN}}\n* {{fb|JPN|1947}}\n* {{fb|PAR|1990}}\n* {{fb|KSA}}\n* {{fb|KOR|1997}}",
+                    "Pot DAfrica & North America(CAF & CONCACAF)": "* {{fb|CMR}}\n* {{fb|JAM}}\n* {{fb|MEX}}\n* {{fb|MAR}}\n* {{fb|NGA}}\n* {{fb|RSA|1994}}\n* {{fb|TUN|1959}}\n* {{fb|USA|1960}}"
+                }
+            ],
+            [
+                {
+                    "": "A1",
+                    "Team": "BRA"
+                },
+                {
+                    "": "A2",
+                    "Team": "SCO"
+                },
+                {
+                    "": "A3",
+                    "Team": "MAR"
+                },
+                {
+                    "": "A4",
+                    "Team": "NOR"
+                }
+            ],
+            [
+                {
+                    "": "B1",
+                    "Team": "ITA 1946"
+                },
+                {
+                    "": "B2",
+                    "Team": "CHI"
+                },
+                {
+                    "": "B3",
+                    "Team": "CMR"
+                },
+                {
+                    "": "B4",
+                    "Team": "AUT"
+                }
+            ],
+            [
+                {
+                    "": "C1",
+                    "Team": "FRA 1974"
+                },
+                {
+                    "": "C2",
+                    "Team": "RSA 1994"
+                },
+                {
+                    "": "C3",
+                    "Team": "KSA"
+                },
+                {
+                    "": "C4",
+                    "Team": "DEN"
+                }
+            ],
+            [
+                {
+                    "": "D1",
+                    "Team": "ESP"
+                },
+                {
+                    "": "D2",
+                    "Team": "NGA"
+                },
+                {
+                    "": "D3",
+                    "Team": "PAR 1990"
+                },
+                {
+                    "": "D4",
+                    "Team": "BUL"
+                }
+            ],
+            [
+                {
+                    "": "E1",
+                    "Team": "NED"
+                },
+                {
+                    "": "E2",
+                    "Team": "BEL"
+                },
+                {
+                    "": "E3",
+                    "Team": "KOR 1997"
+                },
+                {
+                    "": "E4",
+                    "Team": "MEX"
+                }
+            ],
+            [
+                {
+                    "": "F1",
+                    "Team": "GER"
+                },
+                {
+                    "": "F2",
+                    "Team": "USA 1960"
+                },
+                {
+                    "": "F3",
+                    "Team": "FRY"
+                },
+                {
+                    "": "F4",
+                    "Team": "IRN"
+                }
+            ],
+            [
+                {
+                    "": "G1",
+                    "Team": "ROU"
+                },
+                {
+                    "": "G2",
+                    "Team": "COL"
+                },
+                {
+                    "": "G3",
+                    "Team": "ENG"
+                },
+                {
+                    "": "G4",
+                    "Team": "TUN 1959"
+                }
+            ],
+            [
+                {
+                    "": "H1",
+                    "Team": "ARG"
+                },
+                {
+                    "": "H2",
+                    "Team": "JPN 1947"
+                },
+                {
+                    "": "H3",
+                    "Team": "JAM"
+                },
+                {
+                    "": "H4",
+                    "Team": "CRO"
+                }
+            ],
+            [
+                {
+                    "Matchday": "Matchday 1",
+                    "Dates": "10\u201315 June 1998",
+                    "Matches": "1 v 2, 3 v 4"
+                },
+                {
+                    "Matchday": "Matchday 2",
+                    "Dates": "16\u201322 June 1998",
+                    "Matches": "1 v 3, 2 v 4"
+                },
+                {
+                    "Matchday": "Matchday 3",
+                    "Dates": "23\u201326 June 1998",
+                    "Matches": "4 v 1, 2 v 3"
+                }
+            ],
+            [
+                {
+                    "Key for tables": "Pld = total games played W = total games won D = total games drawn (tied) L = total games lost GF = total goals scored (goals for) GA = total goals conceded (goals against) GD = goal difference (GF\u2212GA) Pts = total points accumulated"
+                }
+            ],
+            [
+                {
+                    "Golden Ball Award": "BRA Ronaldo",
+                    "Golden Shoe Award": "CRO Davor \u0160uker",
+                    "Yashin Award": "FRA 1974 Fabien Barthez",
+                    "FIFA Fair Play Trophy": "ENG FRA 1974",
+                    "Most Entertaining Team": "FRA 1974"
+                }
+            ],
+            [
+                {
+                    "Goalkeepers": "FRA 1974 Fabien Barthez PAR 1990 Jos\u00e9 Luis Chilavert",
+                    "Defenders": "BRA Roberto Carlos FRA 1974 Marcel Desailly FRA 1974 Lilian Thuram NED Frank de Boer PAR 1990 Carlos Gamarra",
+                    "Midfielders": "BRA Dunga BRA Rivaldo DEN Michael Laudrup FRA 1974 Zinedine Zidane NED Edgar Davids",
+                    "Forwards": "BRA Ronaldo CRO Davor \u0160uker DEN Brian Laudrup NED Dennis Bergkamp"
+                }
+            ],
+            [
+                {
+                    "": "19",
+                    "Team": "FRA 1974"
+                },
+                {
+                    "": "13",
+                    "Team": "BRA"
+                },
+                {
+                    "": "15",
+                    "Team": "CRO"
+                },
+                {
+                    "": "12",
+                    "Team": "NED"
+                },
+                {
+                    "": "Eliminated in the quarter-finals"
+                },
+                {
+                    "": "11",
+                    "Team": "ITA"
+                },
+                {
+                    "": "10",
+                    "Team": "ARG"
+                },
+                {
+                    "": "10",
+                    "Team": "GER"
+                },
+                {
+                    "": "7",
+                    "Team": "DEN"
+                },
+                {
+                    "": "Eliminated in the round of 16"
+                },
+                {
+                    "": "7",
+                    "Team": "ENG"
+                },
+                {
+                    "": "7",
+                    "Team": "FRY"
+                },
+                {
+                    "": "7",
+                    "Team": "ROU"
+                },
+                {
+                    "": "6",
+                    "Team": "NGA"
+                },
+                {
+                    "": "5",
+                    "Team": "MEX"
+                },
+                {
+                    "": "5",
+                    "Team": "PAR 1990"
+                },
+                {
+                    "": "5",
+                    "Team": "NOR"
+                },
+                {
+                    "": "3",
+                    "Team": "CHI"
+                },
+                {
+                    "": "Eliminated in the group stage"
+                },
+                {
+                    "": "4",
+                    "Team": "ESP"
+                },
+                {
+                    "": "4",
+                    "Team": "MAR"
+                },
+                {
+                    "": "3",
+                    "Team": "BEL"
+                },
+                {
+                    "": "3",
+                    "Team": "IRN"
+                },
+                {
+                    "": "3",
+                    "Team": "COL"
+                },
+                {
+                    "": "3",
+                    "Team": "JAM"
+                },
+                {
+                    "": "2",
+                    "Team": "AUT"
+                },
+                {
+                    "": "2",
+                    "Team": "RSA"
+                },
+                {
+                    "": "2",
+                    "Team": "CMR"
+                },
+                {
+                    "": "1",
+                    "Team": "TUN 1959"
+                },
+                {
+                    "": "1",
+                    "Team": "SCO"
+                },
+                {
+                    "": "1",
+                    "Team": "KSA"
+                },
+                {
+                    "": "1",
+                    "Team": "BUL"
+                },
+                {
+                    "": "1",
+                    "Team": "KOR 1997"
+                },
+                {
+                    "": "0",
+                    "Team": "JPN 1870"
+                },
+                {
+                    "": "0",
+                    "Team": "USA"
+                }
+            ],
+            [
+                {
+                    "FIFA World Cup sponsors": "Adidas Budweiser Canon Casio Coca-Cola Fujifilm Gillette ( Braun ) JVC MasterCard McDonald's Opel Philips Snickers",
+                    "France Supporters": "Air France Citro\u00ebn Cr\u00e9dit Agricole Danone France Telecom La Poste Peugeot Renault"
+                }
+            ]
+        ]
+    },
+    {
+        "title": "Golf, Florida",
+        "tables": [
+            [
+                {
+                    "Race": "White (NH)",
+                    "Pop 2010": "249",
+                    "Pop 2020": "249",
+                    "% 2010": "98.81%",
+                    "% 2020": "97.65%"
+                },
+                {
+                    "Race": "Black or African American (NH)",
+                    "Pop 2010": "1",
+                    "Pop 2020": "0",
+                    "% 2010": "0.40%",
+                    "% 2020": "0.00%"
+                },
+                {
+                    "Race": "Native American or Alaska Native (NH)",
+                    "Pop 2010": "0",
+                    "Pop 2020": "0",
+                    "% 2010": "0.00%",
+                    "% 2020": "0.00%"
+                },
+                {
+                    "Race": "Asian (NH)",
+                    "Pop 2010": "0",
+                    "Pop 2020": "2",
+                    "% 2010": "0.00%",
+                    "% 2020": "0.78%"
+                },
+                {
+                    "Race": "Pacific Islander or Native Hawaiian (NH)",
+                    "Pop 2010": "0",
+                    "Pop 2020": "0",
+                    "% 2010": "0.00%",
+                    "% 2020": "0.00%"
+                },
+                {
+                    "Race": "Some other race (NH)",
+                    "Pop 2010": "0",
+                    "Pop 2020": "0",
+                    "% 2010": "0.00%",
+                    "% 2020": "0.00%"
+                },
+                {
+                    "Race": "Two or more races/Multiracial (NH)",
+                    "Pop 2010": "0",
+                    "Pop 2020": "2",
+                    "% 2010": "0.00%",
+                    "% 2020": "0.78%"
+                },
+                {
+                    "Race": "Hispanic or Latino (any race)",
+                    "Pop 2010": "2",
+                    "Pop 2020": "2",
+                    "% 2010": "0.79%",
+                    "% 2020": "0.78%"
+                },
+                {
+                    "Race": "Total",
+                    "Pop 2010": "252",
+                    "Pop 2020": "255",
+                    "% 2010": "",
+                    "% 2020": ""
+                }
+            ]
+        ]
+    },
+    {
+        "title": "1980 Winter Olympics",
+        "tables": [
+            [],
+            [
+                {
+                    "Participating National Olympic Committees": "AND 1980 Winter 3 ARG 1980 Winter 12 AUS 1980 Winter 9 AUT 1980 Winter 43 BEL 1980 Winter 3 BOL 1980 Winter 3 BUL 1980 Winter 8 CAN 1980 Winter 58 CHN 1980 Winter 24 CRC 1980 Winter 1 CYP 1980 Winter 3 TCH 1980 Winter 41 FIN 1980 Winter 53 FRA 1980 Winter 22 GDR 1980 Winter 53 FRG 1980 Winter 80 GBR 1980 Winter 48 GRE 1980 Winter 3 HUN 1980 Winter 3 ISL 1980 Winter 6 ITA 1980 Winter 46 JPN 1980 Winter 50 KOR 1980 Winter 10 LIB 1980 Winter 3 LIE 1980 Winter 7 MGL 1980 Winter 3 NED 1980 Winter 29 NZL 1980 Winter 5 NOR 1980 Winter 63 POL 1980 Winter 30 ROU 1980 Winter 35 URS 1980 Winter 87 ESP 1980 Winter 8 SWE 1980 Winter 61 SUI 1980 Winter 44 USA 1980 Winter 101 (host) YUG 1980 Winter 15"
+                }
+            ],
+            [
+                {
+                    "IOC Letter Code": "USA",
+                    "Country": "USA 1980 Winter",
+                    "Athletes": "101"
+                },
+                {
+                    "IOC Letter Code": "URS",
+                    "Country": "URS 1980 Winter",
+                    "Athletes": "87"
+                },
+                {
+                    "IOC Letter Code": "FRG",
+                    "Country": "FRG 1980 Winter",
+                    "Athletes": "80"
+                },
+                {
+                    "IOC Letter Code": "NOR",
+                    "Country": "NOR 1980 Winter",
+                    "Athletes": "63"
+                },
+                {
+                    "IOC Letter Code": "SWE",
+                    "Country": "SWE 1980 Winter",
+                    "Athletes": "61"
+                },
+                {
+                    "IOC Letter Code": "CAN",
+                    "Country": "CAN 1980 Winter",
+                    "Athletes": "58"
+                },
+                {
+                    "IOC Letter Code": "FIN",
+                    "Country": "FIN 1980 Winter",
+                    "Athletes": "53"
+                },
+                {
+                    "IOC Letter Code": "GDR",
+                    "Country": "GDR 1980 Winter",
+                    "Athletes": "53"
+                },
+                {
+                    "IOC Letter Code": "JPN",
+                    "Country": "JPN 1980 Winter",
+                    "Athletes": "50"
+                },
+                {
+                    "IOC Letter Code": "GBR",
+                    "Country": "GBR 1980 Winter",
+                    "Athletes": "48"
+                },
+                {
+                    "IOC Letter Code": "ITA",
+                    "Country": "ITA 1980 Winter",
+                    "Athletes": "46"
+                },
+                {
+                    "IOC Letter Code": "SUI",
+                    "Country": "SUI 1980 Winter",
+                    "Athletes": "44"
+                },
+                {
+                    "IOC Letter Code": "AUT",
+                    "Country": "AUT 1980 Winter",
+                    "Athletes": "43"
+                },
+                {
+                    "IOC Letter Code": "TCH",
+                    "Country": "TCH 1980 Winter",
+                    "Athletes": "41"
+                },
+                {
+                    "IOC Letter Code": "ROU",
+                    "Country": "ROU 1980 Winter",
+                    "Athletes": "35"
+                },
+                {
+                    "IOC Letter Code": "POL",
+                    "Country": "POL 1980 Winter",
+                    "Athletes": "30"
+                },
+                {
+                    "IOC Letter Code": "NED",
+                    "Country": "NED 1980 Winter",
+                    "Athletes": "29"
+                },
+                {
+                    "IOC Letter Code": "CHN",
+                    "Country": "CHN 1980 Winter",
+                    "Athletes": "24"
+                },
+                {
+                    "IOC Letter Code": "FRA",
+                    "Country": "FRA 1980 Winter",
+                    "Athletes": "22"
+                },
+                {
+                    "IOC Letter Code": "YUG",
+                    "Country": "YUG 1980 Winter",
+                    "Athletes": "15"
+                },
+                {
+                    "IOC Letter Code": "ARG",
+                    "Country": "ARG 1980 Winter",
+                    "Athletes": "12"
+                },
+                {
+                    "IOC Letter Code": "KOR",
+                    "Country": "KOR 1980 Winter",
+                    "Athletes": "10"
+                },
+                {
+                    "IOC Letter Code": "AUS",
+                    "Country": "AUS 1980 Winter",
+                    "Athletes": "9"
+                },
+                {
+                    "IOC Letter Code": "BUL",
+                    "Country": "BUL 1980 Winter",
+                    "Athletes": "8"
+                },
+                {
+                    "IOC Letter Code": "ESP",
+                    "Country": "ESP 1980 Winter",
+                    "Athletes": "8"
+                },
+                {
+                    "IOC Letter Code": "LIE",
+                    "Country": "LIE 1980 Winter",
+                    "Athletes": "7"
+                },
+                {
+                    "IOC Letter Code": "ISL",
+                    "Country": "ISL 1980 Winter",
+                    "Athletes": "6"
+                },
+                {
+                    "IOC Letter Code": "NZL",
+                    "Country": "NZL 1980 Winter",
+                    "Athletes": "5"
+                },
+                {
+                    "IOC Letter Code": "AND",
+                    "Country": "AND 1980 Winter",
+                    "Athletes": "3"
+                },
+                {
+                    "IOC Letter Code": "BEL",
+                    "Country": "BEL 1980 Winter",
+                    "Athletes": "3"
+                },
+                {
+                    "IOC Letter Code": "BOL",
+                    "Country": "BOL 1980 Winter",
+                    "Athletes": "3"
+                },
+                {
+                    "IOC Letter Code": "CYP",
+                    "Country": "CYP 1980 Winter",
+                    "Athletes": "3"
+                },
+                {
+                    "IOC Letter Code": "GRE",
+                    "Country": "GRE 1980 Winter",
+                    "Athletes": "3"
+                },
+                {
+                    "IOC Letter Code": "HUN",
+                    "Country": "HUN 1980 Winter",
+                    "Athletes": "3"
+                },
+                {
+                    "IOC Letter Code": "LIB",
+                    "Country": "LIB 1980 Winter",
+                    "Athletes": "3"
+                },
+                {
+                    "IOC Letter Code": "MGL",
+                    "Country": "MGL 1980 Winter",
+                    "Athletes": "3"
+                },
+                {
+                    "IOC Letter Code": "CRC",
+                    "Country": "CRC 1980 Winter",
+                    "Athletes": "1"
+                },
+                {
+                    "IOC Letter Code": "Total",
+                    "Country": "1072"
+                }
+            ]
+        ]
+    },
+    {
+        "title": "Bowling Green, Florida",
+        "tables": [
+            [
+                {
+                    "Race": "White (NH)",
+                    "Pop 2010": "862",
+                    "Pop 2020": "734",
+                    "% 2010": "29.42%",
+                    "% 2020": "30.52%"
+                },
+                {
+                    "Race": "Black or African American (NH)",
+                    "Pop 2010": "289",
+                    "Pop 2020": "221",
+                    "% 2010": "9.86%",
+                    "% 2020": "9.19%"
+                },
+                {
+                    "Race": "Native American or Alaska Native (NH)",
+                    "Pop 2010": "12",
+                    "Pop 2020": "5",
+                    "% 2010": "0.41%",
+                    "% 2020": "0.21%"
+                },
+                {
+                    "Race": "Asian (NH)",
+                    "Pop 2010": "15",
+                    "Pop 2020": "2",
+                    "% 2010": "0.51%",
+                    "% 2020": "0.08%"
+                },
+                {
+                    "Race": "Pacific Islander or Native Hawaiian (NH)",
+                    "Pop 2010": "1",
+                    "Pop 2020": "0",
+                    "% 2010": "0.03%",
+                    "% 2020": "0.00%"
+                },
+                {
+                    "Race": "Some other race (NH)",
+                    "Pop 2010": "0",
+                    "Pop 2020": "4",
+                    "% 2010": "0.00%",
+                    "% 2020": "0.17%"
+                },
+                {
+                    "Race": "Two or more races/Multiracial (NH)",
+                    "Pop 2010": "41",
+                    "Pop 2020": "33",
+                    "% 2010": "1.40%",
+                    "% 2020": "1.37%"
+                },
+                {
+                    "Race": "Hispanic or Latino (any race)",
+                    "Pop 2010": "1710",
+                    "Pop 2020": "1406",
+                    "% 2010": "58.36%",
+                    "% 2020": "58.46%"
+                },
+                {
+                    "Race": "Total",
+                    "Pop 2010": "2930",
+                    "Pop 2020": "2405",
+                    "% 2010": "",
+                    "% 2020": ""
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,216 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Dover_transmitting_station",
+  "title": "Dover transmitting station",
+  "header": [
+    [
+      "Frequency",
+      []
+    ],
+    [
+      "UHF",
+      []
+    ],
+    [
+      "kW",
+      []
+    ],
+    [
+      "Operator",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "618.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "39",
+        []
+      ],
+      [
+        "2",
+        []
+      ],
+      [
+        "Arqiva ( Mux C ) \u2020",
+        [
+          "/wiki/Arqiva"
+        ]
+      ]
+    ],
+    [
+      [
+        "642.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "42",
+        []
+      ],
+      [
+        "2",
+        []
+      ],
+      [
+        "Digital 3 & 4 ( Mux 2 ) \u2020",
+        [
+          "/wiki/Digital_3&4"
+        ]
+      ]
+    ],
+    [
+      [
+        "666.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "45",
+        []
+      ],
+      [
+        "2",
+        []
+      ],
+      [
+        "BBC ( Mux 1 ) \u2020",
+        [
+          "/wiki/BBC"
+        ]
+      ]
+    ],
+    [
+      [
+        "746.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "55",
+        []
+      ],
+      [
+        "2",
+        []
+      ],
+      [
+        "Arqiva ( Mux D )",
+        []
+      ]
+    ],
+    [
+      [
+        "770.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "58",
+        []
+      ],
+      [
+        "2",
+        []
+      ],
+      [
+        "BBC ( Mux B )",
+        []
+      ]
+    ],
+    [
+      [
+        "786.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "60",
+        []
+      ],
+      [
+        "2",
+        []
+      ],
+      [
+        "SDN ( Mux A )",
+        [
+          "/wiki/S4C_Digital_Networks"
+        ]
+      ]
+    ],
+    [
+      [
+        "794.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "61",
+        []
+      ],
+      [
+        "2",
+        []
+      ],
+      [
+        "Digital 3 & 4 ( Mux 2 )",
+        []
+      ]
+    ],
+    [
+      [
+        "802.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "62",
+        []
+      ],
+      [
+        "2",
+        []
+      ],
+      [
+        "Arqiva ( Mux C )",
+        []
+      ]
+    ],
+    [
+      [
+        "850.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "68",
+        []
+      ],
+      [
+        "1",
+        []
+      ],
+      [
+        "BBC ( Mux 1 )",
+        []
+      ]
+    ]
+  ],
+  "section_title": "",
+  "section_text": "",
+  "uid": "Dover_transmitting_station_3",
+  "intro": "The Dover transmitting station is a facility for broadcasting and telecommunications, located at West Hougham, near Dover, Kent (grid reference TR274397). It has a 243.2 metres (798 ft) high guyed steel lattice mast of triangular cross section. The station is owned by Arqiva. The recommended UHF aerial group is C/D with horizontal polarisation. There is also a relay transmitter located in the town of Dover (Dover Town); in addition FM radio services are covered by the Swingate transmitting station. Along with Heathfield and Bluebell Hill, Dover transmits regional television services from BBC One South East and ITV Meridian (South East)."
+}

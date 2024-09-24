@@ -1,0 +1,302 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Berlin_U-Bahn",
+  "title": "Berlin U-Bahn",
+  "header": [
+    [
+      "Route",
+      []
+    ],
+    [
+      "Opened",
+      []
+    ],
+    [
+      "Length",
+      []
+    ],
+    [
+      "Stations",
+      []
+    ],
+    [
+      "Color",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "Uhlandstra\u00dfe - Warschauer Stra\u00dfe",
+        [
+          "/wiki/Uhlandstra\u00dfe_(Berlin_U-Bahn)",
+          "/wiki/Warschauer_Stra\u00dfe_(Berlin_U-Bahn)"
+        ]
+      ],
+      [
+        "1902-1926",
+        []
+      ],
+      [
+        "8.814 km ( 5.477 mi )",
+        []
+      ],
+      [
+        "13",
+        []
+      ],
+      [
+        "RAL 6018",
+        [
+          "/wiki/RAL_6018"
+        ]
+      ]
+    ],
+    [
+      [
+        "Pankow - Ruhleben",
+        [
+          "/wiki/Pankow_(Berlin_U-Bahn)",
+          "/wiki/Ruhleben_(Berlin_U-Bahn)"
+        ]
+      ],
+      [
+        "1902-2000",
+        []
+      ],
+      [
+        "20.716 km ( 12.872 mi )",
+        []
+      ],
+      [
+        "29",
+        []
+      ],
+      [
+        "RAL 2002",
+        [
+          "/wiki/RAL_2002"
+        ]
+      ]
+    ],
+    [
+      [
+        "Krumme Lanke - Warschauer Stra\u00dfe",
+        [
+          "/wiki/Krumme_Lanke_(Berlin_U-Bahn)",
+          "/wiki/Warschauer_Stra\u00dfe_(Berlin_U-Bahn)"
+        ]
+      ],
+      [
+        "1902-1929",
+        []
+      ],
+      [
+        "18.9 km ( 11.744 mi )",
+        []
+      ],
+      [
+        "24",
+        []
+      ],
+      [
+        "RAL 6016",
+        [
+          "/wiki/RAL_6016"
+        ]
+      ]
+    ],
+    [
+      [
+        "Nollendorfplatz - Innsbrucker Platz",
+        [
+          "/wiki/Nollendorfplatz_(Berlin_U-Bahn)",
+          "/wiki/Innsbrucker_Platz"
+        ]
+      ],
+      [
+        "1910",
+        []
+      ],
+      [
+        "2.864 km ( 1.780 mi )",
+        []
+      ],
+      [
+        "5",
+        []
+      ],
+      [
+        "RAL 1023",
+        [
+          "/wiki/RAL_1023"
+        ]
+      ]
+    ],
+    [
+      [
+        "Alexanderplatz - H\u00f6now",
+        [
+          "/wiki/Alexanderplatz_(Berlin_U-Bahn)",
+          "/wiki/H\u00f6now_(Berlin_U-Bahn)"
+        ]
+      ],
+      [
+        "1930-1989",
+        []
+      ],
+      [
+        "18.356 km ( 11.406 mi )",
+        []
+      ],
+      [
+        "20",
+        []
+      ],
+      [
+        "RAL 8007",
+        [
+          "/wiki/RAL_8007"
+        ]
+      ]
+    ],
+    [
+      [
+        "Hauptbahnhof - Brandenburger Tor",
+        [
+          "/wiki/Berlin_Hauptbahnhof",
+          "/wiki/Berlin_Brandenburger_Tor_station"
+        ]
+      ],
+      [
+        "2009",
+        []
+      ],
+      [
+        "1.470 km ( 0.913 mi )",
+        []
+      ],
+      [
+        "3",
+        []
+      ],
+      [
+        "RAL 8007",
+        [
+          "/wiki/RAL_8007"
+        ]
+      ]
+    ],
+    [
+      [
+        "Alt-Tegel - Alt-Mariendorf",
+        [
+          "/wiki/Alt-Tegel_(Berlin_U-Bahn)",
+          "/wiki/Alt-Mariendorf_(Berlin_U-Bahn)"
+        ]
+      ],
+      [
+        "1923-1966",
+        []
+      ],
+      [
+        "19.888 km ( 12.358 mi )",
+        []
+      ],
+      [
+        "29",
+        []
+      ],
+      [
+        "RAL 4005",
+        [
+          "/wiki/RAL_4005"
+        ]
+      ]
+    ],
+    [
+      [
+        "Rathaus Spandau - Rudow",
+        [
+          "/wiki/Rathaus_Spandau_(Berlin_U-Bahn)",
+          "/wiki/Rudow_(Berlin_U-Bahn)"
+        ]
+      ],
+      [
+        "1924-1984",
+        []
+      ],
+      [
+        "31.760 km ( 19.735 mi )",
+        []
+      ],
+      [
+        "40",
+        []
+      ],
+      [
+        "RAL 5012",
+        [
+          "/wiki/RAL_5012"
+        ]
+      ]
+    ],
+    [
+      [
+        "Wittenau - Hermannstra\u00dfe",
+        [
+          "/wiki/Wittenau_(Berlin_U-Bahn)",
+          "/wiki/Hermannstra\u00dfe_(Berlin_U-Bahn)"
+        ]
+      ],
+      [
+        "1927-1996",
+        []
+      ],
+      [
+        "18.042 km ( 11.211 mi )",
+        []
+      ],
+      [
+        "24",
+        []
+      ],
+      [
+        "RAL 5010",
+        [
+          "/wiki/RAL_5010"
+        ]
+      ]
+    ],
+    [
+      [
+        "Rathaus Steglitz - Osloer Stra\u00dfe",
+        [
+          "/wiki/Rathaus_Steglitz_(Berlin_U-Bahn)",
+          "/wiki/Osloer_Stra\u00dfe_(Berlin_U-Bahn)"
+        ]
+      ],
+      [
+        "1961-1976",
+        []
+      ],
+      [
+        "12.523 km ( 7.781 mi )",
+        []
+      ],
+      [
+        "18",
+        []
+      ],
+      [
+        "RAL 2003",
+        [
+          "/wiki/RAL_2003"
+        ]
+      ]
+    ]
+  ],
+  "section_title": "U-Bahn network -- Routes",
+  "section_text": "Main article : Berlin U-Bahn infrastructure The U-Bahn has ten lines :",
+  "uid": "Berlin_U-Bahn_0",
+  "intro": "The Berlin U-Bahn ([u\u02d0.ba\u02d0n]; short for Untergrundbahn, underground railway) is a rapid transit railway in Berlin, the capital city of Germany, and a major part of the city's public transport system. Together with the S-Bahn, a network of suburban train lines, and a tram network that operates mostly in the eastern parts of the city, it serves as the main means of transport in the capital. Opened in 1902, the U-Bahn serves 173 stations spread across ten lines, with a total track length of 151.7 kilometres (94.3 mi), about 80% of which is underground. Trains run every two to five minutes during peak hours, every five minutes for the rest of the day and every ten minutes in the evening. Over the course of a year, U-Bahn trains travel 132 million km (82.0 million mi), and carry over 400 million passengers. In 2017, 553.1 million passengers rode the U-Bahn. The entire system is maintained and operated by the Berliner Verkehrsbetriebe, commonly known as the BVG. Designed to alleviate traffic flowing into and out of central Berlin, the U-Bahn was rapidly expanded until the city was divided into East and West Berlin at the end of World War II. Although the system remained open to residents of both sides at first, the construction of the Berlin Wall and the subsequent restrictions imposed by the Government of East Germany limited travel across the border. The East Berlin U-Bahn lines from West Berlin were severed, except for two West Berlin lines that ran through East Berlin (U6 and U8). These were allowed to pass through East Berlin without stopping at any of the stations, which were closed. Friedrichstra\u00dfe was the exception because it was used as a transfer point between U6 and the West Berlin S-Bahn system, and a border crossing into East Berlin."
+}
